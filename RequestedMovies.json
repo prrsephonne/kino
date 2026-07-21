@@ -1,0 +1,744 @@
+{
+  "_metadata_": {
+    "streamer": "MadMan1408",
+    "lastUpdated": "18.07.2026 19:26"
+  },
+  "cross_loss": [
+    {
+      "id": 26,
+      "title": "Начало",
+      "year": "2010",
+      "type": "Фильм",
+      "runtime": "2 ч 28 мин",
+      "genres": "боевик, фантастика, приключения",
+      "studios": "🔴 Warner Bros. Pictures | 🟢 Legendary Pictures, 🟢 Syncopy",
+      "budget": "160.000.000 $",
+      "revenue": "839.030.630 $",
+      "tmdbRating": "8.372",
+      "overview": "Дом Кобб — талантливый вор, лучший из лучших в опасном искусстве извлечения: он крадёт ценные секреты из глубин подсознания во время сна, когда человеческий разум наиболее уязвим. Редкие способности Кобба сделали его ценным игроком в привычном к предательству мире промышленного шпионажа, но они же превратили его в извечного беглеца и лишили всего, что он когда-либо любил.  И вот у Кобба появляется шанс исправить ошибки. Его последнее дело может вернуть всё назад, но для этого ему нужно совершить невозможное — инициацию. Вместо идеальной кражи Кобб и его команда спецов должны будут провернуть обратное. Теперь их задача — не украсть идею, а внедрить её. Если у них получится, это и станет идеальным преступлением.  Но никакое планирование или мастерство не могут подготовить команду к встрече с опасным противником, который, кажется, предугадывает каждый их ход. Врагом, увидеть которого мог бы лишь Кобб.",
+      "dateRequested": "06.07.2026 20:03",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "poster": "https://image.tmdb.org/t/p/w500/piQXcdOGgv1O9HQ07pI0tnjkGJw.jpg",
+      "tagline": "«Твой разум – место преступления»",
+      "backdrop": "https://image.tmdb.org/t/p/original/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg",
+      "cast": [
+        {
+          "name": "Леонардо ДиКаприо",
+          "photo": "https://image.tmdb.org/t/p/w185/mkdRcVIQl4WZhDf1vXKWTD7HZrZ.jpg"
+        },
+        {
+          "name": "Джозеф Гордон-Левитт",
+          "photo": "https://image.tmdb.org/t/p/w185/z2FA8js799xqtfiFjBTicFYdfk.jpg"
+        },
+        {
+          "name": "Кэн Ватанабэ",
+          "photo": "https://image.tmdb.org/t/p/w185/psAXOYp9SBOXvg6AXzARDedNQ9P.jpg"
+        },
+        {
+          "name": "Том Харди",
+          "photo": "https://image.tmdb.org/t/p/w185/d81K0RH8UX7tZj49tZaQhZ9ewH.jpg"
+        }
+      ],
+      "director": {
+        "name": "Кристофер Нолан",
+        "photo": "https://image.tmdb.org/t/p/w185/xuAIuYSmsUzKlUMBFGVZaWsY3DZ.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=RlKr_lO45Nc",
+      "ageRating": "12+",
+      "collection": "",
+      "keywords": "mission, dreams, kidnapping, spy, allegory",
+      "userAvatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-600x600.png"
+    }
+  ],
+  "MadMan1408": [
+    {
+      "id": 2,
+      "title": "Шерлок",
+      "year": "2010",
+      "type": "Сериал",
+      "runtime": "1 ч 30 мин",
+      "genres": "криминал, драма, детектив",
+      "studios": "🟢 Hartswood Films, 🟢 BBC Cymru Wales, 🟢 Masterpiece",
+      "budget": "Нет данных",
+      "revenue": "Нет данных",
+      "tmdbRating": "8.508",
+      "overview": "Новая экранизация приключений самого известного сыщика человечества. Военный врач Джон Ватсон возвращается в родные края с войны калекой. Он в поисках недорогого жилья и ему предложили комнату в квартире на Бейкер-Стрит. Объявление дал странноватый владелец жилья, имя которого Шерлок Холмс. Неординарный ум и харизма этой загадочной личности сразу же понравились Доктору Ватсону, и он согласился на соседство. Сферой деятельности нового знакомого оказывается расследование таинственных убийств, которые происходят на улицах Лондона, а новый друг, Джон Ватсон, оказывает посильную помощь Холмсу в раскрытии преступлений. Даже когда следствие Скотланд Ядра заходит в тупик, гениальный сыщик обязательно найдет выход.",
+      "dateRequested": "07.07.2026 00:49",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "poster": "https://image.tmdb.org/t/p/w500/j1OzoewUK3fA7bjMX8oB1mwyG1P.jpg",
+      "tagline": "Новый сыщик для 21-го века.",
+      "backdrop": "https://image.tmdb.org/t/p/original/8rvLEmdI4gLrMO1rLqbNdnNcPFE.jpg",
+      "cast": [
+        {
+          "name": "Бенедикт Камбербэтч",
+          "photo": "https://image.tmdb.org/t/p/w185/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
+        },
+        {
+          "name": "Мартин Фримен",
+          "photo": "https://image.tmdb.org/t/p/w185/nrO54AzrxiNgCjBUOSz6ebyxDZY.jpg"
+        }
+      ],
+      "director": {
+        "name": "Марк Гэтисс",
+        "photo": "https://image.tmdb.org/t/p/w185/rkZKKDRbnGqqg2fjd5iPYDS4syy.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=4lDypCGRLgA",
+      "ageRating": "TV-14",
+      "collection": "",
+      "keywords": "london, england, detective, based on novel or book, workaholic, investigation",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
+      "seasons": "4",
+      "episodes": "12",
+      "tvStatus": "Ended"
+    },
+    {
+      "id": 5,
+      "title": "Симпсоны",
+      "year": "1989",
+      "type": "Мультфильм",
+      "runtime": "Неизвестно",
+      "genres": "семейный, мультфильм, комедия",
+      "studios": "🟢 Gracie Films, 🟢 20th Century Fox Television, 🟢 20th Television Animation, 🟢 20th Television",
+      "budget": "Нет данных",
+      "revenue": "Нет данных",
+      "tmdbRating": "8.019",
+      "overview": "Семейство Симпсонов — папаша Гомер, мама Мардж, дочери Лиза и маленькая Мэгги, и несносный подросток Барт — проживают в среднестатистическом городке Спрингфилд. Гомер трудится на местной атомной станции, Мардж занимается домом и детьми, любознательная Лиза отлично учится в школе, а Барт постоянно попадает во всякие переделки.",
+      "dateRequested": "06.07.2026 22:57",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "poster": "https://image.tmdb.org/t/p/w500/171yRAHGCziNjtO53sEil1PH64v.jpg",
+      "tagline": "Просто продукт общества, утратившего хорошие манеры",
+      "backdrop": "https://image.tmdb.org/t/p/original/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
+      "cast": [
+        {
+          "name": "Дэн Кастелланета",
+          "photo": "https://image.tmdb.org/t/p/w185/AmeqWhP4A46AWkM4kVphg6jOTQX.jpg"
+        },
+        {
+          "name": "Джулия Кавнер",
+          "photo": "https://image.tmdb.org/t/p/w185/87kSPYlWcHvqOVEkhdqxysiAf6w.jpg"
+        },
+        {
+          "name": "Нэнси Картрайт",
+          "photo": "https://image.tmdb.org/t/p/w185/kJQEz3NAwHGdb2sQzAnBf1RmMV4.jpg"
+        },
+        {
+          "name": "Ярдли Смит",
+          "photo": "https://image.tmdb.org/t/p/w185/9AjPwbb3uz4GfgOPBYsy2ILvwkB.jpg"
+        }
+      ],
+      "director": {
+        "name": "Мэтт Грейнинг",
+        "photo": "https://image.tmdb.org/t/p/w185/2HmAw3AN93DGESPi3ibLZgBa8cT.jpg"
+      },
+      "trailer": "",
+      "ageRating": "18+",
+      "collection": "",
+      "keywords": "nuclear power plant, middle class, cartoon, satire, parody",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
+      "seasons": "37",
+      "episodes": "801",
+      "tvStatus": "Returning Series"
+    },
+    {
+      "id": 6,
+      "title": "Маска",
+      "year": "2020",
+      "type": "Сериал",
+      "runtime": "Неизвестно",
+      "genres": "Реалити-шоу, семейный",
+      "studios": "🟢 WeiT Media",
+      "budget": "Нет данных",
+      "revenue": "Нет данных",
+      "tmdbRating": "0,0",
+      "overview": "Российская версия всемирно популярного формата The Masked Singer. В самом интригующем вокальном поединке сойдутся 12 звезд шоу-бизнеса: певцы, актеры, шоумены, ведущие и спортсмены, чьи личности будут храниться в строжайшем секрете. Участники предстанут в невероятных костюмах и масках, созданных индивидуально для каждого конкурсанта. А зрителям предстоит разгадать самую охраняемую тайну российского телевидения: кто скрывается за маской?",
+      "dateRequested": "06.07.2026 23:45",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "poster": "https://image.tmdb.org/t/p/w500/pKh0MDxUV6RngAzselWkm4jnSuv.jpg",
+      "tagline": "",
+      "backdrop": "https://image.tmdb.org/t/p/original/6eIPpKAfYiwjr4lNtgK6loRB9X6.jpg",
+      "cast": [
+        {
+          "name": "Филипп Киркоров",
+          "photo": "https://image.tmdb.org/t/p/w185/ms6beNoh9AzPenA55dizQ8PhRbj.jpg"
+        },
+        {
+          "name": "Валерия",
+          "photo": "https://image.tmdb.org/t/p/w185/99G91rrhrbaFDaSDDfcpLOWrUFH.jpg"
+        },
+        {
+          "name": "Тимур Родригез",
+          "photo": "https://image.tmdb.org/t/p/w185/6a869usqpIX5gtks4wGSMmgSETf.jpg"
+        },
+        {
+          "name": "Вячеслав Макаров",
+          "photo": "https://image.tmdb.org/t/p/w185/xWawko6BJnUk7W7y88MoetFc2N4.jpg"
+        }
+      ],
+      "director": {
+        "name": "Нет данных",
+        "photo": "https://via.placeholder.com/185x278?text=No+Photo"
+      },
+      "trailer": "https://www.youtube.com/watch?v=NsEdXdoxSB8",
+      "ageRating": "12+",
+      "collection": "",
+      "keywords": "masked",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
+      "seasons": "7",
+      "episodes": "76",
+      "tvStatus": "Returning Series"
+    },
+    {
+      "id": 7,
+      "title": "Телохранитель",
+      "year": "2005",
+      "type": "Сериал",
+      "runtime": "48 мин",
+      "genres": "драма",
+      "studios": "🟢 TV Azteca",
+      "budget": "Нет данных",
+      "revenue": "Нет данных",
+      "tmdbRating": "7,0",
+      "overview": "Его зовут Хуан Мануэль, он - сельский житель. Ее зовут Паз, она – крупная землевладелица. Он спас ей жизнь. Она хочет, чтобы он стал ее телохранителем и был с ней рядом каждую минуту. Она жаждет заполучить его любой ценой. Он не продается... но судьба вновь сводит их вместе. И теперь жизнь героев уже никогда не будет прежней. Несмотря на то, что они оба женаты и самым главным в жизни для них являются их дочери, любовь вот-вот вспыхнет между ними и будет сильнее всего на свете. Его зовут Николас Пачеко, он - профессиональный телохранитель. Ее зовут Барбара Базтеррика, она - богатая и избалованная девушка. С первого же взгляда они возненавидят друг друга... но, спустя время, полюбят, несмотря на разное социальное положение, совершенно противоположные характеры, несмотря на милую и добрую Татьяну, идеально подходящую Николасу. Она - единственная, кто может сделать его счастливым. Может быть, она еще поборется за свою любовь, может быть...",
+      "dateRequested": "07.07.2026 01:31",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "poster": "https://image.tmdb.org/t/p/w500/vU99HM3Zff6RJPP0n3OO6kfAlwF.jpg",
+      "tagline": "",
+      "backdrop": "https://image.tmdb.org/t/p/original/2gKIt8wPVylCnMfofgWzwD8H6Jm.jpg",
+      "cast": [
+        {
+          "name": "Margarita Gralia",
+          "photo": "https://via.placeholder.com/185x278?text=No+Photo"
+        },
+        {
+          "name": "Паола Нуньес",
+          "photo": "https://image.tmdb.org/t/p/w185/5k8tBBvoV43iK6u0k2YUSVXPmuK.jpg"
+        },
+        {
+          "name": "Sergio Basañez",
+          "photo": "https://via.placeholder.com/185x278?text=No+Photo"
+        },
+        {
+          "name": "Adriana Louvier",
+          "photo": "https://image.tmdb.org/t/p/w185/5f3KNlFRnQD8NwTYhRE9gTHNf1V.jpg"
+        }
+      ],
+      "director": {
+        "name": "Emilia Lamothe",
+        "photo": "https://via.placeholder.com/185x278?text=No+Photo"
+      },
+      "trailer": "",
+      "ageRating": "Нет данных",
+      "collection": "",
+      "keywords": "romance, telenovela",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
+      "seasons": "1",
+      "episodes": "236",
+      "tvStatus": "Ended"
+    },
+    {
+      "id": 9,
+      "title": "Дракула",
+      "year": "2025",
+      "type": "Фильм",
+      "runtime": "2 ч 9 мин",
+      "genres": "ужасы, фэнтези, мелодрама",
+      "studios": "🟢 EuropaCorp, 🟢 TF1 Films Production, 🟢 SND, 🟢 Kinology, 🟢 Actarus Productions, 🟢 Luc Besson Production",
+      "budget": "52.000.000 $",
+      "revenue": "42.404.858 $",
+      "tmdbRating": "7.186",
+      "overview": "Конец XV века, Восточная Европа. Принц Влад II живет лишь ради любви к жене, принцессе Елизавете. Когда долг зовёт его на поле боя сдерживать турецкое нашествие, он просит бога лишь об одном — во время войны сохранить жизнь его жене. Но Елизавета гибнет, а разгневанный на бога Влад отрекается от него. 400 лет спустя. Священник особого ордена осматривает оказавшуюся в психиатрической лечебнице вампиршу, а тем временем адвокат из Парижа прибывает в замок принца Влада, который начинает рассказывать ему свою грустную историю любви.",
+      "dateRequested": "06.07.2026 21:33",
+      "status": "Смотрели",
+      "ourRating": "9",
+      "poster": "https://image.tmdb.org/t/p/w500/uGBzzmT4ao9efhRjjPqPnwt6qpo.jpg",
+      "tagline": "«Он отрёкся от веры, чтобы стать бессмертным»",
+      "backdrop": "https://image.tmdb.org/t/p/original/be5SIsRGMckO8tU9lrLcIik70Dy.jpg",
+      "cast": [
+        {
+          "name": "Калеб Лэндри Джонс",
+          "photo": "https://image.tmdb.org/t/p/w185/8M5lPHrERwAIfWK56RkH30FOjhV.jpg"
+        },
+        {
+          "name": "Зои Блю",
+          "photo": "https://image.tmdb.org/t/p/w185/1FsS1gMWe11AWmMst2NubiwrxtF.jpg"
+        },
+        {
+          "name": "Кристоф Вальц",
+          "photo": "https://image.tmdb.org/t/p/w185/jMvLGCVXLaBqjRLf5olyvEucZob.jpg"
+        },
+        {
+          "name": "Матильда де Анджелис",
+          "photo": "https://image.tmdb.org/t/p/w185/xL6Ky35uDDz9L4qWkMF2cTjGkbn.jpg"
+        }
+      ],
+      "director": {
+        "name": "Люк Бессон",
+        "photo": "https://image.tmdb.org/t/p/w185/dXJdczT1NcvcZtnoWVGT0NmG11v.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=9ZV0TaSpiG8",
+      "ageRating": "18+",
+      "collection": "",
+      "keywords": "paris, france, vampire, beheading, parfum, gargoyle",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
+      "dateWatched": "12.07.2026 22:14",
+      "cried": true
+    },
+    {
+      "id": 10,
+      "title": "Евротур",
+      "year": "2004",
+      "type": "Фильм",
+      "runtime": "1 ч 30 мин",
+      "genres": "комедия",
+      "studios": "🟢 The Montecito Picture Company, 🟢 Blue Sea Productions",
+      "budget": "25.000.000 $",
+      "revenue": "22.605.153 $",
+      "tmdbRating": "6.62",
+      "overview": "Выпускнику школы Скотту Томасу нужна помощь в изучении немецкого языка, поэтому он знакомится с жителем Германии по имени Майк и начинает с ним дружескую переписку. Причём Скотт абсолютно уверен, что Майк — это парень, и делится с ним своими переживаниями и проблемами, которые возникают у него с девушкой. Но в конце концов Скотт узнаёт, что Майк, точнее Мике — это обворожительная блондинка, которой Скотт очень понравился. И теперь он сделает всё, чтобы увидеться с Мике, даже совершит путешествие по Европе.",
+      "dateRequested": "13.07.2026 16:59",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false,
+      "poster": "https://image.tmdb.org/t/p/w500/pyNDzXP4UCYz4vDb9ZKaRplumRt.jpg",
+      "tagline": "«Ни один европеец не пострадал при съёмках этого фильма»",
+      "backdrop": "https://image.tmdb.org/t/p/original/fuKb0cuIU9DpUhHrN0ycoFmr63e.jpg",
+      "cast": [
+        {
+          "name": "Скотт Мекловиц",
+          "photo": "https://image.tmdb.org/t/p/w185/2PMsSnuukuRmHCKcQqqCnD0MIN8.jpg"
+        },
+        {
+          "name": "Джейкоб Питтс",
+          "photo": "https://image.tmdb.org/t/p/w185/hSgGV6HNDk9GHObRkOGyFue0WUu.jpg"
+        },
+        {
+          "name": "Мишель Трахтенберг",
+          "photo": "https://image.tmdb.org/t/p/w185/bEGPyRINNJ6YkrLAaVguwkJXOfO.jpg"
+        },
+        {
+          "name": "Трэвис Вэстер",
+          "photo": "https://image.tmdb.org/t/p/w185/hg6T7SuR67Cb9CKXhbrVBj1H1gz.jpg"
+        }
+      ],
+      "director": {
+        "name": "Джефф Шеффер",
+        "photo": "https://image.tmdb.org/t/p/w185/zjGUb5c4k6UiM3lyOwNk7GS04ED.jpg"
+      },
+      "trailer": "",
+      "ageRating": "R",
+      "collection": "",
+      "keywords": "berlin, germany, paris, france, alcohol, pen pals, travel",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png"
+    },
+    {
+      "title": "Тёмный рыцарь",
+      "year": "2008",
+      "type": "Фильм",
+      "runtime": "2 ч 32 мин",
+      "genres": "боевик, криминал, триллер",
+      "studios": "🔴 Warner Bros. Pictures | 🟢 Legendary Pictures, 🟢 Syncopy, 🟢 DC",
+      "budget": "185.000.000 $",
+      "revenue": "1.004.558.444 $",
+      "tmdbRating": "8.532",
+      "overview": "Бэтмен поднимает ставки в войне с криминалом. С помощью лейтенанта Джима Гордона и прокурора Харви Дента он намерен очистить улицы от преступности, отравляющей город. Сотрудничество оказывается эффективным, но скоро они обнаружат себя посреди хаоса, развязанного восходящим криминальным гением, известным испуганным горожанам под именем Джокер.",
+      "poster": "https://image.tmdb.org/t/p/w500/aPtN76OjnNKLqCJ2FJBnQOIL031.jpg",
+      "tagline": "«Добро пожаловать в мир Хаоса!»",
+      "backdrop": "https://image.tmdb.org/t/p/original/dqK9Hag1054tghRQSqLSfrkvQnA.jpg",
+      "cast": [
+        {
+          "name": "Кристиан Бейл",
+          "photo": "https://image.tmdb.org/t/p/w185/7Pxez9J8fuPd2Mn9kex13YALrCQ.jpg"
+        },
+        {
+          "name": "Хит Леджер",
+          "photo": "https://image.tmdb.org/t/p/w185/AdWKVqyWpkYSfKE5Gb2qn8JzHni.jpg"
+        },
+        {
+          "name": "Аарон Екгарт",
+          "photo": "https://image.tmdb.org/t/p/w185/u5JjnRMr9zKEVvOP7k3F6gdcwT6.jpg"
+        },
+        {
+          "name": "Майкл Кейн",
+          "photo": "https://image.tmdb.org/t/p/w185/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg"
+        }
+      ],
+      "director": {
+        "name": "Кристофер Нолан",
+        "photo": "https://image.tmdb.org/t/p/w185/xuAIuYSmsUzKlUMBFGVZaWsY3DZ.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=HF1_epZNoCg",
+      "ageRating": "12+",
+      "keywords": "sadism, chaos, secret identity, crime fighter, superhero",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
+      "collection": "Тёмный рыцарь (Коллекция)",
+      "id": 16,
+      "dateRequested": "15.07.2026 13:22",
+      "status": "Смотрели",
+      "ourRating": "4",
+      "cried": false,
+      "isAuction": false,
+      "dateWatched": "17.07.2026 23:44"
+    }
+  ],
+  "weenniee": [
+    {
+      "id": 11,
+      "title": "Любовь без пересадок",
+      "year": "2013",
+      "type": "Фильм",
+      "runtime": "1 ч 36 мин",
+      "genres": "комедия, мелодрама",
+      "studios": "🟢 Universal Pictures International",
+      "budget": "Нет данных",
+      "revenue": "7.636 $",
+      "tmdbRating": "5.943",
+      "overview": "Преуспевающий адвокат Антуан никогда не знал недостатка в женском внимании. Отправляясь по делам из Нью-Йорка в Париж, в самолете он оказывается в соседнем кресле с бывшей подругой Джули. Обреченные провести вместе семь долгих часов бывшие любовники успевают вспомнить былые обиды, все неприятности, доставленные друг другу, и понять, что их разрыв был ошибкой. Но успеют ли они эту ошибку исправить?",
+      "dateRequested": "12.07.2026 19:14",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "poster": "https://image.tmdb.org/t/p/w500/8d6RPdb0sIBDRCUayeIixIsgAzg.jpg",
+      "tagline": "«Любовь - это полёт. Пристегните ремни!»",
+      "backdrop": "https://image.tmdb.org/t/p/original/mOzQklElA7ZBg3dSniCG7Npot7U.jpg",
+      "cast": [
+        {
+          "name": "Людивин Санье",
+          "photo": "https://image.tmdb.org/t/p/w185/hd4fLjgtgNEidJOjuLNGfK1sOhm.jpg"
+        },
+        {
+          "name": "Nicolas Bedos",
+          "photo": "https://image.tmdb.org/t/p/w185/ex2aJiAGKGwpcAjKG6Ny108sab7.jpg"
+        },
+        {
+          "name": "Джонатан Коэн",
+          "photo": "https://image.tmdb.org/t/p/w185/T7ucGNWUDsRRXrjjVfY3uhPfMq.jpg"
+        },
+        {
+          "name": "Арно Дюкре",
+          "photo": "https://image.tmdb.org/t/p/w185/k4wixf8xKSym0GTcYFRov6PgEj7.jpg"
+        }
+      ],
+      "director": {
+        "name": "Alexandre Castagnetti",
+        "photo": "https://image.tmdb.org/t/p/w185/5qPYpnAs9xz7u7QbYuMr8khnv7Y.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=Gsz-a7sJtqk",
+      "ageRating": "16+",
+      "collection": "",
+      "keywords": "romance",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3038f83-6f62-49b4-932b-4c70d7a151ca-profile_image-600x600.png"
+    },
+    {
+      "id": 12,
+      "title": "Ла-Ла Ленд",
+      "year": "2016",
+      "type": "Фильм",
+      "runtime": "2 ч 9 мин",
+      "genres": "комедия, драма, мелодрама",
+      "studios": "🟢 Summit Entertainment, 🟢 Gilbert Films, 🟢 Impostor Pictures, 🟢 Marc Platt Productions",
+      "budget": "30.000.000 $",
+      "revenue": "509.183.536 $",
+      "tmdbRating": "7.898",
+      "overview": "История любви старлетки, которая между прослушиваниями подаёт кофе состоявшимся кинозвёздам, и фанатичного джазового музыканта, вынужденного подрабатывать в заштатных барах. Но пришедший к влюблённым успех, начинает подтачивать их отношения…",
+      "dateRequested": "13.07.2026 02:04",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": true,
+      "poster": "https://image.tmdb.org/t/p/w500/g7f8GdnJKS0Z3QJ5G6P9BZrqs36.jpg",
+      "tagline": "«Бесстрашным Мечтателям Посвящается»",
+      "backdrop": "https://image.tmdb.org/t/p/original/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg",
+      "cast": [
+        {
+          "name": "Райан Гослинг",
+          "photo": "https://image.tmdb.org/t/p/w185/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg"
+        },
+        {
+          "name": "Эмма Стоун",
+          "photo": "https://image.tmdb.org/t/p/w185/t7EYLBMWQiIDtCoOYZjvqXV84S5.jpg"
+        },
+        {
+          "name": "Джон Ледженд",
+          "photo": "https://image.tmdb.org/t/p/w185/cCv0YBy2YFFWp9h3kvNPmwWwrCD.jpg"
+        },
+        {
+          "name": "Розмари Деуитт",
+          "photo": "https://image.tmdb.org/t/p/w185/44sxIdGtYN24R14OmnZbCpcd8J8.jpg"
+        }
+      ],
+      "director": {
+        "name": "Дэмьен Шазелл",
+        "photo": "https://image.tmdb.org/t/p/w185/14kRZ3XxNMyBv717YQSXr3wCucy.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=0goIewtcLU0",
+      "ageRating": "16+",
+      "collection": "",
+      "keywords": "dancing, dance, jazz, melancholy, musical",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3038f83-6f62-49b4-932b-4c70d7a151ca-profile_image-600x600.png"
+    }
+  ],
+  "maaminaa": [
+    {
+      "id": 14,
+      "title": "Драйв",
+      "year": "2025",
+      "type": "Фильм",
+      "runtime": "1 ч 42 мин",
+      "genres": "комедия",
+      "studios": "🟢 AGC Studios, 🟢 Jonas Pate, 🟢 TFC Productions, 🟢 BondIt Media Capital",
+      "budget": "Нет данных",
+      "revenue": "Нет данных",
+      "tmdbRating": "6.79",
+      "overview": "Подросток угоняет школьную учебную машину и вместе с друзьями отправляется в безумное дорожное путешествие через полстраны, чтобы успеть к девушке, которая вот-вот может стать для него просто воспоминанием.",
+      "dateRequested": "13.07.2026 17:01",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": true,
+      "poster": "https://image.tmdb.org/t/p/w500/hHbzSzjJnmcq02l2razSScBEVBf.jpg",
+      "tagline": "",
+      "backdrop": "https://image.tmdb.org/t/p/original/3fs6Encf71ChabAKV6VrnpQRrjV.jpg",
+      "cast": [
+        {
+          "name": "Sam Nivola",
+          "photo": "https://image.tmdb.org/t/p/w185/4EL6gTYGkmrjZo7hBjDemut3m1Q.jpg"
+        },
+        {
+          "name": "Sophie Telegadis",
+          "photo": "https://image.tmdb.org/t/p/w185/tFupUcQJ5gNyOFkAiIW2cRcNqJ7.jpg"
+        },
+        {
+          "name": "Mohana Krishnan",
+          "photo": "https://image.tmdb.org/t/p/w185/4utuJbEgmnbQdFmoRQg3Dsk14LF.jpg"
+        },
+        {
+          "name": "Эйдан Лапрет",
+          "photo": "https://image.tmdb.org/t/p/w185/ipfzLeDycmV9qqpiyN4yzGj8Ure.jpg"
+        }
+      ],
+      "director": {
+        "name": "Bobby Farrelly",
+        "photo": "https://image.tmdb.org/t/p/w185/i5mt42m2MjMpFVrVYlYmp5ylLDy.jpg"
+      },
+      "trailer": "",
+      "ageRating": "Нет данных",
+      "collection": "",
+      "keywords": "",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/7b108410-73a6-428c-9faf-56fd0dbcbbc6-profile_image-600x600.png"
+    }
+  ],
+  "prrsephonne": [
+    {
+      "title": "Шиттс Крик",
+      "year": "2015",
+      "type": "Сериал",
+      "runtime": "22 мин",
+      "genres": "комедия",
+      "studios": "🟢 Not A Real Company, 🟢 CBC",
+      "budget": "Нет данных",
+      "revenue": "Нет данных",
+      "tmdbRating": "7.783",
+      "overview": "Сериал рассказывает о семействе Роузов: Джонни Роуз — миллиардер, сделавший состояние на сети видеосалонов, его жена — актриса мыльных опер и двое детей — хипстер Дэвид и светская львица Алексис.\n\nПосле того, как бизнес Джонни терпит крах, все семейство вынуждено переехать жить в небольшую сельскую общину Шиттс Крик, которую они приобрели несколько лет назад развлечения ради.",
+      "poster": "https://image.tmdb.org/t/p/w500/11tttftJDToWyXJNIJl8qnUuTUb.jpg",
+      "tagline": "",
+      "backdrop": "https://image.tmdb.org/t/p/original/ftNmVV8LuNVmtB8mzoUTucozVKE.jpg",
+      "cast": [
+        {
+          "name": "Юджин Леви",
+          "photo": "https://image.tmdb.org/t/p/w185/epZE1ZohKhEFCdCKYFyvtJEj0I7.jpg"
+        },
+        {
+          "name": "Кэтрин О’Хара",
+          "photo": "https://image.tmdb.org/t/p/w185/gI2RyymLJ9ZrhEyJSD5EqSvFpCX.jpg"
+        },
+        {
+          "name": "Дэн Леви",
+          "photo": "https://image.tmdb.org/t/p/w185/2O9KqgCLHHMw5xmUpNexfWr2QVA.jpg"
+        },
+        {
+          "name": "Энни Мерфи",
+          "photo": "https://image.tmdb.org/t/p/w185/1cQ9Piq6kcTzmzJ9I4oGd7oFEdS.jpg"
+        }
+      ],
+      "director": {
+        "name": "Юджин Леви",
+        "photo": "https://image.tmdb.org/t/p/w185/epZE1ZohKhEFCdCKYFyvtJEj0I7.jpg"
+      },
+      "trailer": "",
+      "ageRating": "TV-14",
+      "keywords": "small town, motel, spoiled child, riches to rags, spoiled",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1a779f10-8b2e-4a2a-a3a2-1b9632594139-profile_image-600x600.png",
+      "collection": "",
+      "seasons": "6",
+      "episodes": "79",
+      "tvStatus": "Ended",
+      "id": 1,
+      "dateRequested": "18.07.2026 19:26",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false
+    }
+  ],
+  "cherteya": [
+    {
+      "id": 13,
+      "title": "Стрелок",
+      "year": "1958",
+      "type": "Сериал",
+      "runtime": "30 мин",
+      "genres": "Боевик и Приключения, вестерн, семейный",
+      "studios": "🟢 Four Stars Productions",
+      "budget": "Нет данных",
+      "revenue": "Нет данных",
+      "tmdbRating": "7.1",
+      "overview": "",
+      "dateRequested": "13.07.2026 13:13",
+      "status": "Смотрели",
+      "ourRating": "4",
+      "cried": true,
+      "isAuction": true,
+      "poster": "https://image.tmdb.org/t/p/w500/tYf5Sc83chWG2nBlo5xKdpBBwlI.jpg",
+      "tagline": "",
+      "backdrop": "https://image.tmdb.org/t/p/original/4zZ0VjYxGERjhf5FdTuB0Y215Pi.jpg",
+      "cast": [
+        {
+          "name": "Чак Коннорс",
+          "photo": "https://image.tmdb.org/t/p/w185/6RfyJxavZhtMR3zLiUwg9M30GmG.jpg"
+        },
+        {
+          "name": "Johnny Crawford",
+          "photo": "https://image.tmdb.org/t/p/w185/osonXywvOUJjGh8ykF9dOD2eR72.jpg"
+        },
+        {
+          "name": "Paul Fix",
+          "photo": "https://image.tmdb.org/t/p/w185/1CTVXkgurzEYeFaJDuuIODaZvFu.jpg"
+        }
+      ],
+      "director": {
+        "name": "Sam Peckinpah",
+        "photo": "https://image.tmdb.org/t/p/w185/hXrHVHdNivFu8dMbyp40ds5YXYD.jpg"
+      },
+      "trailer": "",
+      "ageRating": "TV-PG",
+      "collection": "",
+      "keywords": "widower",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9516543b-5c76-45bf-9c93-4dc2a25939c8-profile_image-600x600.png",
+      "seasons": "5",
+      "episodes": "168",
+      "tvStatus": "Ended",
+      "dateWatched": "18.07.2026 19:04"
+    }
+  ],
+  "di_rubens": [
+    {
+      "title": "Гладиатор",
+      "year": "2000",
+      "type": "Фильм",
+      "runtime": "2 ч 35 мин",
+      "genres": "боевик, драма, приключения",
+      "studios": "🟢 Universal Pictures, 🟢 Scott Free Productions, 🟢 Red Wagon Entertainment, 🟢 Mill Film, 🟢 DreamWorks Pictures",
+      "budget": "103.000.000 $",
+      "revenue": "465.516.248 $",
+      "tmdbRating": "8.228",
+      "overview": "Римская империя. Бесстрашного и благородного генерала Максимуса боготворят солдаты, а старый император Марк Аврелий безгранично доверяет ему и относится как к сыну. Однако опытный воин, готовый сразиться с любым противником в честном бою, оказывается бессильным перед коварными придворными интригами. Коммод, сын Марка Аврелия, убивает отца, который планировал сделать преемником не его, а Максимуса, и захватывает власть. Решив избавиться от опасного соперника, который к тому же отказывается присягнуть ему на верность, Коммод отдаёт приказ убить Максимуса и всю его семью. Чудом выжив, но не сумев спасти близких, Максимус попадает в плен к работорговцу, который продаёт его организатору гладиаторских боёв Проксимо. Так легендарный полководец становится гладиатором. Но вскоре ему представится шанс встретиться со своим смертельным врагом лицом к лицу.",
+      "poster": "https://image.tmdb.org/t/p/w500/1wjNqlfsuHNTXTpCt2ZOV2iPxaf.jpg",
+      "tagline": "«Генерал, ставший рабом. Раб, ставший гладиатором. Гладиатор, бросивший вызов империи»",
+      "backdrop": "https://image.tmdb.org/t/p/original/jhk6D8pim3yaByu1801kMoxXFaX.jpg",
+      "cast": [
+        {
+          "name": "Рассел Кроу",
+          "photo": "https://image.tmdb.org/t/p/w185/uxiXuVH4vNWrKlJMVVPG1sxAJFe.jpg"
+        },
+        {
+          "name": "Хоакин Феникс",
+          "photo": "https://image.tmdb.org/t/p/w185/u38k3hQBDwNX0VA22aQceDp9Iyv.jpg"
+        },
+        {
+          "name": "Конни Нильсен",
+          "photo": "https://image.tmdb.org/t/p/w185/gSQ3O3PJ6ly6nT63joOtfZyscFP.jpg"
+        },
+        {
+          "name": "Оливер Рид",
+          "photo": "https://image.tmdb.org/t/p/w185/dWfotc1X71wNCGyPO9hXpv8U9Gw.jpg"
+        }
+      ],
+      "director": {
+        "name": "Ридли Скотт",
+        "photo": "https://image.tmdb.org/t/p/w185/97SO7H0UlS3racqjeW5JTy8c6GM.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=k702zvK2zQg",
+      "ageRating": "16+",
+      "keywords": "gladiator, rome, italy, arena, senate, roman empire",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/0a829c8a-f2ca-4cee-b773-380fc8b5bfc7-profile_image-600x600.png",
+      "collection": "Гладиатор (Коллекция)",
+      "id": 8,
+      "dateRequested": "15.07.2026 13:26",
+      "status": "Смотрели",
+      "ourRating": "6",
+      "cried": true,
+      "isAuction": true,
+      "dateWatched": "17.07.2026 23:45"
+    }
+  ],
+  "sabastat_": [
+    {
+      "id": 15,
+      "title": "Ходячие мертвецы",
+      "year": "2010",
+      "type": "Сериал",
+      "runtime": "Неизвестно",
+      "genres": "Боевик и Приключения, драма, НФ и Фэнтези",
+      "studios": "🟢 AMC Studios, 🟢 Circle of Confusion, 🟢 Valhalla Motion Pictures, 🟢 Darkwoods Productions, 🟢 Skybound Entertainment, 🟢 Idiotbox",
+      "budget": "Нет данных",
+      "revenue": "Нет данных",
+      "tmdbRating": "8.086",
+      "overview": "Заместитель шерифа Рик Граймс просыпается от комы и обнаруживает, что мир после апокалипсиса захватили плотоядные зомби. Он отправляется на поиски своей семьи и по пути встречает многих других выживших.",
+      "dateRequested": "12.07.2026 22:13",
+      "status": "Смотрели",
+      "ourRating": "7",
+      "cried": true,
+      "isAuction": true,
+      "poster": "https://image.tmdb.org/t/p/w500/3metsxLVhlJU0mNj5gVfKIih0EF.jpg",
+      "tagline": "Сражайся с мертвецами. Бойся живых",
+      "backdrop": "https://image.tmdb.org/t/p/original/rAOjnEFTuNysY7bot8zonhImGMh.jpg",
+      "cast": [
+        {
+          "name": "Лорен Коэн",
+          "photo": "https://image.tmdb.org/t/p/w185/zJ9nZ5jqQTUD55GLKbgfiKlUoBN.jpg"
+        },
+        {
+          "name": "Норман Ридус",
+          "photo": "https://image.tmdb.org/t/p/w185/ozHPdO5jAt7ozzdZUgyRAMNPSDW.jpg"
+        },
+        {
+          "name": "Джеффри Дин Морган",
+          "photo": "https://image.tmdb.org/t/p/w185/m8bdrmh6ExDCGQ64E83mHg002YV.jpg"
+        },
+        {
+          "name": "Мелисса МакБрайд",
+          "photo": "https://image.tmdb.org/t/p/w185/2omPfeMdnicJqqvgKAU2iqVyD4Z.jpg"
+        }
+      ],
+      "director": {
+        "name": "Фрэнк Дарабонт",
+        "photo": "https://image.tmdb.org/t/p/w185/vZ50guP86otYTiBSGfi35GNHWVf.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=Qw7gqcIc1BQ",
+      "ageRating": "TV-MA",
+      "collection": "",
+      "keywords": "post-apocalyptic future, gore, undead, survival, zombie",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1a659533-cce8-4d1f-b21b-4aa24f85b890-profile_image-600x600.png",
+      "seasons": "11",
+      "episodes": "177",
+      "tvStatus": "Ended",
+      "dateWatched": "13.07.2026 01:01"
+    }
+  ]
+}
