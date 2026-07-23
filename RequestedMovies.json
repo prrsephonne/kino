@@ -152,56 +152,6 @@
       "dateWatched": "17.07.2026 23:44"
     }
   ],
-  "maaminaa": [
-    {
-      "id": 14,
-      "title": "Драйв",
-      "year": "2025",
-      "type": "Фильм",
-      "runtime": "1 ч 42 мин",
-      "genres": "комедия",
-      "studios": "🟢 AGC Studios, 🟢 Jonas Pate, 🟢 TFC Productions, 🟢 BondIt Media Capital",
-      "budget": "Нет данных",
-      "revenue": "Нет данных",
-      "tmdbRating": "6.79",
-      "overview": "Подросток угоняет школьную учебную машину и вместе с друзьями отправляется в безумное дорожное путешествие через полстраны, чтобы успеть к девушке, которая вот-вот может стать для него просто воспоминанием.",
-      "dateRequested": "13.07.2026 17:01",
-      "status": "Не смотрели",
-      "ourRating": "Без оценки",
-      "cried": false,
-      "isAuction": true,
-      "poster": "https://image.tmdb.org/t/p/w500/hHbzSzjJnmcq02l2razSScBEVBf.jpg",
-      "tagline": "",
-      "backdrop": "https://image.tmdb.org/t/p/original/3fs6Encf71ChabAKV6VrnpQRrjV.jpg",
-      "cast": [
-        {
-          "name": "Sam Nivola",
-          "photo": "https://image.tmdb.org/t/p/w185/4EL6gTYGkmrjZo7hBjDemut3m1Q.jpg"
-        },
-        {
-          "name": "Sophie Telegadis",
-          "photo": "https://image.tmdb.org/t/p/w185/tFupUcQJ5gNyOFkAiIW2cRcNqJ7.jpg"
-        },
-        {
-          "name": "Mohana Krishnan",
-          "photo": "https://image.tmdb.org/t/p/w185/4utuJbEgmnbQdFmoRQg3Dsk14LF.jpg"
-        },
-        {
-          "name": "Эйдан Лапрет",
-          "photo": "https://image.tmdb.org/t/p/w185/ipfzLeDycmV9qqpiyN4yzGj8Ure.jpg"
-        }
-      ],
-      "director": {
-        "name": "Bobby Farrelly",
-        "photo": "https://image.tmdb.org/t/p/w185/i5mt42m2MjMpFVrVYlYmp5ylLDy.jpg"
-      },
-      "trailer": "",
-      "ageRating": "Нет данных",
-      "collection": "",
-      "keywords": "",
-      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/7b108410-73a6-428c-9faf-56fd0dbcbbc6-profile_image-600x600.png"
-    }
-  ],
   "di_rubens": [
     {
       "title": "Малхолланд Драйв",
@@ -306,6 +256,7 @@
       "isAuction": false
     }
   ],
+  "maaminaa": [],
   "cross_loss": [],
   "cherteya": [
     {
