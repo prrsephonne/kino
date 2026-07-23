@@ -1,58 +1,9 @@
 {
   "_metadata_": {
     "streamer": "prrsephonne",
-    "lastUpdated": "23.07.2026 21:54"
+    "lastUpdated": "23.07.2026 21:57"
   },
   "MadMan1408": [
-    {
-      "id": 5,
-      "title": "Симпсоны",
-      "year": "1989",
-      "type": "Мультфильм",
-      "runtime": "Неизвестно",
-      "genres": "семейный, мультфильм, комедия",
-      "studios": "🟢 Gracie Films, 🟢 20th Century Fox Television, 🟢 20th Television Animation, 🟢 20th Television",
-      "budget": "Нет данных",
-      "revenue": "Нет данных",
-      "tmdbRating": "8.019",
-      "overview": "Семейство Симпсонов — папаша Гомер, мама Мардж, дочери Лиза и маленькая Мэгги, и несносный подросток Барт — проживают в среднестатистическом городке Спрингфилд. Гомер трудится на местной атомной станции, Мардж занимается домом и детьми, любознательная Лиза отлично учится в школе, а Барт постоянно попадает во всякие переделки.",
-      "dateRequested": "06.07.2026 22:57",
-      "status": "Не смотрели",
-      "ourRating": "Без оценки",
-      "poster": "https://image.tmdb.org/t/p/w500/171yRAHGCziNjtO53sEil1PH64v.jpg",
-      "tagline": "Просто продукт общества, утратившего хорошие манеры",
-      "backdrop": "https://image.tmdb.org/t/p/original/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
-      "cast": [
-        {
-          "name": "Дэн Кастелланета",
-          "photo": "https://image.tmdb.org/t/p/w185/AmeqWhP4A46AWkM4kVphg6jOTQX.jpg"
-        },
-        {
-          "name": "Джулия Кавнер",
-          "photo": "https://image.tmdb.org/t/p/w185/87kSPYlWcHvqOVEkhdqxysiAf6w.jpg"
-        },
-        {
-          "name": "Нэнси Картрайт",
-          "photo": "https://image.tmdb.org/t/p/w185/kJQEz3NAwHGdb2sQzAnBf1RmMV4.jpg"
-        },
-        {
-          "name": "Ярдли Смит",
-          "photo": "https://image.tmdb.org/t/p/w185/9AjPwbb3uz4GfgOPBYsy2ILvwkB.jpg"
-        }
-      ],
-      "director": {
-        "name": "Мэтт Грейнинг",
-        "photo": "https://image.tmdb.org/t/p/w185/2HmAw3AN93DGESPi3ibLZgBa8cT.jpg"
-      },
-      "trailer": "",
-      "ageRating": "18+",
-      "collection": "",
-      "keywords": "nuclear power plant, middle class, cartoon, satire, parody",
-      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
-      "seasons": "37",
-      "episodes": "801",
-      "tvStatus": "Returning Series"
-    },
     {
       "id": 6,
       "title": "Маска",
