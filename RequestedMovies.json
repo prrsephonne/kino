@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "prrsephonne",
-    "lastUpdated": "24.07.2026 00:12"
+    "lastUpdated": "24.07.2026 01:01"
   },
   "prrsephonne": [
     {
@@ -47,10 +47,11 @@
       "collection": "",
       "id": 1,
       "dateRequested": "23.07.2026 22:08",
-      "status": "Не смотрели",
+      "status": "Смотрели",
       "ourRating": "Без оценки",
       "cried": false,
-      "isAuction": false
+      "isAuction": false,
+      "dateWatched": "24.07.2026 00:12"
     },
     {
       "title": "Судзумэ, закрывающая двери",
@@ -95,10 +96,11 @@
       "collection": "",
       "id": 2,
       "dateRequested": "23.07.2026 22:09",
-      "status": "Не смотрели",
+      "status": "Смотрели",
       "ourRating": "Без оценки",
       "cried": false,
-      "isAuction": false
+      "isAuction": false,
+      "dateWatched": "24.07.2026 00:12"
     },
     {
       "title": "Тоннель в лето, выход прощаний",
@@ -143,10 +145,11 @@
       "collection": "",
       "id": 3,
       "dateRequested": "23.07.2026 22:10",
-      "status": "Не смотрели",
+      "status": "Смотрели",
       "ourRating": "Без оценки",
       "cried": false,
-      "isAuction": false
+      "isAuction": false,
+      "dateWatched": "24.07.2026 00:12"
     },
     {
       "title": "Здравствуй, мир",
@@ -191,10 +194,11 @@
       "collection": "",
       "id": 4,
       "dateRequested": "23.07.2026 22:11",
-      "status": "Не смотрели",
+      "status": "Смотрели",
       "ourRating": "Без оценки",
       "cried": false,
-      "isAuction": false
+      "isAuction": false,
+      "dateWatched": "24.07.2026 00:12"
     },
     {
       "title": "Космическая принцесса Кагуя!",
@@ -239,10 +243,11 @@
       "collection": "",
       "id": 5,
       "dateRequested": "23.07.2026 22:26",
-      "status": "Не смотрели",
+      "status": "Смотрели",
       "ourRating": "Без оценки",
       "cried": false,
-      "isAuction": false
+      "isAuction": false,
+      "dateWatched": "24.07.2026 00:12"
     },
     {
       "title": "Планета сокровищ",
@@ -287,10 +292,11 @@
       "collection": "",
       "id": 6,
       "dateRequested": "23.07.2026 22:27",
-      "status": "Не смотрели",
+      "status": "Смотрели",
       "ourRating": "Без оценки",
       "cried": false,
-      "isAuction": false
+      "isAuction": false,
+      "dateWatched": "24.07.2026 00:12"
     },
     {
       "title": "Парни со стволами",
@@ -335,10 +341,11 @@
       "collection": "",
       "id": 7,
       "dateRequested": "23.07.2026 22:27",
-      "status": "Не смотрели",
+      "status": "Смотрели",
       "ourRating": "Без оценки",
       "cried": false,
-      "isAuction": false
+      "isAuction": false,
+      "dateWatched": "24.07.2026 00:12"
     },
     {
       "title": "Затерянная в свете звезд",
@@ -383,10 +390,11 @@
       "collection": "",
       "id": 9,
       "dateRequested": "23.07.2026 22:36",
-      "status": "Не смотрели",
+      "status": "Смотрели",
       "ourRating": "Без оценки",
       "cried": false,
-      "isAuction": false
+      "isAuction": false,
+      "dateWatched": "24.07.2026 00:12"
     },
     {
       "title": "Укрась прощальное утро цветами обещания",
@@ -431,10 +439,11 @@
       "collection": "",
       "id": 10,
       "dateRequested": "23.07.2026 22:38",
-      "status": "Не смотрели",
+      "status": "Смотрели",
       "ourRating": "Без оценки",
       "cried": false,
-      "isAuction": false
+      "isAuction": false,
+      "dateWatched": "24.07.2026 00:12"
     },
     {
       "title": "Храбрая сердцем",
@@ -479,10 +488,11 @@
       "collection": "",
       "id": 11,
       "dateRequested": "23.07.2026 22:40",
-      "status": "Не смотрели",
+      "status": "Смотрели",
       "ourRating": "Без оценки",
       "cried": false,
-      "isAuction": false
+      "isAuction": false,
+      "dateWatched": "24.07.2026 00:12"
     },
     {
       "title": "Клаус",
@@ -527,58 +537,11 @@
       "collection": "",
       "id": 12,
       "dateRequested": "23.07.2026 22:41",
-      "status": "Не смотрели",
+      "status": "Смотрели",
       "ourRating": "Без оценки",
       "cried": false,
-      "isAuction": false
-    },
-    {
-      "title": "Атлантида Затерянный мир",
-      "year": "2001",
-      "type": "Мультфильм",
-      "runtime": "1 ч 35 мин",
-      "genres": "мультфильм, семейный, приключения, фантастика",
-      "studios": "🟢 Walt Disney Pictures, 🟢 Walt Disney Feature Animation",
-      "budget": "120.000.000 $",
-      "revenue": "186.053.725 $",
-      "tmdbRating": "7.047",
-      "overview": "Скромный картограф музея и эксперт лингвистики Майло Тэтч продолжает поиски Атлантиды, начатые еще его дедушкой. В 1914 году Тэтч, основываясь на дедушкином журнале, узнает точное расположение затерянной Атлантиды. К Майло обращается эксцентричный миллионер, друг его дедушки, который соглашается профинансировать экспедицию к Атлантиде. И Тэтч примыкает к группе людей, которые соглашаются отправиться в это рискованное плавание. Вместе с командой, Майло проделывает опасное путешествие через весь океан в поисках Атлантиды.",
-      "poster": "https://image.tmdb.org/t/p/w500/tZrPWSM80B2zpByjtUcrzDCaHlb.jpg",
-      "tagline": "Атлантида ждет...",
-      "backdrop": "https://image.tmdb.org/t/p/original/4eTiLRTYwAVQyQAjuFuf3BXAony.jpg",
-      "cast": [
-        {
-          "name": "Майкл Дж. Фокс",
-          "photo": "https://image.tmdb.org/t/p/w185/2JB4FMgQmnhbBlQ4SxWFN9EIVDi.jpg"
-        },
-        {
-          "name": "Кри Саммер",
-          "photo": "https://image.tmdb.org/t/p/w185/29VfEOJiBvNTZkIWf3YyjaNx2Gb.jpg"
-        },
-        {
-          "name": "Джеймс Гарнер",
-          "photo": "https://image.tmdb.org/t/p/w185/8186fvIAGrIGqnvb49CgULo34G4.jpg"
-        },
-        {
-          "name": "Клаудия Кристиан",
-          "photo": "https://image.tmdb.org/t/p/w185/bwmh731OxEyzgtR95nRraLDZLyB.jpg"
-        }
-      ],
-      "director": {
-        "name": "Гари Труздейл",
-        "photo": "https://image.tmdb.org/t/p/w185/yczbyaRGnhWYGU5OeFtTrzVaR87.jpg"
-      },
-      "trailer": "https://www.youtube.com/watch?v=rLWSHm1JSoU",
-      "ageRating": "0+",
-      "keywords": "sea, submarine, mediterranean, atlantis, expedition",
-      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1a779f10-8b2e-4a2a-a3a2-1b9632594139-profile_image-600x600.png",
-      "collection": "Атлантида (Коллекция)",
-      "id": 13,
-      "dateRequested": "23.07.2026 22:43",
-      "status": "Не смотрели",
-      "ourRating": "Без оценки",
-      "cried": false,
-      "isAuction": false
+      "isAuction": false,
+      "dateWatched": "24.07.2026 00:12"
     },
     {
       "title": "Дорога на Эльдорадо",
@@ -623,10 +586,11 @@
       "collection": "",
       "id": 14,
       "dateRequested": "23.07.2026 22:44",
-      "status": "Не смотрели",
+      "status": "Смотрели",
       "ourRating": "Без оценки",
       "cried": false,
-      "isAuction": false
+      "isAuction": false,
+      "dateWatched": "24.07.2026 00:12"
     },
     {
       "title": "Поймай меня, если сможешь",
@@ -676,6 +640,55 @@
       "cried": false,
       "isAuction": false,
       "dateWatched": "24.07.2026 00:12"
+    },
+    {
+      "title": "Атлантида Затерянный мир",
+      "year": "2001",
+      "type": "Мультфильм",
+      "runtime": "1 ч 35 мин",
+      "genres": "мультфильм, семейный, приключения, фантастика",
+      "studios": "🟢 Walt Disney Pictures, 🟢 Walt Disney Feature Animation",
+      "budget": "120.000.000 $",
+      "revenue": "186.053.725 $",
+      "tmdbRating": "7.047",
+      "overview": "Скромный картограф музея и эксперт лингвистики Майло Тэтч продолжает поиски Атлантиды, начатые еще его дедушкой. В 1914 году Тэтч, основываясь на дедушкином журнале, узнает точное расположение затерянной Атлантиды. К Майло обращается эксцентричный миллионер, друг его дедушки, который соглашается профинансировать экспедицию к Атлантиде. И Тэтч примыкает к группе людей, которые соглашаются отправиться в это рискованное плавание. Вместе с командой, Майло проделывает опасное путешествие через весь океан в поисках Атлантиды.",
+      "poster": "https://image.tmdb.org/t/p/w500/tZrPWSM80B2zpByjtUcrzDCaHlb.jpg",
+      "tagline": "Атлантида ждет...",
+      "backdrop": "https://image.tmdb.org/t/p/original/4eTiLRTYwAVQyQAjuFuf3BXAony.jpg",
+      "cast": [
+        {
+          "name": "Майкл Дж. Фокс",
+          "photo": "https://image.tmdb.org/t/p/w185/2JB4FMgQmnhbBlQ4SxWFN9EIVDi.jpg"
+        },
+        {
+          "name": "Кри Саммер",
+          "photo": "https://image.tmdb.org/t/p/w185/29VfEOJiBvNTZkIWf3YyjaNx2Gb.jpg"
+        },
+        {
+          "name": "Джеймс Гарнер",
+          "photo": "https://image.tmdb.org/t/p/w185/8186fvIAGrIGqnvb49CgULo34G4.jpg"
+        },
+        {
+          "name": "Клаудия Кристиан",
+          "photo": "https://image.tmdb.org/t/p/w185/bwmh731OxEyzgtR95nRraLDZLyB.jpg"
+        }
+      ],
+      "director": {
+        "name": "Гари Труздейл",
+        "photo": "https://image.tmdb.org/t/p/w185/yczbyaRGnhWYGU5OeFtTrzVaR87.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=rLWSHm1JSoU",
+      "ageRating": "0+",
+      "keywords": "sea, submarine, mediterranean, atlantis, expedition",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1a779f10-8b2e-4a2a-a3a2-1b9632594139-profile_image-600x600.png",
+      "collection": "Атлантида (Коллекция)",
+      "id": 13,
+      "dateRequested": "23.07.2026 22:43",
+      "status": "Смотрели",
+      "ourRating": "8",
+      "cried": false,
+      "isAuction": false,
+      "dateWatched": "24.07.2026 01:01"
     }
   ],
   "MadMan1408": []
