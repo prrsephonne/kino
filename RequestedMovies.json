@@ -1,56 +1,9 @@
 {
   "_metadata_": {
     "streamer": "prrsephonne",
-    "lastUpdated": "23.07.2026 21:58"
+    "lastUpdated": "23.07.2026 22:01"
   },
   "weenniee": [
-    {
-      "id": 11,
-      "title": "Любовь без пересадок",
-      "year": "2013",
-      "type": "Фильм",
-      "runtime": "1 ч 36 мин",
-      "genres": "комедия, мелодрама",
-      "studios": "🟢 Universal Pictures International",
-      "budget": "Нет данных",
-      "revenue": "7.636 $",
-      "tmdbRating": "5.943",
-      "overview": "Преуспевающий адвокат Антуан никогда не знал недостатка в женском внимании. Отправляясь по делам из Нью-Йорка в Париж, в самолете он оказывается в соседнем кресле с бывшей подругой Джули. Обреченные провести вместе семь долгих часов бывшие любовники успевают вспомнить былые обиды, все неприятности, доставленные друг другу, и понять, что их разрыв был ошибкой. Но успеют ли они эту ошибку исправить?",
-      "dateRequested": "12.07.2026 19:14",
-      "status": "Не смотрели",
-      "ourRating": "Без оценки",
-      "cried": false,
-      "poster": "https://image.tmdb.org/t/p/w500/8d6RPdb0sIBDRCUayeIixIsgAzg.jpg",
-      "tagline": "«Любовь - это полёт. Пристегните ремни!»",
-      "backdrop": "https://image.tmdb.org/t/p/original/mOzQklElA7ZBg3dSniCG7Npot7U.jpg",
-      "cast": [
-        {
-          "name": "Людивин Санье",
-          "photo": "https://image.tmdb.org/t/p/w185/hd4fLjgtgNEidJOjuLNGfK1sOhm.jpg"
-        },
-        {
-          "name": "Nicolas Bedos",
-          "photo": "https://image.tmdb.org/t/p/w185/ex2aJiAGKGwpcAjKG6Ny108sab7.jpg"
-        },
-        {
-          "name": "Джонатан Коэн",
-          "photo": "https://image.tmdb.org/t/p/w185/T7ucGNWUDsRRXrjjVfY3uhPfMq.jpg"
-        },
-        {
-          "name": "Арно Дюкре",
-          "photo": "https://image.tmdb.org/t/p/w185/k4wixf8xKSym0GTcYFRov6PgEj7.jpg"
-        }
-      ],
-      "director": {
-        "name": "Alexandre Castagnetti",
-        "photo": "https://image.tmdb.org/t/p/w185/5qPYpnAs9xz7u7QbYuMr8khnv7Y.jpg"
-      },
-      "trailer": "https://www.youtube.com/watch?v=Gsz-a7sJtqk",
-      "ageRating": "16+",
-      "collection": "",
-      "keywords": "romance",
-      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3038f83-6f62-49b4-932b-4c70d7a151ca-profile_image-600x600.png"
-    },
     {
       "id": 12,
       "title": "Ла-Ла Ленд",
