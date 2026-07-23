@@ -504,58 +504,5 @@
       "dateWatched": "18.07.2026 19:04"
     }
   ],
-  "sabastat_": [
-    {
-      "id": 15,
-      "title": "Ходячие мертвецы",
-      "year": "2010",
-      "type": "Сериал",
-      "runtime": "Неизвестно",
-      "genres": "Боевик и Приключения, драма, НФ и Фэнтези",
-      "studios": "🟢 AMC Studios, 🟢 Circle of Confusion, 🟢 Valhalla Motion Pictures, 🟢 Darkwoods Productions, 🟢 Skybound Entertainment, 🟢 Idiotbox",
-      "budget": "Нет данных",
-      "revenue": "Нет данных",
-      "tmdbRating": "8.086",
-      "overview": "Заместитель шерифа Рик Граймс просыпается от комы и обнаруживает, что мир после апокалипсиса захватили плотоядные зомби. Он отправляется на поиски своей семьи и по пути встречает многих других выживших.",
-      "dateRequested": "12.07.2026 22:13",
-      "status": "Смотрели",
-      "ourRating": "7",
-      "cried": true,
-      "isAuction": true,
-      "poster": "https://image.tmdb.org/t/p/w500/3metsxLVhlJU0mNj5gVfKIih0EF.jpg",
-      "tagline": "Сражайся с мертвецами. Бойся живых",
-      "backdrop": "https://image.tmdb.org/t/p/original/rAOjnEFTuNysY7bot8zonhImGMh.jpg",
-      "cast": [
-        {
-          "name": "Лорен Коэн",
-          "photo": "https://image.tmdb.org/t/p/w185/zJ9nZ5jqQTUD55GLKbgfiKlUoBN.jpg"
-        },
-        {
-          "name": "Норман Ридус",
-          "photo": "https://image.tmdb.org/t/p/w185/ozHPdO5jAt7ozzdZUgyRAMNPSDW.jpg"
-        },
-        {
-          "name": "Джеффри Дин Морган",
-          "photo": "https://image.tmdb.org/t/p/w185/m8bdrmh6ExDCGQ64E83mHg002YV.jpg"
-        },
-        {
-          "name": "Мелисса МакБрайд",
-          "photo": "https://image.tmdb.org/t/p/w185/2omPfeMdnicJqqvgKAU2iqVyD4Z.jpg"
-        }
-      ],
-      "director": {
-        "name": "Фрэнк Дарабонт",
-        "photo": "https://image.tmdb.org/t/p/w185/vZ50guP86otYTiBSGfi35GNHWVf.jpg"
-      },
-      "trailer": "https://www.youtube.com/watch?v=Qw7gqcIc1BQ",
-      "ageRating": "TV-MA",
-      "collection": "",
-      "keywords": "post-apocalyptic future, gore, undead, survival, zombie",
-      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1a659533-cce8-4d1f-b21b-4aa24f85b890-profile_image-600x600.png",
-      "seasons": "11",
-      "episodes": "177",
-      "tvStatus": "Ended",
-      "dateWatched": "13.07.2026 01:01"
-    }
-  ]
+  "sabastat_": []
 }
