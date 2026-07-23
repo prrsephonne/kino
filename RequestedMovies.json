@@ -1,50 +1,9 @@
 {
   "_metadata_": {
     "streamer": "prrsephonne",
-    "lastUpdated": "23.07.2026 21:48"
+    "lastUpdated": "23.07.2026 21:54"
   },
   "MadMan1408": [
-    {
-      "id": 2,
-      "title": "Шерлок",
-      "year": "2010",
-      "type": "Сериал",
-      "runtime": "1 ч 30 мин",
-      "genres": "криминал, драма, детектив",
-      "studios": "🟢 Hartswood Films, 🟢 BBC Cymru Wales, 🟢 Masterpiece",
-      "budget": "Нет данных",
-      "revenue": "Нет данных",
-      "tmdbRating": "8.508",
-      "overview": "Новая экранизация приключений самого известного сыщика человечества. Военный врач Джон Ватсон возвращается в родные края с войны калекой. Он в поисках недорогого жилья и ему предложили комнату в квартире на Бейкер-Стрит. Объявление дал странноватый владелец жилья, имя которого Шерлок Холмс. Неординарный ум и харизма этой загадочной личности сразу же понравились Доктору Ватсону, и он согласился на соседство. Сферой деятельности нового знакомого оказывается расследование таинственных убийств, которые происходят на улицах Лондона, а новый друг, Джон Ватсон, оказывает посильную помощь Холмсу в раскрытии преступлений. Даже когда следствие Скотланд Ядра заходит в тупик, гениальный сыщик обязательно найдет выход.",
-      "dateRequested": "07.07.2026 00:49",
-      "status": "Не смотрели",
-      "ourRating": "Без оценки",
-      "poster": "https://image.tmdb.org/t/p/w500/j1OzoewUK3fA7bjMX8oB1mwyG1P.jpg",
-      "tagline": "Новый сыщик для 21-го века.",
-      "backdrop": "https://image.tmdb.org/t/p/original/8rvLEmdI4gLrMO1rLqbNdnNcPFE.jpg",
-      "cast": [
-        {
-          "name": "Бенедикт Камбербэтч",
-          "photo": "https://image.tmdb.org/t/p/w185/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
-        },
-        {
-          "name": "Мартин Фримен",
-          "photo": "https://image.tmdb.org/t/p/w185/nrO54AzrxiNgCjBUOSz6ebyxDZY.jpg"
-        }
-      ],
-      "director": {
-        "name": "Марк Гэтисс",
-        "photo": "https://image.tmdb.org/t/p/w185/rkZKKDRbnGqqg2fjd5iPYDS4syy.jpg"
-      },
-      "trailer": "https://www.youtube.com/watch?v=4lDypCGRLgA",
-      "ageRating": "TV-14",
-      "collection": "",
-      "keywords": "london, england, detective, based on novel or book, workaholic, investigation",
-      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
-      "seasons": "4",
-      "episodes": "12",
-      "tvStatus": "Ended"
-    },
     {
       "id": 5,
       "title": "Симпсоны",
