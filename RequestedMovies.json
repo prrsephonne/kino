@@ -1,61 +1,11 @@
 {
   "_metadata_": {
     "streamer": "prrsephonne",
-    "lastUpdated": "23.07.2026 22:04"
+    "lastUpdated": "23.07.2026 22:05"
   },
   "prrsephonne": [],
   "di_rubens": [],
-  "MadMan1408": [
-    {
-      "title": "Тёмный рыцарь",
-      "year": "2008",
-      "type": "Фильм",
-      "runtime": "2 ч 32 мин",
-      "genres": "боевик, криминал, триллер",
-      "studios": "🔴 Warner Bros. Pictures | 🟢 Legendary Pictures, 🟢 Syncopy, 🟢 DC",
-      "budget": "185.000.000 $",
-      "revenue": "1.004.558.444 $",
-      "tmdbRating": "8.532",
-      "overview": "Бэтмен поднимает ставки в войне с криминалом. С помощью лейтенанта Джима Гордона и прокурора Харви Дента он намерен очистить улицы от преступности, отравляющей город. Сотрудничество оказывается эффективным, но скоро они обнаружат себя посреди хаоса, развязанного восходящим криминальным гением, известным испуганным горожанам под именем Джокер.",
-      "poster": "https://image.tmdb.org/t/p/w500/aPtN76OjnNKLqCJ2FJBnQOIL031.jpg",
-      "tagline": "«Добро пожаловать в мир Хаоса!»",
-      "backdrop": "https://image.tmdb.org/t/p/original/dqK9Hag1054tghRQSqLSfrkvQnA.jpg",
-      "cast": [
-        {
-          "name": "Кристиан Бейл",
-          "photo": "https://image.tmdb.org/t/p/w185/7Pxez9J8fuPd2Mn9kex13YALrCQ.jpg"
-        },
-        {
-          "name": "Хит Леджер",
-          "photo": "https://image.tmdb.org/t/p/w185/AdWKVqyWpkYSfKE5Gb2qn8JzHni.jpg"
-        },
-        {
-          "name": "Аарон Екгарт",
-          "photo": "https://image.tmdb.org/t/p/w185/u5JjnRMr9zKEVvOP7k3F6gdcwT6.jpg"
-        },
-        {
-          "name": "Майкл Кейн",
-          "photo": "https://image.tmdb.org/t/p/w185/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg"
-        }
-      ],
-      "director": {
-        "name": "Кристофер Нолан",
-        "photo": "https://image.tmdb.org/t/p/w185/xuAIuYSmsUzKlUMBFGVZaWsY3DZ.jpg"
-      },
-      "trailer": "https://www.youtube.com/watch?v=HF1_epZNoCg",
-      "ageRating": "12+",
-      "keywords": "sadism, chaos, secret identity, crime fighter, superhero",
-      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
-      "collection": "Тёмный рыцарь (Коллекция)",
-      "id": 16,
-      "dateRequested": "15.07.2026 13:22",
-      "status": "Смотрели",
-      "ourRating": "4",
-      "cried": false,
-      "isAuction": false,
-      "dateWatched": "17.07.2026 23:44"
-    }
-  ],
+  "MadMan1408": [],
   "weenniee": [],
   "maaminaa": [],
   "cross_loss": [],
