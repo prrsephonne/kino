@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "prrsephonne",
-    "lastUpdated": "23.07.2026 22:11"
+    "lastUpdated": "23.07.2026 22:14"
   },
   "prrsephonne": [
     {
@@ -191,6 +191,56 @@
       "collection": "",
       "id": 4,
       "dateRequested": "23.07.2026 22:11",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false
+    }
+  ],
+  "Космическая": [
+    {
+      "title": "Космическая принцесса Кагуя!",
+      "year": "2026",
+      "type": "Аниме",
+      "runtime": "2 ч 21 мин",
+      "genres": "мультфильм, фэнтези, музыка, фантастика",
+      "studios": "🟢 Studio Colorido, 🟢 Studio Chromato, 🟢 Twin Engine",
+      "budget": "Нет данных",
+      "revenue": "Нет данных",
+      "tmdbRating": "8.326",
+      "overview": "Жизнь Ирохи сходит с привычной орбиты, когда к ней подселяется Кагуя — беззаботная беглянка с Луны — и убеждает ее вместе выступать в виртуальном мире.",
+      "poster": "https://image.tmdb.org/t/p/w500/5ex0Nd2TjkSlcFRSvDFvqBYy6Lc.jpg",
+      "tagline": "",
+      "backdrop": "https://image.tmdb.org/t/p/original/1jdPUUSy37Wzw3xuc8otI86X2gv.jpg",
+      "cast": [
+        {
+          "name": "Юко Нацуёши",
+          "photo": "https://image.tmdb.org/t/p/w185/62JhZDG70JAzht71e1B0Y7Ny14r.jpg"
+        },
+        {
+          "name": "Анна Нагасэ",
+          "photo": "https://image.tmdb.org/t/p/w185/748FmLCklgnN8hrlBZ4bNsF4zpk.jpg"
+        },
+        {
+          "name": "Саори Хаями",
+          "photo": "https://image.tmdb.org/t/p/w185/gLv9lO7dlUbIsmyJUvgegqAAXki.jpg"
+        },
+        {
+          "name": "Мию Ирино",
+          "photo": "https://image.tmdb.org/t/p/w185/8qEEhHUObNvGQr4e6eqLu5z4qTz.jpg"
+        }
+      ],
+      "director": {
+        "name": "Синго Ямасита",
+        "photo": "https://image.tmdb.org/t/p/w185/hDXw07S6P9lsxO9QDiEoI0HGFR3.jpg"
+      },
+      "trailer": "",
+      "ageRating": "PG",
+      "keywords": "time travel, anime, virtual world, idol, science fantasy",
+      "userAvatar": "",
+      "collection": "",
+      "id": 5,
+      "dateRequested": "23.07.2026 22:14",
       "status": "Не смотрели",
       "ourRating": "Без оценки",
       "cried": false,
