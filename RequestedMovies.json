@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "prrsephonne",
-    "lastUpdated": "23.07.2026 23:07"
+    "lastUpdated": "24.07.2026 00:12"
   },
   "prrsephonne": [
     {
@@ -671,10 +671,11 @@
       "collection": "",
       "id": 8,
       "dateRequested": "23.07.2026 23:07",
-      "status": "Не смотрели",
-      "ourRating": "Без оценки",
+      "status": "Смотрели",
+      "ourRating": "8",
       "cried": false,
-      "isAuction": false
+      "isAuction": false,
+      "dateWatched": "24.07.2026 00:12"
     }
   ],
   "MadMan1408": []
