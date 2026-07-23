@@ -198,57 +198,6 @@
       "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false
-    },
-    {
-      "title": "Робин Гуд",
-      "year": "2025",
-      "type": "Сериал",
-      "runtime": "Неизвестно",
-      "genres": "драма, Боевик и Приключения",
-      "studios": "🟢 Lionsgate Television, 🟢 Hidden Pictures, 🟢 MGM+ Studios, 🟢 English Glenn Media",
-      "budget": "Нет данных",
-      "revenue": "Нет данных",
-      "tmdbRating": "7.503",
-      "overview": "Роб, саксонский разбойник, и Мариан, нормандская дворянка, объединяются, чтобы бороться с несправедливостью после нормандского завоевания. Он возглавляет отряд мятежников, а она внедряется в коррумпированный двор. Оба стремятся к справедливости и миру.",
-      "poster": "https://image.tmdb.org/t/p/w500/pZycMzExEItZ4RGZ20drSbDq5Wc.jpg",
-      "tagline": "",
-      "backdrop": "https://image.tmdb.org/t/p/original/uoIOfRNmu47P2fET2KnrYHt3TH.jpg",
-      "cast": [
-        {
-          "name": "Джек Паттен",
-          "photo": "https://image.tmdb.org/t/p/w185/sIE11wI7czGjYCUOlEKqXguIdsl.jpg"
-        },
-        {
-          "name": "Лорен МакКуин",
-          "photo": "https://image.tmdb.org/t/p/w185/fdoKXXGRL8cLrRhP5bP5MPdK9Uc.jpg"
-        },
-        {
-          "name": "Лидия Пекхэм",
-          "photo": "https://image.tmdb.org/t/p/w185/tcBJklZSsP2JuQIYataJHW3pJXE.jpg"
-        },
-        {
-          "name": "Маркус Фрэйзер",
-          "photo": "https://image.tmdb.org/t/p/w185/qpAxGk8XjUxNsfcW5B1YMupOff5.jpg"
-        }
-      ],
-      "director": {
-        "name": "Джонатан Инглиш",
-        "photo": "https://image.tmdb.org/t/p/w185/5pLNxwzjU4pLnYALSupZ5j3dFDx.jpg"
-      },
-      "trailer": "",
-      "ageRating": "TV-MA",
-      "keywords": "england, robin hood, based on myths, legends or folklore, 11th century, cheerful",
-      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
-      "collection": "",
-      "seasons": "1",
-      "episodes": "10",
-      "tvStatus": "Returning Series",
-      "id": 4,
-      "dateRequested": "22.07.2026 13:14",
-      "status": "Не смотрели",
-      "ourRating": "Без оценки",
-      "cried": false,
-      "isAuction": false
     }
   ],
   "maaminaa": [
