@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "prrsephonne",
-    "lastUpdated": "23.07.2026 22:28"
+    "lastUpdated": "23.07.2026 22:36"
   },
   "prrsephonne": [
     {
@@ -383,6 +383,54 @@
       "collection": "",
       "id": 8,
       "dateRequested": "23.07.2026 22:28",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false
+    },
+    {
+      "title": "Затерянная в свете звезд",
+      "year": "2025",
+      "type": "Аниме",
+      "runtime": "1 ч 36 мин",
+      "genres": "мультфильм, мелодрама, фантастика, драма",
+      "studios": "🟢 Climax Studios, 🟢 Red Dog Culture House, 🟢 SLL",
+      "budget": "Нет данных",
+      "revenue": "Нет данных",
+      "tmdbRating": "7.35",
+      "overview": "В этом романтическом мультфильме о космосе астронавт покидает Землю и отправляется на Марс, и бескрайняя Вселенная разделяет обреченных влюбленных.",
+      "poster": "https://image.tmdb.org/t/p/w500/rVtwjG89FnHcvcIm9odmFtxTnNA.jpg",
+      "tagline": "«Никогда не забывай. Где-то во вселенной есть кто-то, кто всегда тебя поддерживает.»",
+      "backdrop": "https://image.tmdb.org/t/p/original/drSJ0HVuSNFMPq5VzAEHk37BiEC.jpg",
+      "cast": [
+        {
+          "name": "Ким Тхэ Ри",
+          "photo": "https://image.tmdb.org/t/p/w185/gFofVUeVlIvBJMUv7maHQwWdfsk.jpg"
+        },
+        {
+          "name": "홍경",
+          "photo": "https://image.tmdb.org/t/p/w185/wRXum47BB0ciPGINjCvT36rDuQE.jpg"
+        },
+        {
+          "name": "권영미",
+          "photo": "https://via.placeholder.com/185x278?text=No+Photo"
+        },
+        {
+          "name": "강구한",
+          "photo": "https://image.tmdb.org/t/p/w185/31Qme50mO7AZ0xUFWvO8qVbE6uJ.jpg"
+        }
+      ],
+      "director": {
+        "name": "한지원",
+        "photo": "https://image.tmdb.org/t/p/w185/cu8Oq95a2Ga6CQQm59Vktmn0vct.jpg"
+      },
+      "trailer": "",
+      "ageRating": "PG",
+      "keywords": "astronaut, long distance relationship, anime, love story",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1a779f10-8b2e-4a2a-a3a2-1b9632594139-profile_image-600x600.png",
+      "collection": "",
+      "id": 9,
+      "dateRequested": "23.07.2026 22:36",
       "status": "Не смотрели",
       "ourRating": "Без оценки",
       "cried": false,
