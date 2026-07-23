@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "prrsephonne",
-    "lastUpdated": "23.07.2026 22:36"
+    "lastUpdated": "23.07.2026 22:38"
   },
   "prrsephonne": [
     {
@@ -431,6 +431,54 @@
       "collection": "",
       "id": 9,
       "dateRequested": "23.07.2026 22:36",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false
+    },
+    {
+      "title": "Укрась прощальное утро цветами обещания",
+      "year": "2018",
+      "type": "Аниме",
+      "runtime": "1 ч 55 мин",
+      "genres": "мультфильм, драма, фэнтези",
+      "studios": "🟢 P.A.WORKS, 🟢 Bandai Visual, 🟢 Hakuhodo DY Music & Pictures, 🟢 Lantis, 🟢 Cygames, 🟢 Rakuonsha",
+      "budget": "Нет данных",
+      "revenue": "4.345.395 $",
+      "tmdbRating": "8.141",
+      "overview": "Красавица Макия — из рода бессмертных. На протяжении веков многие армии пытались захватить её народ, чтобы завладеть секретом вечной жизни. И вот теперь, когда город разрушен, девушка прячется в лесу. Здесь она встречает потерявшего родителей маленького мальчика Эриала и начинает о нём заботиться. Проходят годы, мальчик превращается в прекрасного юношу, и у беглецов возникают чувства друг к другу. Но Макия понимает, что Эриал — простой человек, а значит, он смертен.",
+      "poster": "https://image.tmdb.org/t/p/w500/pszUBerTtwl6Ai55YSOfnpENt8j.jpg",
+      "tagline": "",
+      "backdrop": "https://image.tmdb.org/t/p/original/5nkKy7eEDsXqsxFLJy3GxZhE90J.jpg",
+      "cast": [
+        {
+          "name": "Манака Ивами",
+          "photo": "https://image.tmdb.org/t/p/w185/leKMaCBswXG8u4mfQNQ7J3y6Xow.jpg"
+        },
+        {
+          "name": "Мию Ирино",
+          "photo": "https://image.tmdb.org/t/p/w185/8qEEhHUObNvGQr4e6eqLu5z4qTz.jpg"
+        },
+        {
+          "name": "Юки Сакурай",
+          "photo": "https://image.tmdb.org/t/p/w185/k6cWl6lltnCOd0kqIOSX8rDJLcW.jpg"
+        },
+        {
+          "name": "Аи Каяно",
+          "photo": "https://image.tmdb.org/t/p/w185/l8ywp387rfdAS7mOExe3cEZnsk0.jpg"
+        }
+      ],
+      "director": {
+        "name": "Мари Окада",
+        "photo": "https://image.tmdb.org/t/p/w185/mfq0VCH3tWJGOUGk1ivtyBH1wz3.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=t7OcXpcRP3g",
+      "ageRating": "12+",
+      "keywords": "family relationships, coming of age, tragedy, dragon, military",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1a779f10-8b2e-4a2a-a3a2-1b9632594139-profile_image-600x600.png",
+      "collection": "",
+      "id": 10,
+      "dateRequested": "23.07.2026 22:38",
       "status": "Не смотрели",
       "ourRating": "Без оценки",
       "cried": false,
