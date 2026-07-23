@@ -291,6 +291,54 @@
       "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false
+    },
+    {
+      "title": "Парни со стволами",
+      "year": "2016",
+      "type": "Фильм",
+      "runtime": "1 ч 54 мин",
+      "genres": "комедия, криминал, драма",
+      "studios": "🔴 Warner Bros. Pictures | 🟢 The Mark Gordon Company, 🟢 Joint Effort, 🟢 RatPac Entertainment",
+      "budget": "50.000.000 $",
+      "revenue": "86.234.523 $",
+      "tmdbRating": "6.945",
+      "overview": "Реальная история о приятелях-планокурах из Майами, умудрившихся выбить в Пентагоне контракт на 300 миллионов долларов на поставку оружия.",
+      "poster": "https://image.tmdb.org/t/p/w500/4B8eiy4zIliE5sGLktkmQBnOStG.jpg",
+      "tagline": "Деньги, коррупция... и типа американская мечта",
+      "backdrop": "https://image.tmdb.org/t/p/original/oNoprEND25zXR6Fns8cIZUkuoMc.jpg",
+      "cast": [
+        {
+          "name": "Майлз Теллер",
+          "photo": "https://image.tmdb.org/t/p/w185/kDf3sW3USjEBDQ3Ua7lbwOfwty6.jpg"
+        },
+        {
+          "name": "Джона Хилл",
+          "photo": "https://image.tmdb.org/t/p/w185/cymlWttB83MsAGR2EkTgANtjeRH.jpg"
+        },
+        {
+          "name": "Ана де Армас",
+          "photo": "https://image.tmdb.org/t/p/w185/3vxvsmYLTf4jnr163SUlBIw51ee.jpg"
+        },
+        {
+          "name": "Брэдли Купер",
+          "photo": "https://image.tmdb.org/t/p/w185/sQq0nft6YZmJ7EMQwPcbaxym3AL.jpg"
+        }
+      ],
+      "director": {
+        "name": "Тодд Филлипс",
+        "photo": "https://image.tmdb.org/t/p/w185/A6FPht87DiqXzp456WjakLi2AtP.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=4PbYYkoXYKw",
+      "ageRating": "18+",
+      "keywords": "corruption, smuggling (contraband), iraq, rise and fall, drugs",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1a779f10-8b2e-4a2a-a3a2-1b9632594139-profile_image-600x600.png",
+      "collection": "",
+      "id": 7,
+      "dateRequested": "23.07.2026 22:27",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false
     }
   ],
   "Поймай": [],
