@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "prrsephonne",
-    "lastUpdated": "23.07.2026 22:26"
+    "lastUpdated": "23.07.2026 22:27"
   },
   "prrsephonne": [
     {
@@ -239,6 +239,54 @@
       "collection": "",
       "id": 5,
       "dateRequested": "23.07.2026 22:26",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false
+    },
+    {
+      "title": "Планета сокровищ",
+      "year": "2002",
+      "type": "Мультфильм",
+      "runtime": "1 ч 35 мин",
+      "genres": "фантастика, приключения, мультфильм, семейный, фэнтези",
+      "studios": "🟢 Walt Disney Pictures",
+      "budget": "140.000.000 $",
+      "revenue": "109.578.115 $",
+      "tmdbRating": "7.575",
+      "overview": "16-летний Джим Хоукинс отправляется на поиски таинственной Планеты Сокровищ в компании настоящих космических пиратов. Под руководством корабельного кока, киборга Джона Сильвера, он становится умелым «космоплавателем» и не раз спасает космический галеон от самых серьезных опасностей: черных дыр, взрывов сверхновых и космических штормов.",
+      "poster": "https://image.tmdb.org/t/p/w500/bAEJQgE2Xq9Deny9pTqTTxUZDzr.jpg",
+      "tagline": "Они ищут золото, но им лучше остерегаться серебра",
+      "backdrop": "https://image.tmdb.org/t/p/original/f2opsSUSiMdEp6AiY2sbC8QPd8S.jpg",
+      "cast": [
+        {
+          "name": "Джозеф Гордон-Левитт",
+          "photo": "https://image.tmdb.org/t/p/w185/z2FA8js799xqtfiFjBTicFYdfk.jpg"
+        },
+        {
+          "name": "Brian Murray",
+          "photo": "https://image.tmdb.org/t/p/w185/hjbab72rP0PopqbRHo3MKdPDd2s.jpg"
+        },
+        {
+          "name": "Эмма Томпсон",
+          "photo": "https://image.tmdb.org/t/p/w185/xVrrH7dAoeotune3TWjv5Tr3F3U.jpg"
+        },
+        {
+          "name": "David Hyde Pierce",
+          "photo": "https://image.tmdb.org/t/p/w185/9BSgq4yxjPry1Oghqq92S4wUIvs.jpg"
+        }
+      ],
+      "director": {
+        "name": "Рон Клементс",
+        "photo": "https://image.tmdb.org/t/p/w185/u9k9yg2EGlDsxYo3ehf35yRUfcD.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=sPPcWMzgCsU",
+      "ageRating": "0+",
+      "keywords": "mutiny, space marine, based on novel or book, cyborg, map",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1a779f10-8b2e-4a2a-a3a2-1b9632594139-profile_image-600x600.png",
+      "collection": "",
+      "id": 6,
+      "dateRequested": "23.07.2026 22:27",
       "status": "Не смотрели",
       "ourRating": "Без оценки",
       "cried": false,
