@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "prrsephonne",
-    "lastUpdated": "24.07.2026 01:01"
+    "lastUpdated": "24.07.2026 01:03"
   },
   "prrsephonne": [
     {
@@ -636,7 +636,7 @@
       "id": 8,
       "dateRequested": "23.07.2026 23:07",
       "status": "Смотрели",
-      "ourRating": "8",
+      "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false,
       "dateWatched": "24.07.2026 00:12"
@@ -685,7 +685,7 @@
       "id": 13,
       "dateRequested": "23.07.2026 22:43",
       "status": "Смотрели",
-      "ourRating": "8",
+      "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false,
       "dateWatched": "24.07.2026 01:01"
