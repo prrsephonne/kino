@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "prrsephonne",
-    "lastUpdated": "23.07.2026 22:27"
+    "lastUpdated": "23.07.2026 22:28"
   },
   "prrsephonne": [
     {
@@ -335,6 +335,54 @@
       "collection": "",
       "id": 7,
       "dateRequested": "23.07.2026 22:27",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false
+    },
+    {
+      "title": "Поймай меня, если сможешь",
+      "year": "2002",
+      "type": "Фильм",
+      "runtime": "2 ч 21 мин",
+      "genres": "драма, криминал",
+      "studios": "🟢 Kemp Company, 🟢 Splendid Pictures, 🟢 DreamWorks Pictures, 🟢 Parkes+MacDonald Production",
+      "budget": "52.000.000 $",
+      "revenue": "352.114.312 $",
+      "tmdbRating": "7.978",
+      "overview": "Фрэнк Эбегнейл успел поработать врачом, адвокатом и пилотом на пассажирской авиалинии — и все это до достижения полного совершеннолетия в 21 год. Мастер в обмане и жульничестве, он также обладал искусством подделки документов, что в конечном счете принесло ему миллионы долларов, которые он получил по фальшивым чекам. Агент ФБР Карл Хэнрэтти отдал бы все, чтобы схватить Фрэнка и привлечь к ответственности за свои деяния, но Фрэнк всегда опережает его на шаг, заставляя продолжать погоню.",
+      "poster": "https://image.tmdb.org/t/p/w500/9Izej6CiwFkptv6aTbRhersjAiT.jpg",
+      "tagline": "«Правдивая история о реальном преступнике»",
+      "backdrop": "https://image.tmdb.org/t/p/original/ggC3Brchf4RqPitEh7cROFoeAWn.jpg",
+      "cast": [
+        {
+          "name": "Леонардо ДиКаприо",
+          "photo": "https://image.tmdb.org/t/p/w185/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg"
+        },
+        {
+          "name": "Том Хэнкс",
+          "photo": "https://image.tmdb.org/t/p/w185/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+        },
+        {
+          "name": "Кристофер Уокен",
+          "photo": "https://image.tmdb.org/t/p/w185/ApgDL7nudR9T2GpjCG4vESgymO2.jpg"
+        },
+        {
+          "name": "Мартин Шин",
+          "photo": "https://image.tmdb.org/t/p/w185/m2Y3Q0uyuW6htrn2W9UWCWMkpZu.jpg"
+        }
+      ],
+      "director": {
+        "name": "Стивен Спилберг",
+        "photo": "https://image.tmdb.org/t/p/w185/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg"
+      },
+      "trailer": "",
+      "ageRating": "16+",
+      "keywords": "fbi, con man, biography, based on true story, con artist",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1a779f10-8b2e-4a2a-a3a2-1b9632594139-profile_image-600x600.png",
+      "collection": "",
+      "id": 8,
+      "dateRequested": "23.07.2026 22:28",
       "status": "Не смотрели",
       "ourRating": "Без оценки",
       "cried": false,
