@@ -5,55 +5,6 @@
   },
   "MadMan1408": [
     {
-      "id": 6,
-      "title": "Маска",
-      "year": "2020",
-      "type": "Сериал",
-      "runtime": "Неизвестно",
-      "genres": "Реалити-шоу, семейный",
-      "studios": "🟢 WeiT Media",
-      "budget": "Нет данных",
-      "revenue": "Нет данных",
-      "tmdbRating": "0,0",
-      "overview": "Российская версия всемирно популярного формата The Masked Singer. В самом интригующем вокальном поединке сойдутся 12 звезд шоу-бизнеса: певцы, актеры, шоумены, ведущие и спортсмены, чьи личности будут храниться в строжайшем секрете. Участники предстанут в невероятных костюмах и масках, созданных индивидуально для каждого конкурсанта. А зрителям предстоит разгадать самую охраняемую тайну российского телевидения: кто скрывается за маской?",
-      "dateRequested": "06.07.2026 23:45",
-      "status": "Не смотрели",
-      "ourRating": "Без оценки",
-      "poster": "https://image.tmdb.org/t/p/w500/pKh0MDxUV6RngAzselWkm4jnSuv.jpg",
-      "tagline": "",
-      "backdrop": "https://image.tmdb.org/t/p/original/6eIPpKAfYiwjr4lNtgK6loRB9X6.jpg",
-      "cast": [
-        {
-          "name": "Филипп Киркоров",
-          "photo": "https://image.tmdb.org/t/p/w185/ms6beNoh9AzPenA55dizQ8PhRbj.jpg"
-        },
-        {
-          "name": "Валерия",
-          "photo": "https://image.tmdb.org/t/p/w185/99G91rrhrbaFDaSDDfcpLOWrUFH.jpg"
-        },
-        {
-          "name": "Тимур Родригез",
-          "photo": "https://image.tmdb.org/t/p/w185/6a869usqpIX5gtks4wGSMmgSETf.jpg"
-        },
-        {
-          "name": "Вячеслав Макаров",
-          "photo": "https://image.tmdb.org/t/p/w185/xWawko6BJnUk7W7y88MoetFc2N4.jpg"
-        }
-      ],
-      "director": {
-        "name": "Нет данных",
-        "photo": "https://via.placeholder.com/185x278?text=No+Photo"
-      },
-      "trailer": "https://www.youtube.com/watch?v=NsEdXdoxSB8",
-      "ageRating": "12+",
-      "collection": "",
-      "keywords": "masked",
-      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
-      "seasons": "7",
-      "episodes": "76",
-      "tvStatus": "Returning Series"
-    },
-    {
       "id": 7,
       "title": "Телохранитель",
       "year": "2005",
