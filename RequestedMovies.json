@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "prrsephonne",
-    "lastUpdated": "23.07.2026 22:14"
+    "lastUpdated": "23.07.2026 22:16"
   },
   "prrsephonne": [
     {
@@ -241,6 +241,59 @@
       "collection": "",
       "id": 5,
       "dateRequested": "23.07.2026 22:14",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false
+    }
+  ],
+  "Планета": [
+    {
+      "title": "Остров сокровищ",
+      "year": "1982",
+      "type": "Сериал",
+      "runtime": "Неизвестно",
+      "genres": "Боевик и Приключения, Детский",
+      "studios": "🟢 Lenfilm",
+      "budget": "Нет данных",
+      "revenue": "Нет данных",
+      "tmdbRating": "9,0",
+      "overview": "Юный Джим Хокинс и его друзья - доктор Ливси и сквайр Трелони - случайно становятся обладателями карты капитана Флинта, на которой указано место в Карибском море, где спрятаны несметные сокровища знаменитого пирата. На прекрасной шхуне «Эспаньола» они начинают опасное плавание к далекому острову и не подозревают, что вместе с ними за сокровищами, прикинувшись скромным корабельным коком, отправился Джон Сильвер - самый кровожадный и коварный пират.",
+      "poster": "https://image.tmdb.org/t/p/w500/6LunrOczqjSy9KytR8XPIG6JNJH.jpg",
+      "tagline": "Экранизация одноимённого романа Р. Л. Стивенсона.",
+      "backdrop": "https://image.tmdb.org/t/p/original/tq5dF2JSZ6coQLsTMN0HIeUg8Zb.jpg",
+      "cast": [
+        {
+          "name": "Фёдор Стуков",
+          "photo": "https://image.tmdb.org/t/p/w185/A5fwNq5NflYmyylliykSvy8IiUv.jpg"
+        },
+        {
+          "name": "Олег Борисов",
+          "photo": "https://image.tmdb.org/t/p/w185/7Hc2xyDn7oyXq0BZbCyB6E4bR2x.jpg"
+        },
+        {
+          "name": "Виктор Костецкий",
+          "photo": "https://image.tmdb.org/t/p/w185/iQQZSSj4MTaRhk5TaLAQPuiJC8b.jpg"
+        },
+        {
+          "name": "Владислав Стржельчик",
+          "photo": "https://image.tmdb.org/t/p/w185/n4lbDWn1SEPMYLrJzZyAnLePYw4.jpg"
+        }
+      ],
+      "director": {
+        "name": "Нет данных",
+        "photo": "https://via.placeholder.com/185x278?text=No+Photo"
+      },
+      "trailer": "",
+      "ageRating": "6+",
+      "keywords": "based on novel or book, miniseries, pirate, deserted island, foreign language adaptation",
+      "userAvatar": "",
+      "collection": "",
+      "seasons": "1",
+      "episodes": "3",
+      "tvStatus": "Ended",
+      "id": 6,
+      "dateRequested": "23.07.2026 22:16",
       "status": "Не смотрели",
       "ourRating": "Без оценки",
       "cried": false,
