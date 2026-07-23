@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "prrsephonne",
-    "lastUpdated": "23.07.2026 22:08"
+    "lastUpdated": "23.07.2026 22:09"
   },
   "prrsephonne": [
     {
@@ -47,6 +47,54 @@
       "collection": "",
       "id": 1,
       "dateRequested": "23.07.2026 22:08",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false
+    },
+    {
+      "title": "Судзумэ, закрывающая двери",
+      "year": "2022",
+      "type": "Аниме",
+      "runtime": "2 ч 1 мин",
+      "genres": "мультфильм, драма, приключения, фэнтези",
+      "studios": "🟢 CoMix Wave Films, 🟢 Story, 🟢 Lawson Entertainment, 🟢 jeki, 🟢 voque ting, 🟢 KADOKAWA, 🟢 Aniplex, 🟢 TOHO",
+      "budget": "13.000.000 $",
+      "revenue": "314.992.206 $",
+      "tmdbRating": "7.892",
+      "overview": "16-летняя Судзумэ живёт в тихом городке на острове Кюсю. Однажды по дороге в школу она встречает молодого путешественника, который спрашивает, где в окрестностях находятся развалины. Любопытство берёт верх, и девушка решает посмотреть, что же там такого интересного — пробирается на местную заброшку, находит там загадочную дверь, открывает её и вытаскивает из земли странный камень. Вскоре из открытой двери выбирается гигантская сущность и провоцирует землетрясение. Теперь Судзумэ вместе с тем самым незнакомцем, внезапно обращенным в детский стульчик, приходится отправиться в погоню за вредным говорящим котиком, чтобы закрыть открывающиеся по всей стране двери и предотвратить новые разрушения.",
+      "poster": "https://image.tmdb.org/t/p/w500/6YkQu9TRAsZhGGh0t7U7DP1BuhQ.jpg",
+      "tagline": "",
+      "backdrop": "https://image.tmdb.org/t/p/original/4tdV5AeojEdbvn6VpeQrbuDlmzs.jpg",
+      "cast": [
+        {
+          "name": "Нанока Хара",
+          "photo": "https://image.tmdb.org/t/p/w185/gbK8GbkeOvd1ZdYoxkEajYvXFjI.jpg"
+        },
+        {
+          "name": "Хокуто Мацумура",
+          "photo": "https://image.tmdb.org/t/p/w185/rtdHPwvoSel4m4CbJwZgcfnFsA0.jpg"
+        },
+        {
+          "name": "Эри Фукацу",
+          "photo": "https://image.tmdb.org/t/p/w185/xlSYQwDHZaXRFVh29JfRlu4EedP.jpg"
+        },
+        {
+          "name": "Сёта Сомэтани",
+          "photo": "https://image.tmdb.org/t/p/w185/sEEfyEfEbd9TQB9gFlvDTQJov76.jpg"
+        }
+      ],
+      "director": {
+        "name": "Макото Синкай",
+        "photo": "https://image.tmdb.org/t/p/w185/z8TN4Nkmhem6XqcnH2jMn5Ayf97.jpg"
+      },
+      "trailer": "",
+      "ageRating": "Нет данных",
+      "keywords": "magic, door, natural disaster, calamity, travel",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1a779f10-8b2e-4a2a-a3a2-1b9632594139-profile_image-600x600.png",
+      "collection": "",
+      "id": 2,
+      "dateRequested": "23.07.2026 22:09",
       "status": "Не смотрели",
       "ourRating": "Без оценки",
       "cried": false,
