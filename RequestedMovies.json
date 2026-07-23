@@ -1,56 +1,8 @@
 {
   "_metadata_": {
-    "streamer": "MadMan1408",
-    "lastUpdated": "18.07.2026 19:26"
+    "streamer": "prrsephonne",
+    "lastUpdated": "23.07.2026 21:48"
   },
-  "cross_loss": [
-    {
-      "id": 26,
-      "title": "Начало",
-      "year": "2010",
-      "type": "Фильм",
-      "runtime": "2 ч 28 мин",
-      "genres": "боевик, фантастика, приключения",
-      "studios": "🔴 Warner Bros. Pictures | 🟢 Legendary Pictures, 🟢 Syncopy",
-      "budget": "160.000.000 $",
-      "revenue": "839.030.630 $",
-      "tmdbRating": "8.372",
-      "overview": "Дом Кобб — талантливый вор, лучший из лучших в опасном искусстве извлечения: он крадёт ценные секреты из глубин подсознания во время сна, когда человеческий разум наиболее уязвим. Редкие способности Кобба сделали его ценным игроком в привычном к предательству мире промышленного шпионажа, но они же превратили его в извечного беглеца и лишили всего, что он когда-либо любил.  И вот у Кобба появляется шанс исправить ошибки. Его последнее дело может вернуть всё назад, но для этого ему нужно совершить невозможное — инициацию. Вместо идеальной кражи Кобб и его команда спецов должны будут провернуть обратное. Теперь их задача — не украсть идею, а внедрить её. Если у них получится, это и станет идеальным преступлением.  Но никакое планирование или мастерство не могут подготовить команду к встрече с опасным противником, который, кажется, предугадывает каждый их ход. Врагом, увидеть которого мог бы лишь Кобб.",
-      "dateRequested": "06.07.2026 20:03",
-      "status": "Не смотрели",
-      "ourRating": "Без оценки",
-      "poster": "https://image.tmdb.org/t/p/w500/piQXcdOGgv1O9HQ07pI0tnjkGJw.jpg",
-      "tagline": "«Твой разум – место преступления»",
-      "backdrop": "https://image.tmdb.org/t/p/original/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg",
-      "cast": [
-        {
-          "name": "Леонардо ДиКаприо",
-          "photo": "https://image.tmdb.org/t/p/w185/mkdRcVIQl4WZhDf1vXKWTD7HZrZ.jpg"
-        },
-        {
-          "name": "Джозеф Гордон-Левитт",
-          "photo": "https://image.tmdb.org/t/p/w185/z2FA8js799xqtfiFjBTicFYdfk.jpg"
-        },
-        {
-          "name": "Кэн Ватанабэ",
-          "photo": "https://image.tmdb.org/t/p/w185/psAXOYp9SBOXvg6AXzARDedNQ9P.jpg"
-        },
-        {
-          "name": "Том Харди",
-          "photo": "https://image.tmdb.org/t/p/w185/d81K0RH8UX7tZj49tZaQhZ9ewH.jpg"
-        }
-      ],
-      "director": {
-        "name": "Кристофер Нолан",
-        "photo": "https://image.tmdb.org/t/p/w185/xuAIuYSmsUzKlUMBFGVZaWsY3DZ.jpg"
-      },
-      "trailer": "https://www.youtube.com/watch?v=RlKr_lO45Nc",
-      "ageRating": "12+",
-      "collection": "",
-      "keywords": "mission, dreams, kidnapping, spy, allegory",
-      "userAvatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-600x600.png"
-    }
-  ],
   "MadMan1408": [
     {
       "id": 2,
@@ -384,6 +336,153 @@
       "cried": false,
       "isAuction": false,
       "dateWatched": "17.07.2026 23:44"
+    },
+    {
+      "title": "Аватар",
+      "year": "2009",
+      "type": "Фильм",
+      "runtime": "2 ч 42 мин",
+      "genres": "боевик, фантастика, приключения",
+      "studios": "🟢 Dune Entertainment, 🟢 Lightstorm Entertainment, 🟢 20th Century Fox, 🟢 Ingenious Film Partners",
+      "budget": "237.000.000 $",
+      "revenue": "2.923.706.026 $",
+      "tmdbRating": "7.61",
+      "overview": "Джейк Салли, бывший морской пехотинец, прикованный к инвалидному креслу. Несмотря на немощное тело, Джейк в душе по-прежнему остаётся воином. Он получает задание совершить путешествие в несколько световых лет к базе землян на планете Пандора, где корпорации добывают редкий минерал, имеющий огромное значение для выхода Земли из энергетического кризиса.",
+      "poster": "https://image.tmdb.org/t/p/w500/lUKcrcO3wEPhNnzGq06JIX7GIEb.jpg",
+      "tagline": "«Это Новый Мир»",
+      "backdrop": "https://image.tmdb.org/t/p/original/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
+      "cast": [
+        {
+          "name": "Сэм Уортингтон",
+          "photo": "https://image.tmdb.org/t/p/w185/vM1WIfYQ1HUBtlVPwB9Hp9fLcn8.jpg"
+        },
+        {
+          "name": "Зои Салдана",
+          "photo": "https://image.tmdb.org/t/p/w185/fCJuIn1PMUQtYdRRSnnoZeMJVWs.jpg"
+        },
+        {
+          "name": "Сигурни Уивер",
+          "photo": "https://image.tmdb.org/t/p/w185/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg"
+        },
+        {
+          "name": "Стивен Лэнг",
+          "photo": "https://image.tmdb.org/t/p/w185/gnO5VfkDgA2fsHweD0622LUY3Hu.jpg"
+        }
+      ],
+      "director": {
+        "name": "Джеймс Кэмерон",
+        "photo": "https://image.tmdb.org/t/p/w185/9NAZnTjBQ9WcXAQEzZpKy4vdQto.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=uXC_0wE6k7k",
+      "ageRating": "12+",
+      "keywords": "paraplegic, attachment to nature, culture clash, indigenous, space travel",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
+      "collection": "Аватар (Коллекция)",
+      "id": 3,
+      "dateRequested": "22.07.2026 13:04",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false
+    },
+    {
+      "title": "Робин Гуд",
+      "year": "2025",
+      "type": "Сериал",
+      "runtime": "Неизвестно",
+      "genres": "драма, Боевик и Приключения",
+      "studios": "🟢 Lionsgate Television, 🟢 Hidden Pictures, 🟢 MGM+ Studios, 🟢 English Glenn Media",
+      "budget": "Нет данных",
+      "revenue": "Нет данных",
+      "tmdbRating": "7.503",
+      "overview": "Роб, саксонский разбойник, и Мариан, нормандская дворянка, объединяются, чтобы бороться с несправедливостью после нормандского завоевания. Он возглавляет отряд мятежников, а она внедряется в коррумпированный двор. Оба стремятся к справедливости и миру.",
+      "poster": "https://image.tmdb.org/t/p/w500/pZycMzExEItZ4RGZ20drSbDq5Wc.jpg",
+      "tagline": "",
+      "backdrop": "https://image.tmdb.org/t/p/original/uoIOfRNmu47P2fET2KnrYHt3TH.jpg",
+      "cast": [
+        {
+          "name": "Джек Паттен",
+          "photo": "https://image.tmdb.org/t/p/w185/sIE11wI7czGjYCUOlEKqXguIdsl.jpg"
+        },
+        {
+          "name": "Лорен МакКуин",
+          "photo": "https://image.tmdb.org/t/p/w185/fdoKXXGRL8cLrRhP5bP5MPdK9Uc.jpg"
+        },
+        {
+          "name": "Лидия Пекхэм",
+          "photo": "https://image.tmdb.org/t/p/w185/tcBJklZSsP2JuQIYataJHW3pJXE.jpg"
+        },
+        {
+          "name": "Маркус Фрэйзер",
+          "photo": "https://image.tmdb.org/t/p/w185/qpAxGk8XjUxNsfcW5B1YMupOff5.jpg"
+        }
+      ],
+      "director": {
+        "name": "Джонатан Инглиш",
+        "photo": "https://image.tmdb.org/t/p/w185/5pLNxwzjU4pLnYALSupZ5j3dFDx.jpg"
+      },
+      "trailer": "",
+      "ageRating": "TV-MA",
+      "keywords": "england, robin hood, based on myths, legends or folklore, 11th century, cheerful",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
+      "collection": "",
+      "seasons": "1",
+      "episodes": "10",
+      "tvStatus": "Returning Series",
+      "id": 4,
+      "dateRequested": "22.07.2026 13:14",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false
+    },
+    {
+      "title": "Нефть",
+      "year": "2007",
+      "type": "Фильм",
+      "runtime": "2 ч 38 мин",
+      "genres": "драма",
+      "studios": "🟢 Paramount Vantage, 🟢 Miramax, 🟢 JoAnne Sellar Productions, 🟢 Ghoulardi Film Company",
+      "budget": "25.000.000 $",
+      "revenue": "77.208.711 $",
+      "tmdbRating": "8.068",
+      "overview": "Начало XX века. Предприниматель Дэниэл Плэйнвью ищет золото и серебро, а находит нефть. За несколько лет он становится преуспевающим нефтяником, разработавшим уже несколько скважин. Однажды он узнает про новое месторождение. Уцепившись за этот шанс разбогатеть, Дэниэл делает всё, чтобы добиться своего.",
+      "poster": "https://image.tmdb.org/t/p/w500/pRDl87FFiBEeyveitkwylmE7pbQ.jpg",
+      "tagline": "«И будет кровь»",
+      "backdrop": "https://image.tmdb.org/t/p/original/9UAKA6ceZi6TgQwTAAMt7DWwYPI.jpg",
+      "cast": [
+        {
+          "name": "Дэниэл Дэй-Льюис",
+          "photo": "https://image.tmdb.org/t/p/w185/3kNA9VcmymoEwT0btQ4bvMYxzcP.jpg"
+        },
+        {
+          "name": "Пол Дано",
+          "photo": "https://image.tmdb.org/t/p/w185/gOD5bO0hKnzzJm7sJeGeEJjfBBw.jpg"
+        },
+        {
+          "name": "Кевин Дж. О'Коннор",
+          "photo": "https://image.tmdb.org/t/p/w185/9ZO0QYkxjhThd8IVqSJw7gHyQ68.jpg"
+        },
+        {
+          "name": "Киаран Хайндс",
+          "photo": "https://image.tmdb.org/t/p/w185/d8wLIX9VYgwXRGSp1gmUdUxmApv.jpg"
+        }
+      ],
+      "director": {
+        "name": "Пол Томас Андерсон",
+        "photo": "https://image.tmdb.org/t/p/w185/wKAs2LtLYSUzt3ZZ8pnxMwuEWuR.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=SwBFVSSAoWc",
+      "ageRating": "16+",
+      "keywords": "california, petrol, sibling relationship, based on novel or book, capitalism",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
+      "collection": "",
+      "id": 17,
+      "dateRequested": "22.07.2026 13:19",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false
     }
   ],
   "weenniee": [
@@ -533,46 +632,97 @@
       "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/7b108410-73a6-428c-9faf-56fd0dbcbbc6-profile_image-600x600.png"
     }
   ],
-  "prrsephonne": [
+  "di_rubens": [
     {
-      "title": "Шиттс Крик",
-      "year": "2015",
-      "type": "Сериал",
-      "runtime": "22 мин",
-      "genres": "комедия",
-      "studios": "🟢 Not A Real Company, 🟢 CBC",
-      "budget": "Нет данных",
-      "revenue": "Нет данных",
-      "tmdbRating": "7.783",
-      "overview": "Сериал рассказывает о семействе Роузов: Джонни Роуз — миллиардер, сделавший состояние на сети видеосалонов, его жена — актриса мыльных опер и двое детей — хипстер Дэвид и светская львица Алексис.\n\nПосле того, как бизнес Джонни терпит крах, все семейство вынуждено переехать жить в небольшую сельскую общину Шиттс Крик, которую они приобрели несколько лет назад развлечения ради.",
-      "poster": "https://image.tmdb.org/t/p/w500/11tttftJDToWyXJNIJl8qnUuTUb.jpg",
+      "title": "Малхолланд Драйв",
+      "year": "2001",
+      "type": "Фильм",
+      "runtime": "2 ч 27 мин",
+      "genres": "триллер, драма, детектив",
+      "studios": "🟢 StudioCanal, 🟢 Les Films Alain Sarde, 🟢 Asymmetrical Productions, 🟢 Babbo",
+      "budget": "15.000.000 $",
+      "revenue": "20.289.986 $",
+      "tmdbRating": "7.8",
+      "overview": "Загадочная девушка, после автомобильной аварии страдающая потерей памяти, выбирает себе имя Рита с рекламного плаката к фильму с Ритой Хейворт и пытается начать новую жизнь в Голливуде. Но тайны прошлого неотступно преследуют ее. Кто были те двое мужчин, что сидели в одной машине с ней и погибли в аварии? Почему полиция подозревает, что она была ими похищена? И случайно ли в ее жизни появляется новая подруга, начинающая актриса Бетти?следует за голливудской мечтой.",
+      "poster": "https://image.tmdb.org/t/p/w500/vAQDExmKkujeNcYSVhLFAzjylA9.jpg",
       "tagline": "",
-      "backdrop": "https://image.tmdb.org/t/p/original/ftNmVV8LuNVmtB8mzoUTucozVKE.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/g9ClaS5EqU0Hk8WIbMNhld0Bk6f.jpg",
       "cast": [
         {
-          "name": "Юджин Леви",
-          "photo": "https://image.tmdb.org/t/p/w185/epZE1ZohKhEFCdCKYFyvtJEj0I7.jpg"
+          "name": "Наоми Уоттс",
+          "photo": "https://image.tmdb.org/t/p/w185/5s6UE6VjYx5TBDvyFk4vfOdS9GR.jpg"
         },
         {
-          "name": "Кэтрин О’Хара",
-          "photo": "https://image.tmdb.org/t/p/w185/gI2RyymLJ9ZrhEyJSD5EqSvFpCX.jpg"
+          "name": "Laura Harring",
+          "photo": "https://image.tmdb.org/t/p/w185/6g64N2VsADTPRDsKcJDO2ayGQUt.jpg"
         },
         {
-          "name": "Дэн Леви",
-          "photo": "https://image.tmdb.org/t/p/w185/2O9KqgCLHHMw5xmUpNexfWr2QVA.jpg"
+          "name": "Джастин Теру",
+          "photo": "https://image.tmdb.org/t/p/w185/vnI9L0rXBAw1HeC0Q8hJGeJMGAW.jpg"
         },
         {
-          "name": "Энни Мерфи",
-          "photo": "https://image.tmdb.org/t/p/w185/1cQ9Piq6kcTzmzJ9I4oGd7oFEdS.jpg"
+          "name": "Ann Miller",
+          "photo": "https://image.tmdb.org/t/p/w185/3IWXjk5Qc4RYBdPEQdQsyo20ymh.jpg"
         }
       ],
       "director": {
-        "name": "Юджин Леви",
-        "photo": "https://image.tmdb.org/t/p/w185/epZE1ZohKhEFCdCKYFyvtJEj0I7.jpg"
+        "name": "Дэвид Линч",
+        "photo": "https://image.tmdb.org/t/p/w185/wwBzRDoIW6Ld64h6OkQ6ImCZKsR.jpg"
       },
       "trailer": "",
-      "ageRating": "TV-14",
-      "keywords": "small town, motel, spoiled child, riches to rags, spoiled",
+      "ageRating": "18+",
+      "keywords": "amnesia, loss of sense of reality, schizophrenia, nightmare, hitman",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/0a829c8a-f2ca-4cee-b773-380fc8b5bfc7-profile_image-600x600.png",
+      "collection": "",
+      "id": 8,
+      "dateRequested": "15.07.2026 13:26",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false,
+      "dateWatched": "17.07.2026 23:45"
+    }
+  ],
+  "prrsephonne": [
+    {
+      "title": "Унесённые призраками",
+      "year": "2001",
+      "type": "Аниме",
+      "runtime": "2 ч 4 мин",
+      "genres": "мультфильм, семейный, фэнтези",
+      "studios": "🟢 Studio Ghibli, 🟢 Tokuma Shoten, 🟢 Nippon Television Network Corporation, 🟢 Mitsubishi, 🟢 dentsu, 🟢 TFC",
+      "budget": "19.000.000 $",
+      "revenue": "274.925.095 $",
+      "tmdbRating": "8.5",
+      "overview": "Тихиро с мамой и папой переезжает в новый дом. Заблудившись по дороге, они оказываются в странном пустынном городе, где их ждет великолепный пир. Родители с жадностью набрасываются на еду и к ужасу девочки превращаются в свиней, став пленниками злой колдуньи Юбабы. Теперь, оказавшись одна среди волшебных существ и загадочных видений, Тихиро должна придумать, как избавить своих родителей от чар коварной старухи.",
+      "poster": "https://image.tmdb.org/t/p/w500/xV3zYcOA6xFjYwizIMDDkl2MGT7.jpg",
+      "tagline": "«Туннель привел Тихиро в таинственный город ...»",
+      "backdrop": "https://image.tmdb.org/t/p/original/dyJvKsNs2KP8qQnAXbRwDjblViy.jpg",
+      "cast": [
+        {
+          "name": "Руми Хиираги",
+          "photo": "https://image.tmdb.org/t/p/w185/nTKM4GgfkrZvAOFL55uhEuckt7M.jpg"
+        },
+        {
+          "name": "Мию Ирино",
+          "photo": "https://image.tmdb.org/t/p/w185/8qEEhHUObNvGQr4e6eqLu5z4qTz.jpg"
+        },
+        {
+          "name": "Мари Нацуки",
+          "photo": "https://image.tmdb.org/t/p/w185/MIFzUc77Sx57FQOZsoiGWEbpH2.jpg"
+        },
+        {
+          "name": "Такаши Наито",
+          "photo": "https://image.tmdb.org/t/p/w185/xwsm0ygjG79jLIogutwo6r64igy.jpg"
+        }
+      ],
+      "director": {
+        "name": "Хаяо Миядзаки",
+        "photo": "https://image.tmdb.org/t/p/w185/ouhjt9KugzhWtdEyBPipihB3ic8.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=Wlq6vnge20U",
+      "ageRating": "Нет данных",
+      "keywords": "witch, parent child relationship, darkness, bath house, magic",
       "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1a779f10-8b2e-4a2a-a3a2-1b9632594139-profile_image-600x600.png",
       "collection": "",
       "seasons": "6",
@@ -586,6 +736,7 @@
       "isAuction": false
     }
   ],
+  "cross_loss": [],
   "cherteya": [
     {
       "id": 13,
@@ -634,57 +785,6 @@
       "episodes": "168",
       "tvStatus": "Ended",
       "dateWatched": "18.07.2026 19:04"
-    }
-  ],
-  "di_rubens": [
-    {
-      "title": "Гладиатор",
-      "year": "2000",
-      "type": "Фильм",
-      "runtime": "2 ч 35 мин",
-      "genres": "боевик, драма, приключения",
-      "studios": "🟢 Universal Pictures, 🟢 Scott Free Productions, 🟢 Red Wagon Entertainment, 🟢 Mill Film, 🟢 DreamWorks Pictures",
-      "budget": "103.000.000 $",
-      "revenue": "465.516.248 $",
-      "tmdbRating": "8.228",
-      "overview": "Римская империя. Бесстрашного и благородного генерала Максимуса боготворят солдаты, а старый император Марк Аврелий безгранично доверяет ему и относится как к сыну. Однако опытный воин, готовый сразиться с любым противником в честном бою, оказывается бессильным перед коварными придворными интригами. Коммод, сын Марка Аврелия, убивает отца, который планировал сделать преемником не его, а Максимуса, и захватывает власть. Решив избавиться от опасного соперника, который к тому же отказывается присягнуть ему на верность, Коммод отдаёт приказ убить Максимуса и всю его семью. Чудом выжив, но не сумев спасти близких, Максимус попадает в плен к работорговцу, который продаёт его организатору гладиаторских боёв Проксимо. Так легендарный полководец становится гладиатором. Но вскоре ему представится шанс встретиться со своим смертельным врагом лицом к лицу.",
-      "poster": "https://image.tmdb.org/t/p/w500/1wjNqlfsuHNTXTpCt2ZOV2iPxaf.jpg",
-      "tagline": "«Генерал, ставший рабом. Раб, ставший гладиатором. Гладиатор, бросивший вызов империи»",
-      "backdrop": "https://image.tmdb.org/t/p/original/jhk6D8pim3yaByu1801kMoxXFaX.jpg",
-      "cast": [
-        {
-          "name": "Рассел Кроу",
-          "photo": "https://image.tmdb.org/t/p/w185/uxiXuVH4vNWrKlJMVVPG1sxAJFe.jpg"
-        },
-        {
-          "name": "Хоакин Феникс",
-          "photo": "https://image.tmdb.org/t/p/w185/u38k3hQBDwNX0VA22aQceDp9Iyv.jpg"
-        },
-        {
-          "name": "Конни Нильсен",
-          "photo": "https://image.tmdb.org/t/p/w185/gSQ3O3PJ6ly6nT63joOtfZyscFP.jpg"
-        },
-        {
-          "name": "Оливер Рид",
-          "photo": "https://image.tmdb.org/t/p/w185/dWfotc1X71wNCGyPO9hXpv8U9Gw.jpg"
-        }
-      ],
-      "director": {
-        "name": "Ридли Скотт",
-        "photo": "https://image.tmdb.org/t/p/w185/97SO7H0UlS3racqjeW5JTy8c6GM.jpg"
-      },
-      "trailer": "https://www.youtube.com/watch?v=k702zvK2zQg",
-      "ageRating": "16+",
-      "keywords": "gladiator, rome, italy, arena, senate, roman empire",
-      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/0a829c8a-f2ca-4cee-b773-380fc8b5bfc7-profile_image-600x600.png",
-      "collection": "Гладиатор (Коллекция)",
-      "id": 8,
-      "dateRequested": "15.07.2026 13:26",
-      "status": "Смотрели",
-      "ourRating": "6",
-      "cried": true,
-      "isAuction": true,
-      "dateWatched": "17.07.2026 23:45"
     }
   ],
   "sabastat_": [
