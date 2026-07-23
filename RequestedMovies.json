@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "prrsephonne",
-    "lastUpdated": "23.07.2026 22:38"
+    "lastUpdated": "23.07.2026 22:40"
   },
   "prrsephonne": [
     {
@@ -479,6 +479,54 @@
       "collection": "",
       "id": 10,
       "dateRequested": "23.07.2026 22:38",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false
+    },
+    {
+      "title": "Храбрая сердцем",
+      "year": "2012",
+      "type": "Мультфильм",
+      "runtime": "1 ч 40 мин",
+      "genres": "приключения, мультфильм, семейный, фэнтези",
+      "studios": "🟢 Pixar",
+      "budget": "185.000.000 $",
+      "revenue": "538.983.207 $",
+      "tmdbRating": "7.033",
+      "overview": "Испокон веков мифы и легенды окутывают загадочной пеленой живописные отроги Шотландских гор. Искусной лучнице Мериде приходится выбирать свой путь в жизни самостоятельно, и однажды она отказывается следовать древним традициям королевства, бросая вызов могущественным шотландским кланам и их предводителям: нескладному лорду МакГаффину, угрюмому лорду Макинтошу и сварливому лорду Дингволлу. Неосторожные поступки Мериды грозят повергнуть королевство в хаос, и тогда она отправляется за советом к эксцентричной отшельнице, которая вместо помощи накладывает на Мериду опасное заклятье. Юной принцессе предстоит полагаться только на собственную храбрость, чтобы преодолеть могущественное волшебство и победить самого страшного зверя из тех, что водятся в горных долинах.",
+      "poster": "https://image.tmdb.org/t/p/w500/lCYl7WVZfZ2oJoQCWjEyxPxpxli.jpg",
+      "tagline": "Измени свою судьбу",
+      "backdrop": "https://image.tmdb.org/t/p/original/qx9ts2hBYJrkIQxhryitxnLlm2u.jpg",
+      "cast": [
+        {
+          "name": "Келли Макдональд",
+          "photo": "https://image.tmdb.org/t/p/w185/k0yVocTnTMWlNdaeOO7YRViCdhO.jpg"
+        },
+        {
+          "name": "Эмма Томпсон",
+          "photo": "https://image.tmdb.org/t/p/w185/xVrrH7dAoeotune3TWjv5Tr3F3U.jpg"
+        },
+        {
+          "name": "Билли Коннолли",
+          "photo": "https://image.tmdb.org/t/p/w185/imqsEA1EPet7OvHx80VfTYfFcWf.jpg"
+        },
+        {
+          "name": "Джули Уолтерс",
+          "photo": "https://image.tmdb.org/t/p/w185/bCTkV2OUgzbJdQEoCk3GesE4DXq.jpg"
+        }
+      ],
+      "director": {
+        "name": "Brenda Chapman",
+        "photo": "https://image.tmdb.org/t/p/w185/dmtrKylL2Ix6h5lKGjwaSgEZFy9.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=uNghe9brTcA",
+      "ageRating": "6+",
+      "keywords": "witch, kingdom, scotland, rebel, bravery",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1a779f10-8b2e-4a2a-a3a2-1b9632594139-profile_image-600x600.png",
+      "collection": "",
+      "id": 11,
+      "dateRequested": "23.07.2026 22:40",
       "status": "Не смотрели",
       "ourRating": "Без оценки",
       "cried": false,
