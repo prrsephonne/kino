@@ -249,54 +249,6 @@
       "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false
-    },
-    {
-      "title": "Нефть",
-      "year": "2007",
-      "type": "Фильм",
-      "runtime": "2 ч 38 мин",
-      "genres": "драма",
-      "studios": "🟢 Paramount Vantage, 🟢 Miramax, 🟢 JoAnne Sellar Productions, 🟢 Ghoulardi Film Company",
-      "budget": "25.000.000 $",
-      "revenue": "77.208.711 $",
-      "tmdbRating": "8.068",
-      "overview": "Начало XX века. Предприниматель Дэниэл Плэйнвью ищет золото и серебро, а находит нефть. За несколько лет он становится преуспевающим нефтяником, разработавшим уже несколько скважин. Однажды он узнает про новое месторождение. Уцепившись за этот шанс разбогатеть, Дэниэл делает всё, чтобы добиться своего.",
-      "poster": "https://image.tmdb.org/t/p/w500/pRDl87FFiBEeyveitkwylmE7pbQ.jpg",
-      "tagline": "«И будет кровь»",
-      "backdrop": "https://image.tmdb.org/t/p/original/9UAKA6ceZi6TgQwTAAMt7DWwYPI.jpg",
-      "cast": [
-        {
-          "name": "Дэниэл Дэй-Льюис",
-          "photo": "https://image.tmdb.org/t/p/w185/3kNA9VcmymoEwT0btQ4bvMYxzcP.jpg"
-        },
-        {
-          "name": "Пол Дано",
-          "photo": "https://image.tmdb.org/t/p/w185/gOD5bO0hKnzzJm7sJeGeEJjfBBw.jpg"
-        },
-        {
-          "name": "Кевин Дж. О'Коннор",
-          "photo": "https://image.tmdb.org/t/p/w185/9ZO0QYkxjhThd8IVqSJw7gHyQ68.jpg"
-        },
-        {
-          "name": "Киаран Хайндс",
-          "photo": "https://image.tmdb.org/t/p/w185/d8wLIX9VYgwXRGSp1gmUdUxmApv.jpg"
-        }
-      ],
-      "director": {
-        "name": "Пол Томас Андерсон",
-        "photo": "https://image.tmdb.org/t/p/w185/wKAs2LtLYSUzt3ZZ8pnxMwuEWuR.jpg"
-      },
-      "trailer": "https://www.youtube.com/watch?v=SwBFVSSAoWc",
-      "ageRating": "16+",
-      "keywords": "california, petrol, sibling relationship, based on novel or book, capitalism",
-      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
-      "collection": "",
-      "id": 17,
-      "dateRequested": "22.07.2026 13:19",
-      "status": "Не смотрели",
-      "ourRating": "Без оценки",
-      "cried": false,
-      "isAuction": false
     }
   ],
   "maaminaa": [
