@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "prrsephonne",
-    "lastUpdated": "23.07.2026 22:43"
+    "lastUpdated": "23.07.2026 22:44"
   },
   "prrsephonne": [
     {
@@ -623,6 +623,54 @@
       "collection": "Атлантида (Коллекция)",
       "id": 13,
       "dateRequested": "23.07.2026 22:43",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false
+    },
+    {
+      "title": "Дорога на Эльдорадо",
+      "year": "2000",
+      "type": "Мультфильм",
+      "runtime": "1 ч 29 мин",
+      "genres": "семейный, приключения, мультфильм, комедия, фэнтези",
+      "studios": "🟢 DreamWorks Pictures, 🟢 DreamWorks Animation",
+      "budget": "95.000.000 $",
+      "revenue": "76.400.000 $",
+      "tmdbRating": "7.3",
+      "overview": "Тульо и Мигель, герои этой полнометражной мультипликационной картины, предпочитают не зарабатывать деньги тяжелым трудом. Эти два отпетых мошенника обожают, когда золотишко само идет к ним в руки. Случилось так, что этим проходимцам крупно повезло. Им посчастливилось найти таинственную карту, на которой обозначен величественный Город Золота, мифический Эльдорадо. Вместе со знаменитым конкистадором Эрнаном Кортесом приятели отправляются в рискованное путешествием за сокровищами к берегам далекой Америки.",
+      "poster": "https://image.tmdb.org/t/p/w500/kbXR4E6xhi6MFcyEvz1VKQaRhc9.jpg",
+      "tagline": "",
+      "backdrop": "https://image.tmdb.org/t/p/original/ciM5RFsBoWEj0tbwJy42Hr76iRd.jpg",
+      "cast": [
+        {
+          "name": "Кеннет Брана",
+          "photo": "https://image.tmdb.org/t/p/w185/AbCqqFxNi5w3nDUFdQt0DGMFh5H.jpg"
+        },
+        {
+          "name": "Кевин Клайн",
+          "photo": "https://image.tmdb.org/t/p/w185/ArH5dACd9AmWNNMnI6bGEkiFYIM.jpg"
+        },
+        {
+          "name": "Рози Перес",
+          "photo": "https://image.tmdb.org/t/p/w185/g6iJNyIhVDY5NxZU1jbKMjPnNYf.jpg"
+        },
+        {
+          "name": "Арманд Ассанте",
+          "photo": "https://image.tmdb.org/t/p/w185/9HbbWAJacTHguO2InDVHKGnaasm.jpg"
+        }
+      ],
+      "director": {
+        "name": "Bibo Bergeron",
+        "photo": "https://image.tmdb.org/t/p/w185/vMn3y1RUea6vFdYk472a9Zq3lFj.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=2tDlloJk2b8",
+      "ageRating": "Нет данных",
+      "keywords": "gold, horse, cartoon, musical, con artist",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1a779f10-8b2e-4a2a-a3a2-1b9632594139-profile_image-600x600.png",
+      "collection": "",
+      "id": 14,
+      "dateRequested": "23.07.2026 22:44",
       "status": "Не смотрели",
       "ourRating": "Без оценки",
       "cried": false,
