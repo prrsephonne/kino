@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "prrsephonne",
-    "lastUpdated": "23.07.2026 22:09"
+    "lastUpdated": "23.07.2026 22:10"
   },
   "prrsephonne": [
     {
@@ -95,6 +95,54 @@
       "collection": "",
       "id": 2,
       "dateRequested": "23.07.2026 22:09",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false
+    },
+    {
+      "title": "Тоннель в лето, выход прощаний",
+      "year": "2022",
+      "type": "Аниме",
+      "runtime": "1 ч 23 мин",
+      "genres": "мультфильм, драма, мелодрама, фэнтези, фантастика",
+      "studios": "🟢 CLAP, 🟢 Pony Canyon, 🟢 Shogakukan, 🟢 Sotsu, 🟢 STUDIO MAUSU, 🟢 Kansai Television",
+      "budget": "Нет данных",
+      "revenue": "872.000 $",
+      "tmdbRating": "7.731",
+      "overview": "Однажды Каору Тоно узнал городскую легенду, согласно которой, если найти тоннель Урасима и пройти по нему до конца, то исполнится самое заветное желание. Однако плата за это велика. Мечта станет явью лишь в обмен на несколько лет жизни. И вот как-то ночью Каору обнаруживает себя перед входом в этот самый подозрительный тоннель, о котором ходит так много слухов. Глядя на него, Каору осознаёт, что поглощён воспоминаниями о своей младшей сестре Карэн, которая пять лет назад погибла в результате несчастного случая.\r К большому сюрпризу Каору, оказывается, что в данный момент у тоннеля он находится не в одиночестве. Сюда за ним последовала недавно переведённая студентка Андзу Ханасиро, которая обещает помочь ему провести эксперимент с тоннелем. Однако неясно, зачем ей это нужно? И чего она хочет от Каору?",
+      "poster": "https://image.tmdb.org/t/p/w500/tc84wVdGjFeMno90XIrd75N40LW.jpg",
+      "tagline": "",
+      "backdrop": "https://image.tmdb.org/t/p/original/rWJc5BkI7Op1IYMb3gW6qGjOnIp.jpg",
+      "cast": [
+        {
+          "name": "Одзи Судзука",
+          "photo": "https://image.tmdb.org/t/p/w185/k5hKLBwSvxcwfSxetS4uo60Knx.jpg"
+        },
+        {
+          "name": "Мариэ Итоё",
+          "photo": "https://image.tmdb.org/t/p/w185/aPe3k3pB1aDG6rROVFrMuvSRouQ.jpg"
+        },
+        {
+          "name": "Тасуку Хатанака",
+          "photo": "https://image.tmdb.org/t/p/w185/xPDqoxAia1ShoVC2aMS2ZDPDWzG.jpg"
+        },
+        {
+          "name": "Ариса Комия",
+          "photo": "https://image.tmdb.org/t/p/w185/kQNteaY9vYGXW1wklQSCfkEukod.jpg"
+        }
+      ],
+      "director": {
+        "name": "Томохиса Тагути",
+        "photo": "https://image.tmdb.org/t/p/w185/c2UHmjFjfQ9fxoFjz2990VdXWhF.jpg"
+      },
+      "trailer": "",
+      "ageRating": "Нет данных",
+      "keywords": "high school, adolescence, legend, supernatural, time travel",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1a779f10-8b2e-4a2a-a3a2-1b9632594139-profile_image-600x600.png",
+      "collection": "",
+      "id": 3,
+      "dateRequested": "23.07.2026 22:10",
       "status": "Не смотрели",
       "ourRating": "Без оценки",
       "cried": false,
