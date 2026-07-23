@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "prrsephonne",
-    "lastUpdated": "23.07.2026 22:10"
+    "lastUpdated": "23.07.2026 22:11"
   },
   "prrsephonne": [
     {
@@ -143,6 +143,54 @@
       "collection": "",
       "id": 3,
       "dateRequested": "23.07.2026 22:10",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false
+    },
+    {
+      "title": "Здравствуй, мир",
+      "year": "2019",
+      "type": "Аниме",
+      "runtime": "1 ч 34 мин",
+      "genres": "мультфильм, мелодрама, фантастика, драма",
+      "studios": "🟢 Graphinica, 🟢 TOHO, 🟢 Hikari TV, 🟢 Shueisha, 🟢 jeki, 🟢 movic, 🟢 MBS, 🟢 TV Osaka, 🟢 Kansai Television, 🟢 Yomiuri Telecasting Corporation, 🟢 Lawson Entertainment, 🟢 CyberAgent, 🟢 Marui Group, 🟢 Tokyo MX, 🟢 LINE, 🟢 Memory-Tech Holdings",
+      "budget": "Нет данных",
+      "revenue": "Нет данных",
+      "tmdbRating": "7.334",
+      "overview": "Япония, Киото. 2027 год. Старшеклассник Наоми Катагаки сталкивается со странным парнем, который внешне похож на него. Более того, незнакомец утверждает, что он тоже Наоми, но прибыл из будущего, 2037 года. Разобравшись в ситуации и объединив свои силы, эта парочка должна изменить будущее и спасти одноклассницу Рури Итигё, с которой нынешний Наоми начнёт встречаться через три месяца.",
+      "poster": "https://image.tmdb.org/t/p/w500/oTjN0WO8QVmfAVYkEfEr32ERT7a.jpg",
+      "tagline": "",
+      "backdrop": "https://image.tmdb.org/t/p/original/cXEZWZSxiD7w96p1sCd23FL2O9y.jpg",
+      "cast": [
+        {
+          "name": "Такуми Китамура",
+          "photo": "https://image.tmdb.org/t/p/w185/dbjTrQJaEDkoMX0h3QSHkad9A3b.jpg"
+        },
+        {
+          "name": "Тоори Мацудзака",
+          "photo": "https://image.tmdb.org/t/p/w185/8JcMm3al3gySuay2EiW3CI19Apj.jpg"
+        },
+        {
+          "name": "Минами Хамабэ",
+          "photo": "https://image.tmdb.org/t/p/w185/eQN8N2chINckvQDiNqzDXI0v9vN.jpg"
+        },
+        {
+          "name": "Харука Фукухара",
+          "photo": "https://image.tmdb.org/t/p/w185/oFIeP0H13VZO5saGFMcRVEAlw4t.jpg"
+        }
+      ],
+      "director": {
+        "name": "Томохико Ито",
+        "photo": "https://image.tmdb.org/t/p/w185/GyFpjtodiP19QlMue8Yu41N3gG.jpg"
+      },
+      "trailer": "",
+      "ageRating": "12+",
+      "keywords": "japan, video game, rehabilitation, time travel, futuristic",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1a779f10-8b2e-4a2a-a3a2-1b9632594139-profile_image-600x600.png",
+      "collection": "",
+      "id": 4,
+      "dateRequested": "23.07.2026 22:11",
       "status": "Не смотрели",
       "ourRating": "Без оценки",
       "cried": false,
