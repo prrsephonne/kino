@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "prrsephonne",
-    "lastUpdated": "23.07.2026 22:40"
+    "lastUpdated": "23.07.2026 22:41"
   },
   "prrsephonne": [
     {
@@ -527,6 +527,54 @@
       "collection": "",
       "id": 11,
       "dateRequested": "23.07.2026 22:40",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false
+    },
+    {
+      "title": "Клаус",
+      "year": "2019",
+      "type": "Мультфильм",
+      "runtime": "1 ч 36 мин",
+      "genres": "мультфильм, семейный, комедия",
+      "studios": "🟢 Atresmedia, 🟢 The SPA Studios",
+      "budget": "Нет данных",
+      "revenue": "Нет данных",
+      "tmdbRating": "8.2",
+      "overview": "Почтальон-эгоист и нелюдимый мастер-игрушечник заводят странную дружбу, принося чистую радость в тёмный и холодный город, которому не хватает надежды.",
+      "poster": "https://image.tmdb.org/t/p/w500/iQ4WqwaeYzL9Hiljji98AkwR8Ix.jpg",
+      "tagline": "«Узнайте о дружбе, которая положила начало легенде»",
+      "backdrop": "https://image.tmdb.org/t/p/original/cYQvXNPZLow73lhspVQ7CYlT3Mi.jpg",
+      "cast": [
+        {
+          "name": "Джейсон Шварцман",
+          "photo": "https://image.tmdb.org/t/p/w185/gCjMdmW1DiPAClHVl4zHEIffIsE.jpg"
+        },
+        {
+          "name": "Джей Кей Симмонс",
+          "photo": "https://image.tmdb.org/t/p/w185/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+        },
+        {
+          "name": "Рашида Джонс",
+          "photo": "https://image.tmdb.org/t/p/w185/cgWGm9eYCretBWeljPVtpRV7n6V.jpg"
+        },
+        {
+          "name": "Джоан Кьюсак",
+          "photo": "https://image.tmdb.org/t/p/w185/59UIeHZFYrKyP20lXqijtfTXglO.jpg"
+        }
+      ],
+      "director": {
+        "name": "Серджо Паблос",
+        "photo": "https://image.tmdb.org/t/p/w185/yUbwlVSiUZpjRYoD4XqFdiM1Knq.jpg"
+      },
+      "trailer": "",
+      "ageRating": "6+",
+      "keywords": "friendship, small town, island, holiday, santa claus",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1a779f10-8b2e-4a2a-a3a2-1b9632594139-profile_image-600x600.png",
+      "collection": "",
+      "id": 12,
+      "dateRequested": "23.07.2026 22:41",
       "status": "Не смотрели",
       "ourRating": "Без оценки",
       "cried": false,
