@@ -1,9 +1,58 @@
 {
   "_metadata_": {
     "streamer": "prrsephonne",
-    "lastUpdated": "23.07.2026 22:05"
+    "lastUpdated": "23.07.2026 22:08"
   },
-  "prrsephonne": [],
+  "prrsephonne": [
+    {
+      "title": "Афоня",
+      "year": "1975",
+      "type": "Фильм",
+      "runtime": "1 ч 32 мин",
+      "genres": "драма, комедия, мелодрама",
+      "studios": "🟢 Mosfilm",
+      "budget": "Нет данных",
+      "revenue": "Нет данных",
+      "tmdbRating": "7.736",
+      "overview": "Слесарь-сантехник ЖЭКа Афанасий Борщев, которого жильцы запросто зовут Афоня, — человек открытой и доброй души. Живет он, правда, бездумно и легко, но, может быть, именно потому бывает ему порой тоскливо. Тогда он наведывается в местную пивную, где есть у него друг Федул. Однажды на танцах он знакомится с милой и трогательной девушкой Катей, полюбившей Афоню. Но он избегает ее, так как сердце его пленила хозяйка квартиры 58, красавица Елена. Однако вскоре выясняется, что она замужем. Почувствовав себя одиноким и никому не нужным, он едет в деревню к тетке.",
+      "poster": "https://image.tmdb.org/t/p/w500/6wp40fUEK8qlfqyFE1uvTV8bg4e.jpg",
+      "tagline": "«Плохой хороший человек»",
+      "backdrop": "https://image.tmdb.org/t/p/original/mRXBRZXbYqJmcrWVhT5xpPY43F.jpg",
+      "cast": [
+        {
+          "name": "Леонид Куравлёв",
+          "photo": "https://image.tmdb.org/t/p/w185/6miBIGzextAEZ3H80iWskJPcFfr.jpg"
+        },
+        {
+          "name": "Евгения Симонова",
+          "photo": "https://image.tmdb.org/t/p/w185/zcRJop5VqS4J8MieZtuM6rvq3GL.jpg"
+        },
+        {
+          "name": "Евгений Леонов",
+          "photo": "https://image.tmdb.org/t/p/w185/uJiqS63TeqkA1fZ1znoxuLLPhyc.jpg"
+        },
+        {
+          "name": "Савелий Крамаров",
+          "photo": "https://image.tmdb.org/t/p/w185/qK4uiAx5Y2CMPjY9zDzFiIAT4eZ.jpg"
+        }
+      ],
+      "director": {
+        "name": "Георгий Данелия",
+        "photo": "https://image.tmdb.org/t/p/w185/xw1nTEaWzd0QEQGRFGAU0s9xwd9.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=95jOFAc2WFc",
+      "ageRating": "12+",
+      "keywords": "dancing, plumber, soviet union, satire, alcoholism",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1a779f10-8b2e-4a2a-a3a2-1b9632594139-profile_image-600x600.png",
+      "collection": "",
+      "id": 1,
+      "dateRequested": "23.07.2026 22:08",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false
+    }
+  ],
   "di_rubens": [],
   "MadMan1408": [],
   "weenniee": [],
