@@ -3,105 +3,6 @@
     "streamer": "prrsephonne",
     "lastUpdated": "23.07.2026 22:03"
   },
-  "MadMan1408": [
-    {
-      "id": 10,
-      "title": "Евротур",
-      "year": "2004",
-      "type": "Фильм",
-      "runtime": "1 ч 30 мин",
-      "genres": "комедия",
-      "studios": "🟢 The Montecito Picture Company, 🟢 Blue Sea Productions",
-      "budget": "25.000.000 $",
-      "revenue": "22.605.153 $",
-      "tmdbRating": "6.62",
-      "overview": "Выпускнику школы Скотту Томасу нужна помощь в изучении немецкого языка, поэтому он знакомится с жителем Германии по имени Майк и начинает с ним дружескую переписку. Причём Скотт абсолютно уверен, что Майк — это парень, и делится с ним своими переживаниями и проблемами, которые возникают у него с девушкой. Но в конце концов Скотт узнаёт, что Майк, точнее Мике — это обворожительная блондинка, которой Скотт очень понравился. И теперь он сделает всё, чтобы увидеться с Мике, даже совершит путешествие по Европе.",
-      "dateRequested": "13.07.2026 16:59",
-      "status": "Не смотрели",
-      "ourRating": "Без оценки",
-      "cried": false,
-      "isAuction": false,
-      "poster": "https://image.tmdb.org/t/p/w500/pyNDzXP4UCYz4vDb9ZKaRplumRt.jpg",
-      "tagline": "«Ни один европеец не пострадал при съёмках этого фильма»",
-      "backdrop": "https://image.tmdb.org/t/p/original/fuKb0cuIU9DpUhHrN0ycoFmr63e.jpg",
-      "cast": [
-        {
-          "name": "Скотт Мекловиц",
-          "photo": "https://image.tmdb.org/t/p/w185/2PMsSnuukuRmHCKcQqqCnD0MIN8.jpg"
-        },
-        {
-          "name": "Джейкоб Питтс",
-          "photo": "https://image.tmdb.org/t/p/w185/hSgGV6HNDk9GHObRkOGyFue0WUu.jpg"
-        },
-        {
-          "name": "Мишель Трахтенберг",
-          "photo": "https://image.tmdb.org/t/p/w185/bEGPyRINNJ6YkrLAaVguwkJXOfO.jpg"
-        },
-        {
-          "name": "Трэвис Вэстер",
-          "photo": "https://image.tmdb.org/t/p/w185/hg6T7SuR67Cb9CKXhbrVBj1H1gz.jpg"
-        }
-      ],
-      "director": {
-        "name": "Джефф Шеффер",
-        "photo": "https://image.tmdb.org/t/p/w185/zjGUb5c4k6UiM3lyOwNk7GS04ED.jpg"
-      },
-      "trailer": "",
-      "ageRating": "R",
-      "collection": "",
-      "keywords": "berlin, germany, paris, france, alcohol, pen pals, travel",
-      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png"
-    },
-    {
-      "title": "Тёмный рыцарь",
-      "year": "2008",
-      "type": "Фильм",
-      "runtime": "2 ч 32 мин",
-      "genres": "боевик, криминал, триллер",
-      "studios": "🔴 Warner Bros. Pictures | 🟢 Legendary Pictures, 🟢 Syncopy, 🟢 DC",
-      "budget": "185.000.000 $",
-      "revenue": "1.004.558.444 $",
-      "tmdbRating": "8.532",
-      "overview": "Бэтмен поднимает ставки в войне с криминалом. С помощью лейтенанта Джима Гордона и прокурора Харви Дента он намерен очистить улицы от преступности, отравляющей город. Сотрудничество оказывается эффективным, но скоро они обнаружат себя посреди хаоса, развязанного восходящим криминальным гением, известным испуганным горожанам под именем Джокер.",
-      "poster": "https://image.tmdb.org/t/p/w500/aPtN76OjnNKLqCJ2FJBnQOIL031.jpg",
-      "tagline": "«Добро пожаловать в мир Хаоса!»",
-      "backdrop": "https://image.tmdb.org/t/p/original/dqK9Hag1054tghRQSqLSfrkvQnA.jpg",
-      "cast": [
-        {
-          "name": "Кристиан Бейл",
-          "photo": "https://image.tmdb.org/t/p/w185/7Pxez9J8fuPd2Mn9kex13YALrCQ.jpg"
-        },
-        {
-          "name": "Хит Леджер",
-          "photo": "https://image.tmdb.org/t/p/w185/AdWKVqyWpkYSfKE5Gb2qn8JzHni.jpg"
-        },
-        {
-          "name": "Аарон Екгарт",
-          "photo": "https://image.tmdb.org/t/p/w185/u5JjnRMr9zKEVvOP7k3F6gdcwT6.jpg"
-        },
-        {
-          "name": "Майкл Кейн",
-          "photo": "https://image.tmdb.org/t/p/w185/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg"
-        }
-      ],
-      "director": {
-        "name": "Кристофер Нолан",
-        "photo": "https://image.tmdb.org/t/p/w185/xuAIuYSmsUzKlUMBFGVZaWsY3DZ.jpg"
-      },
-      "trailer": "https://www.youtube.com/watch?v=HF1_epZNoCg",
-      "ageRating": "12+",
-      "keywords": "sadism, chaos, secret identity, crime fighter, superhero",
-      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
-      "collection": "Тёмный рыцарь (Коллекция)",
-      "id": 16,
-      "dateRequested": "15.07.2026 13:22",
-      "status": "Смотрели",
-      "ourRating": "4",
-      "cried": false,
-      "isAuction": false,
-      "dateWatched": "17.07.2026 23:44"
-    }
-  ],
   "di_rubens": [
     {
       "title": "Малхолланд Драйв",
@@ -204,6 +105,57 @@
       "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false
+    }
+  ],
+  "MadMan1408": [
+    {
+      "title": "Тёмный рыцарь",
+      "year": "2008",
+      "type": "Фильм",
+      "runtime": "2 ч 32 мин",
+      "genres": "боевик, криминал, триллер",
+      "studios": "🔴 Warner Bros. Pictures | 🟢 Legendary Pictures, 🟢 Syncopy, 🟢 DC",
+      "budget": "185.000.000 $",
+      "revenue": "1.004.558.444 $",
+      "tmdbRating": "8.532",
+      "overview": "Бэтмен поднимает ставки в войне с криминалом. С помощью лейтенанта Джима Гордона и прокурора Харви Дента он намерен очистить улицы от преступности, отравляющей город. Сотрудничество оказывается эффективным, но скоро они обнаружат себя посреди хаоса, развязанного восходящим криминальным гением, известным испуганным горожанам под именем Джокер.",
+      "poster": "https://image.tmdb.org/t/p/w500/aPtN76OjnNKLqCJ2FJBnQOIL031.jpg",
+      "tagline": "«Добро пожаловать в мир Хаоса!»",
+      "backdrop": "https://image.tmdb.org/t/p/original/dqK9Hag1054tghRQSqLSfrkvQnA.jpg",
+      "cast": [
+        {
+          "name": "Кристиан Бейл",
+          "photo": "https://image.tmdb.org/t/p/w185/7Pxez9J8fuPd2Mn9kex13YALrCQ.jpg"
+        },
+        {
+          "name": "Хит Леджер",
+          "photo": "https://image.tmdb.org/t/p/w185/AdWKVqyWpkYSfKE5Gb2qn8JzHni.jpg"
+        },
+        {
+          "name": "Аарон Екгарт",
+          "photo": "https://image.tmdb.org/t/p/w185/u5JjnRMr9zKEVvOP7k3F6gdcwT6.jpg"
+        },
+        {
+          "name": "Майкл Кейн",
+          "photo": "https://image.tmdb.org/t/p/w185/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg"
+        }
+      ],
+      "director": {
+        "name": "Кристофер Нолан",
+        "photo": "https://image.tmdb.org/t/p/w185/xuAIuYSmsUzKlUMBFGVZaWsY3DZ.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=HF1_epZNoCg",
+      "ageRating": "12+",
+      "keywords": "sadism, chaos, secret identity, crime fighter, superhero",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
+      "collection": "Тёмный рыцарь (Коллекция)",
+      "id": 16,
+      "dateRequested": "15.07.2026 13:22",
+      "status": "Смотрели",
+      "ourRating": "4",
+      "cried": false,
+      "isAuction": false,
+      "dateWatched": "17.07.2026 23:44"
     }
   ],
   "weenniee": [],
