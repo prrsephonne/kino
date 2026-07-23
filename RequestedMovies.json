@@ -1,59 +1,8 @@
 {
   "_metadata_": {
     "streamer": "prrsephonne",
-    "lastUpdated": "23.07.2026 22:03"
+    "lastUpdated": "23.07.2026 22:04"
   },
-  "di_rubens": [
-    {
-      "title": "Малхолланд Драйв",
-      "year": "2001",
-      "type": "Фильм",
-      "runtime": "2 ч 27 мин",
-      "genres": "триллер, драма, детектив",
-      "studios": "🟢 StudioCanal, 🟢 Les Films Alain Sarde, 🟢 Asymmetrical Productions, 🟢 Babbo",
-      "budget": "15.000.000 $",
-      "revenue": "20.289.986 $",
-      "tmdbRating": "7.8",
-      "overview": "Загадочная девушка, после автомобильной аварии страдающая потерей памяти, выбирает себе имя Рита с рекламного плаката к фильму с Ритой Хейворт и пытается начать новую жизнь в Голливуде. Но тайны прошлого неотступно преследуют ее. Кто были те двое мужчин, что сидели в одной машине с ней и погибли в аварии? Почему полиция подозревает, что она была ими похищена? И случайно ли в ее жизни появляется новая подруга, начинающая актриса Бетти?следует за голливудской мечтой.",
-      "poster": "https://image.tmdb.org/t/p/w500/vAQDExmKkujeNcYSVhLFAzjylA9.jpg",
-      "tagline": "",
-      "backdrop": "https://image.tmdb.org/t/p/original/g9ClaS5EqU0Hk8WIbMNhld0Bk6f.jpg",
-      "cast": [
-        {
-          "name": "Наоми Уоттс",
-          "photo": "https://image.tmdb.org/t/p/w185/5s6UE6VjYx5TBDvyFk4vfOdS9GR.jpg"
-        },
-        {
-          "name": "Laura Harring",
-          "photo": "https://image.tmdb.org/t/p/w185/6g64N2VsADTPRDsKcJDO2ayGQUt.jpg"
-        },
-        {
-          "name": "Джастин Теру",
-          "photo": "https://image.tmdb.org/t/p/w185/vnI9L0rXBAw1HeC0Q8hJGeJMGAW.jpg"
-        },
-        {
-          "name": "Ann Miller",
-          "photo": "https://image.tmdb.org/t/p/w185/3IWXjk5Qc4RYBdPEQdQsyo20ymh.jpg"
-        }
-      ],
-      "director": {
-        "name": "Дэвид Линч",
-        "photo": "https://image.tmdb.org/t/p/w185/wwBzRDoIW6Ld64h6OkQ6ImCZKsR.jpg"
-      },
-      "trailer": "",
-      "ageRating": "18+",
-      "keywords": "amnesia, loss of sense of reality, schizophrenia, nightmare, hitman",
-      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/0a829c8a-f2ca-4cee-b773-380fc8b5bfc7-profile_image-600x600.png",
-      "collection": "",
-      "id": 8,
-      "dateRequested": "15.07.2026 13:26",
-      "status": "Не смотрели",
-      "ourRating": "Без оценки",
-      "cried": false,
-      "isAuction": false,
-      "dateWatched": "17.07.2026 23:45"
-    }
-  ],
   "prrsephonne": [
     {
       "title": "Унесённые призраками",
@@ -107,6 +56,7 @@
       "isAuction": false
     }
   ],
+  "di_rubens": [],
   "MadMan1408": [
     {
       "title": "Тёмный рыцарь",
