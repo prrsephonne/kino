@@ -1,58 +1,9 @@
 {
   "_metadata_": {
     "streamer": "prrsephonne",
-    "lastUpdated": "24.07.2026 09:28"
+    "lastUpdated": "24.07.2026 09:29"
   },
-  "MadMan1408": [
-    {
-      "title": "Вершина",
-      "year": "????",
-      "type": "Фильм",
-      "runtime": "1 ч 30 мин",
-      "genres": "триллер, драма",
-      "studios": "🟢 SASH Movie",
-      "budget": "Нет данных",
-      "revenue": "Нет данных",
-      "tmdbRating": "0,0",
-      "overview": "В лагерь альпинистов ночью с опозданием на два дня прибывает человек-загадка Дмитрий Зорин, который сразу начинает раздражать всех вокруг. Никто не знает, кто он и зачем здесь, но в составе группы любителей из десяти человек ему предстоит подняться на вершину горы под присмотром трёх гидов.\r Опытные проводники знают, что погода портится и поход лучше отменить, но желание заработать сильнее. На пути к пику 5200 метров их ждут метели, снежная лавина, дикие животные, страшный холод и конфликты. Но опасность не главное препятствие для Зорина и других, ведь чем ближе к вершине, тем очевиднее: от себя невозможно сбежать, пора встретиться лицом к лицу со своими страхами и ошибками прошлого.",
-      "poster": "https://image.tmdb.org/t/p/w500/sHKsjA7nHNVRUbu05gggWpdys3N.jpg",
-      "tagline": "",
-      "backdrop": "",
-      "cast": [
-        {
-          "name": "Артём Быстров",
-          "photo": "https://image.tmdb.org/t/p/w185/94CxhEWgiwzm8UpgvYarlEAHUD2.jpg"
-        },
-        {
-          "name": "Александр Робак",
-          "photo": "https://image.tmdb.org/t/p/w185/a1eLJv6F91FYPRRfmBam27KOnjj.jpg"
-        },
-        {
-          "name": "Кирилл Полухин",
-          "photo": "https://image.tmdb.org/t/p/w185/pFkLWgeIbV3Rg50LMsIkLnx63jq.jpg"
-        },
-        {
-          "name": "Андрей Смоляков",
-          "photo": "https://image.tmdb.org/t/p/w185/AcuDKPIUa6xD3LYGqDr7gqEj3o9.jpg"
-        }
-      ],
-      "director": {
-        "name": "Юрий Быков",
-        "photo": "https://image.tmdb.org/t/p/w185/v4XSMnwinUUrO2HHBrx6SN5pPez.jpg"
-      },
-      "trailer": "",
-      "ageRating": "Нет данных",
-      "keywords": "",
-      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
-      "collection": "",
-      "id": 15,
-      "dateRequested": "24.07.2026 09:28",
-      "status": "Не смотрели",
-      "ourRating": "Без оценки",
-      "cried": false,
-      "isAuction": false
-    }
-  ],
+  "MadMan1408": [],
   "prrsephonne": [
     {
       "title": "Афоня",
