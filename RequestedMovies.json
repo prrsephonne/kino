@@ -1,9 +1,9 @@
 {
   "_metadata_": {
-    "streamer": "prrsephonne",
-    "lastUpdated": "24.07.2026 09:29"
+    "streamer": "",
+    "lastUpdated": "18.08.2026 19:33",
+    "isOnlineBtnVisible": true
   },
-  "MadMan1408": [],
   "prrsephonne": [
     {
       "title": "Афоня",
@@ -14,32 +14,32 @@
       "studios": "🟢 Mosfilm",
       "budget": "Нет данных",
       "revenue": "Нет данных",
-      "tmdbRating": "7.736",
+      "tmdbRating": "7.715",
       "overview": "Слесарь-сантехник ЖЭКа Афанасий Борщев, которого жильцы запросто зовут Афоня, — человек открытой и доброй души. Живет он, правда, бездумно и легко, но, может быть, именно потому бывает ему порой тоскливо. Тогда он наведывается в местную пивную, где есть у него друг Федул. Однажды на танцах он знакомится с милой и трогательной девушкой Катей, полюбившей Афоню. Но он избегает ее, так как сердце его пленила хозяйка квартиры 58, красавица Елена. Однако вскоре выясняется, что она замужем. Почувствовав себя одиноким и никому не нужным, он едет в деревню к тетке.",
-      "poster": "https://image.tmdb.org/t/p/w500/6wp40fUEK8qlfqyFE1uvTV8bg4e.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/6wp40fUEK8qlfqyFE1uvTV8bg4e.jpg",
       "tagline": "«Плохой хороший человек»",
-      "backdrop": "https://image.tmdb.org/t/p/original/mRXBRZXbYqJmcrWVhT5xpPY43F.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/mRXBRZXbYqJmcrWVhT5xpPY43F.jpg",
       "cast": [
         {
           "name": "Леонид Куравлёв",
-          "photo": "https://image.tmdb.org/t/p/w185/6miBIGzextAEZ3H80iWskJPcFfr.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/6miBIGzextAEZ3H80iWskJPcFfr.jpg"
         },
         {
           "name": "Евгения Симонова",
-          "photo": "https://image.tmdb.org/t/p/w185/zcRJop5VqS4J8MieZtuM6rvq3GL.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/zcRJop5VqS4J8MieZtuM6rvq3GL.jpg"
         },
         {
           "name": "Евгений Леонов",
-          "photo": "https://image.tmdb.org/t/p/w185/uJiqS63TeqkA1fZ1znoxuLLPhyc.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/uJiqS63TeqkA1fZ1znoxuLLPhyc.jpg"
         },
         {
           "name": "Савелий Крамаров",
-          "photo": "https://image.tmdb.org/t/p/w185/qK4uiAx5Y2CMPjY9zDzFiIAT4eZ.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/qK4uiAx5Y2CMPjY9zDzFiIAT4eZ.jpg"
         }
       ],
       "director": {
         "name": "Георгий Данелия",
-        "photo": "https://image.tmdb.org/t/p/w185/xw1nTEaWzd0QEQGRFGAU0s9xwd9.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/xw1nTEaWzd0QEQGRFGAU0s9xwd9.jpg"
       },
       "trailer": "https://www.youtube.com/watch?v=95jOFAc2WFc",
       "ageRating": "12+",
@@ -52,7 +52,10 @@
       "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false,
-      "dateWatched": "24.07.2026 00:12"
+      "dateWatched": "24.07.2026 00:12",
+      "requestedSeason": 0,
+      "kinopoiskId": "43423",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/43423/"
     },
     {
       "title": "Судзумэ, закрывающая двери",
@@ -65,30 +68,30 @@
       "revenue": "314.992.206 $",
       "tmdbRating": "7.892",
       "overview": "16-летняя Судзумэ живёт в тихом городке на острове Кюсю. Однажды по дороге в школу она встречает молодого путешественника, который спрашивает, где в окрестностях находятся развалины. Любопытство берёт верх, и девушка решает посмотреть, что же там такого интересного — пробирается на местную заброшку, находит там загадочную дверь, открывает её и вытаскивает из земли странный камень. Вскоре из открытой двери выбирается гигантская сущность и провоцирует землетрясение. Теперь Судзумэ вместе с тем самым незнакомцем, внезапно обращенным в детский стульчик, приходится отправиться в погоню за вредным говорящим котиком, чтобы закрыть открывающиеся по всей стране двери и предотвратить новые разрушения.",
-      "poster": "https://image.tmdb.org/t/p/w500/6YkQu9TRAsZhGGh0t7U7DP1BuhQ.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/6YkQu9TRAsZhGGh0t7U7DP1BuhQ.jpg",
       "tagline": "",
-      "backdrop": "https://image.tmdb.org/t/p/original/4tdV5AeojEdbvn6VpeQrbuDlmzs.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/4tdV5AeojEdbvn6VpeQrbuDlmzs.jpg",
       "cast": [
         {
           "name": "Нанока Хара",
-          "photo": "https://image.tmdb.org/t/p/w185/gbK8GbkeOvd1ZdYoxkEajYvXFjI.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/gbK8GbkeOvd1ZdYoxkEajYvXFjI.jpg"
         },
         {
           "name": "Хокуто Мацумура",
-          "photo": "https://image.tmdb.org/t/p/w185/rtdHPwvoSel4m4CbJwZgcfnFsA0.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/rtdHPwvoSel4m4CbJwZgcfnFsA0.jpg"
         },
         {
           "name": "Эри Фукацу",
-          "photo": "https://image.tmdb.org/t/p/w185/xlSYQwDHZaXRFVh29JfRlu4EedP.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/xlSYQwDHZaXRFVh29JfRlu4EedP.jpg"
         },
         {
           "name": "Сёта Сомэтани",
-          "photo": "https://image.tmdb.org/t/p/w185/sEEfyEfEbd9TQB9gFlvDTQJov76.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/sEEfyEfEbd9TQB9gFlvDTQJov76.jpg"
         }
       ],
       "director": {
         "name": "Макото Синкай",
-        "photo": "https://image.tmdb.org/t/p/w185/z8TN4Nkmhem6XqcnH2jMn5Ayf97.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/z8TN4Nkmhem6XqcnH2jMn5Ayf97.jpg"
       },
       "trailer": "",
       "ageRating": "Нет данных",
@@ -101,7 +104,10 @@
       "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false,
-      "dateWatched": "24.07.2026 00:12"
+      "dateWatched": "24.07.2026 00:12",
+      "requestedSeason": 0,
+      "kinopoiskId": "4769135",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/4769135/"
     },
     {
       "title": "Тоннель в лето, выход прощаний",
@@ -112,32 +118,32 @@
       "studios": "🟢 CLAP, 🟢 Pony Canyon, 🟢 Shogakukan, 🟢 Sotsu, 🟢 STUDIO MAUSU, 🟢 Kansai Television",
       "budget": "Нет данных",
       "revenue": "872.000 $",
-      "tmdbRating": "7.731",
+      "tmdbRating": "7.732",
       "overview": "Однажды Каору Тоно узнал городскую легенду, согласно которой, если найти тоннель Урасима и пройти по нему до конца, то исполнится самое заветное желание. Однако плата за это велика. Мечта станет явью лишь в обмен на несколько лет жизни. И вот как-то ночью Каору обнаруживает себя перед входом в этот самый подозрительный тоннель, о котором ходит так много слухов. Глядя на него, Каору осознаёт, что поглощён воспоминаниями о своей младшей сестре Карэн, которая пять лет назад погибла в результате несчастного случая.\r К большому сюрпризу Каору, оказывается, что в данный момент у тоннеля он находится не в одиночестве. Сюда за ним последовала недавно переведённая студентка Андзу Ханасиро, которая обещает помочь ему провести эксперимент с тоннелем. Однако неясно, зачем ей это нужно? И чего она хочет от Каору?",
-      "poster": "https://image.tmdb.org/t/p/w500/tc84wVdGjFeMno90XIrd75N40LW.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/tc84wVdGjFeMno90XIrd75N40LW.jpg",
       "tagline": "",
-      "backdrop": "https://image.tmdb.org/t/p/original/rWJc5BkI7Op1IYMb3gW6qGjOnIp.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/rWJc5BkI7Op1IYMb3gW6qGjOnIp.jpg",
       "cast": [
         {
           "name": "Одзи Судзука",
-          "photo": "https://image.tmdb.org/t/p/w185/k5hKLBwSvxcwfSxetS4uo60Knx.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/k5hKLBwSvxcwfSxetS4uo60Knx.jpg"
         },
         {
           "name": "Мариэ Итоё",
-          "photo": "https://image.tmdb.org/t/p/w185/aPe3k3pB1aDG6rROVFrMuvSRouQ.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/aPe3k3pB1aDG6rROVFrMuvSRouQ.jpg"
         },
         {
           "name": "Тасуку Хатанака",
-          "photo": "https://image.tmdb.org/t/p/w185/xPDqoxAia1ShoVC2aMS2ZDPDWzG.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/xPDqoxAia1ShoVC2aMS2ZDPDWzG.jpg"
         },
         {
           "name": "Ариса Комия",
-          "photo": "https://image.tmdb.org/t/p/w185/kQNteaY9vYGXW1wklQSCfkEukod.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/kQNteaY9vYGXW1wklQSCfkEukod.jpg"
         }
       ],
       "director": {
         "name": "Томохиса Тагути",
-        "photo": "https://image.tmdb.org/t/p/w185/c2UHmjFjfQ9fxoFjz2990VdXWhF.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/c2UHmjFjfQ9fxoFjz2990VdXWhF.jpg"
       },
       "trailer": "",
       "ageRating": "Нет данных",
@@ -150,7 +156,10 @@
       "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false,
-      "dateWatched": "24.07.2026 00:12"
+      "dateWatched": "24.07.2026 00:12",
+      "requestedSeason": 0,
+      "kinopoiskId": "4837783",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/4837783/"
     },
     {
       "title": "Здравствуй, мир",
@@ -161,32 +170,32 @@
       "studios": "🟢 Graphinica, 🟢 TOHO, 🟢 Hikari TV, 🟢 Shueisha, 🟢 jeki, 🟢 movic, 🟢 MBS, 🟢 TV Osaka, 🟢 Kansai Television, 🟢 Yomiuri Telecasting Corporation, 🟢 Lawson Entertainment, 🟢 CyberAgent, 🟢 Marui Group, 🟢 Tokyo MX, 🟢 LINE, 🟢 Memory-Tech Holdings",
       "budget": "Нет данных",
       "revenue": "Нет данных",
-      "tmdbRating": "7.334",
+      "tmdbRating": "7.319",
       "overview": "Япония, Киото. 2027 год. Старшеклассник Наоми Катагаки сталкивается со странным парнем, который внешне похож на него. Более того, незнакомец утверждает, что он тоже Наоми, но прибыл из будущего, 2037 года. Разобравшись в ситуации и объединив свои силы, эта парочка должна изменить будущее и спасти одноклассницу Рури Итигё, с которой нынешний Наоми начнёт встречаться через три месяца.",
-      "poster": "https://image.tmdb.org/t/p/w500/oTjN0WO8QVmfAVYkEfEr32ERT7a.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/oTjN0WO8QVmfAVYkEfEr32ERT7a.jpg",
       "tagline": "",
-      "backdrop": "https://image.tmdb.org/t/p/original/cXEZWZSxiD7w96p1sCd23FL2O9y.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/cXEZWZSxiD7w96p1sCd23FL2O9y.jpg",
       "cast": [
         {
           "name": "Такуми Китамура",
-          "photo": "https://image.tmdb.org/t/p/w185/dbjTrQJaEDkoMX0h3QSHkad9A3b.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/dbjTrQJaEDkoMX0h3QSHkad9A3b.jpg"
         },
         {
           "name": "Тоори Мацудзака",
-          "photo": "https://image.tmdb.org/t/p/w185/8JcMm3al3gySuay2EiW3CI19Apj.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/8JcMm3al3gySuay2EiW3CI19Apj.jpg"
         },
         {
           "name": "Минами Хамабэ",
-          "photo": "https://image.tmdb.org/t/p/w185/eQN8N2chINckvQDiNqzDXI0v9vN.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/eQN8N2chINckvQDiNqzDXI0v9vN.jpg"
         },
         {
           "name": "Харука Фукухара",
-          "photo": "https://image.tmdb.org/t/p/w185/oFIeP0H13VZO5saGFMcRVEAlw4t.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/oFIeP0H13VZO5saGFMcRVEAlw4t.jpg"
         }
       ],
       "director": {
         "name": "Томохико Ито",
-        "photo": "https://image.tmdb.org/t/p/w185/GyFpjtodiP19QlMue8Yu41N3gG.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/GyFpjtodiP19QlMue8Yu41N3gG.jpg"
       },
       "trailer": "",
       "ageRating": "12+",
@@ -199,7 +208,10 @@
       "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false,
-      "dateWatched": "24.07.2026 00:12"
+      "dateWatched": "24.07.2026 00:12",
+      "requestedSeason": 0,
+      "kinopoiskId": "1253941",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/1253941/"
     },
     {
       "title": "Космическая принцесса Кагуя!",
@@ -210,32 +222,32 @@
       "studios": "🟢 Studio Colorido, 🟢 Studio Chromato, 🟢 Twin Engine",
       "budget": "Нет данных",
       "revenue": "Нет данных",
-      "tmdbRating": "8.326",
+      "tmdbRating": "8.265",
       "overview": "Жизнь Ирохи сходит с привычной орбиты, когда к ней подселяется Кагуя — беззаботная беглянка с Луны — и убеждает ее вместе выступать в виртуальном мире.",
-      "poster": "https://image.tmdb.org/t/p/w500/5ex0Nd2TjkSlcFRSvDFvqBYy6Lc.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/5ex0Nd2TjkSlcFRSvDFvqBYy6Lc.jpg",
       "tagline": "",
-      "backdrop": "https://image.tmdb.org/t/p/original/1jdPUUSy37Wzw3xuc8otI86X2gv.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/1jdPUUSy37Wzw3xuc8otI86X2gv.jpg",
       "cast": [
         {
           "name": "Юко Нацуёши",
-          "photo": "https://image.tmdb.org/t/p/w185/62JhZDG70JAzht71e1B0Y7Ny14r.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/62JhZDG70JAzht71e1B0Y7Ny14r.jpg"
         },
         {
           "name": "Анна Нагасэ",
-          "photo": "https://image.tmdb.org/t/p/w185/748FmLCklgnN8hrlBZ4bNsF4zpk.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/748FmLCklgnN8hrlBZ4bNsF4zpk.jpg"
         },
         {
           "name": "Саори Хаями",
-          "photo": "https://image.tmdb.org/t/p/w185/gLv9lO7dlUbIsmyJUvgegqAAXki.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/gLv9lO7dlUbIsmyJUvgegqAAXki.jpg"
         },
         {
           "name": "Мию Ирино",
-          "photo": "https://image.tmdb.org/t/p/w185/8qEEhHUObNvGQr4e6eqLu5z4qTz.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/8qEEhHUObNvGQr4e6eqLu5z4qTz.jpg"
         }
       ],
       "director": {
         "name": "Синго Ямасита",
-        "photo": "https://image.tmdb.org/t/p/w185/hDXw07S6P9lsxO9QDiEoI0HGFR3.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/hDXw07S6P9lsxO9QDiEoI0HGFR3.jpg"
       },
       "trailer": "",
       "ageRating": "PG",
@@ -248,7 +260,10 @@
       "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false,
-      "dateWatched": "24.07.2026 00:12"
+      "dateWatched": "24.07.2026 00:12",
+      "requestedSeason": 0,
+      "kinopoiskId": "12267286",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/12267286/"
     },
     {
       "title": "Планета сокровищ",
@@ -259,32 +274,32 @@
       "studios": "🟢 Walt Disney Pictures",
       "budget": "140.000.000 $",
       "revenue": "109.578.115 $",
-      "tmdbRating": "7.575",
+      "tmdbRating": "7.6",
       "overview": "16-летний Джим Хоукинс отправляется на поиски таинственной Планеты Сокровищ в компании настоящих космических пиратов. Под руководством корабельного кока, киборга Джона Сильвера, он становится умелым «космоплавателем» и не раз спасает космический галеон от самых серьезных опасностей: черных дыр, взрывов сверхновых и космических штормов.",
-      "poster": "https://image.tmdb.org/t/p/w500/bAEJQgE2Xq9Deny9pTqTTxUZDzr.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/bAEJQgE2Xq9Deny9pTqTTxUZDzr.jpg",
       "tagline": "Они ищут золото, но им лучше остерегаться серебра",
-      "backdrop": "https://image.tmdb.org/t/p/original/f2opsSUSiMdEp6AiY2sbC8QPd8S.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/f2opsSUSiMdEp6AiY2sbC8QPd8S.jpg",
       "cast": [
         {
           "name": "Джозеф Гордон-Левитт",
-          "photo": "https://image.tmdb.org/t/p/w185/z2FA8js799xqtfiFjBTicFYdfk.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/z2FA8js799xqtfiFjBTicFYdfk.jpg"
         },
         {
           "name": "Brian Murray",
-          "photo": "https://image.tmdb.org/t/p/w185/hjbab72rP0PopqbRHo3MKdPDd2s.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/hjbab72rP0PopqbRHo3MKdPDd2s.jpg"
         },
         {
           "name": "Эмма Томпсон",
-          "photo": "https://image.tmdb.org/t/p/w185/xVrrH7dAoeotune3TWjv5Tr3F3U.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/zQ0hWHh3tzaOOziPbABQI8s9WCu.jpg"
         },
         {
           "name": "David Hyde Pierce",
-          "photo": "https://image.tmdb.org/t/p/w185/9BSgq4yxjPry1Oghqq92S4wUIvs.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/9BSgq4yxjPry1Oghqq92S4wUIvs.jpg"
         }
       ],
       "director": {
         "name": "Рон Клементс",
-        "photo": "https://image.tmdb.org/t/p/w185/u9k9yg2EGlDsxYo3ehf35yRUfcD.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/u9k9yg2EGlDsxYo3ehf35yRUfcD.jpg"
       },
       "trailer": "https://www.youtube.com/watch?v=sPPcWMzgCsU",
       "ageRating": "0+",
@@ -297,7 +312,10 @@
       "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false,
-      "dateWatched": "24.07.2026 00:12"
+      "dateWatched": "24.07.2026 00:12",
+      "requestedSeason": 0,
+      "kinopoiskId": "864",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/864/"
     },
     {
       "title": "Парни со стволами",
@@ -308,32 +326,32 @@
       "studios": "🔴 Warner Bros. Pictures | 🟢 The Mark Gordon Company, 🟢 Joint Effort, 🟢 RatPac Entertainment",
       "budget": "50.000.000 $",
       "revenue": "86.234.523 $",
-      "tmdbRating": "6.945",
+      "tmdbRating": "6.946",
       "overview": "Реальная история о приятелях-планокурах из Майами, умудрившихся выбить в Пентагоне контракт на 300 миллионов долларов на поставку оружия.",
-      "poster": "https://image.tmdb.org/t/p/w500/4B8eiy4zIliE5sGLktkmQBnOStG.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/4B8eiy4zIliE5sGLktkmQBnOStG.jpg",
       "tagline": "Деньги, коррупция... и типа американская мечта",
-      "backdrop": "https://image.tmdb.org/t/p/original/oNoprEND25zXR6Fns8cIZUkuoMc.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/oNoprEND25zXR6Fns8cIZUkuoMc.jpg",
       "cast": [
         {
           "name": "Майлз Теллер",
-          "photo": "https://image.tmdb.org/t/p/w185/kDf3sW3USjEBDQ3Ua7lbwOfwty6.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/kDf3sW3USjEBDQ3Ua7lbwOfwty6.jpg"
         },
         {
           "name": "Джона Хилл",
-          "photo": "https://image.tmdb.org/t/p/w185/cymlWttB83MsAGR2EkTgANtjeRH.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/cymlWttB83MsAGR2EkTgANtjeRH.jpg"
         },
         {
           "name": "Ана де Армас",
-          "photo": "https://image.tmdb.org/t/p/w185/3vxvsmYLTf4jnr163SUlBIw51ee.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/eDuBeSHV0R7vuCnHHXrfa7d7IfB.jpg"
         },
         {
           "name": "Брэдли Купер",
-          "photo": "https://image.tmdb.org/t/p/w185/sQq0nft6YZmJ7EMQwPcbaxym3AL.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/sQq0nft6YZmJ7EMQwPcbaxym3AL.jpg"
         }
       ],
       "director": {
         "name": "Тодд Филлипс",
-        "photo": "https://image.tmdb.org/t/p/w185/A6FPht87DiqXzp456WjakLi2AtP.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/A6FPht87DiqXzp456WjakLi2AtP.jpg"
       },
       "trailer": "https://www.youtube.com/watch?v=4PbYYkoXYKw",
       "ageRating": "18+",
@@ -346,7 +364,10 @@
       "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false,
-      "dateWatched": "24.07.2026 00:12"
+      "dateWatched": "24.07.2026 00:12",
+      "requestedSeason": 0,
+      "kinopoiskId": "602749",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/602749/"
     },
     {
       "title": "Затерянная в свете звезд",
@@ -357,19 +378,19 @@
       "studios": "🟢 Climax Studios, 🟢 Red Dog Culture House, 🟢 SLL",
       "budget": "Нет данных",
       "revenue": "Нет данных",
-      "tmdbRating": "7.35",
+      "tmdbRating": "7.4",
       "overview": "В этом романтическом мультфильме о космосе астронавт покидает Землю и отправляется на Марс, и бескрайняя Вселенная разделяет обреченных влюбленных.",
-      "poster": "https://image.tmdb.org/t/p/w500/rVtwjG89FnHcvcIm9odmFtxTnNA.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/rVtwjG89FnHcvcIm9odmFtxTnNA.jpg",
       "tagline": "«Никогда не забывай. Где-то во вселенной есть кто-то, кто всегда тебя поддерживает.»",
-      "backdrop": "https://image.tmdb.org/t/p/original/drSJ0HVuSNFMPq5VzAEHk37BiEC.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/drSJ0HVuSNFMPq5VzAEHk37BiEC.jpg",
       "cast": [
         {
           "name": "Ким Тхэ Ри",
-          "photo": "https://image.tmdb.org/t/p/w185/gFofVUeVlIvBJMUv7maHQwWdfsk.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/gFofVUeVlIvBJMUv7maHQwWdfsk.jpg"
         },
         {
           "name": "홍경",
-          "photo": "https://image.tmdb.org/t/p/w185/wRXum47BB0ciPGINjCvT36rDuQE.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/wRXum47BB0ciPGINjCvT36rDuQE.jpg"
         },
         {
           "name": "권영미",
@@ -377,16 +398,16 @@
         },
         {
           "name": "강구한",
-          "photo": "https://image.tmdb.org/t/p/w185/31Qme50mO7AZ0xUFWvO8qVbE6uJ.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/31Qme50mO7AZ0xUFWvO8qVbE6uJ.jpg"
         }
       ],
       "director": {
         "name": "한지원",
-        "photo": "https://image.tmdb.org/t/p/w185/cu8Oq95a2Ga6CQQm59Vktmn0vct.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/6rWUCFUCQBIpUVppOuDEgeKgHvA.jpg"
       },
       "trailer": "",
       "ageRating": "PG",
-      "keywords": "astronaut, long distance relationship, anime, love story",
+      "keywords": "planet mars, astronaut, long distance relationship, anime, love story",
       "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1a779f10-8b2e-4a2a-a3a2-1b9632594139-profile_image-600x600.png",
       "collection": "",
       "id": 9,
@@ -395,7 +416,10 @@
       "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false,
-      "dateWatched": "24.07.2026 00:12"
+      "dateWatched": "24.07.2026 00:12",
+      "requestedSeason": 0,
+      "kinopoiskId": "7782314",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/7782314/"
     },
     {
       "title": "Укрась прощальное утро цветами обещания",
@@ -406,36 +430,36 @@
       "studios": "🟢 P.A.WORKS, 🟢 Bandai Visual, 🟢 Hakuhodo DY Music & Pictures, 🟢 Lantis, 🟢 Cygames, 🟢 Rakuonsha",
       "budget": "Нет данных",
       "revenue": "4.345.395 $",
-      "tmdbRating": "8.141",
+      "tmdbRating": "8.137",
       "overview": "Красавица Макия — из рода бессмертных. На протяжении веков многие армии пытались захватить её народ, чтобы завладеть секретом вечной жизни. И вот теперь, когда город разрушен, девушка прячется в лесу. Здесь она встречает потерявшего родителей маленького мальчика Эриала и начинает о нём заботиться. Проходят годы, мальчик превращается в прекрасного юношу, и у беглецов возникают чувства друг к другу. Но Макия понимает, что Эриал — простой человек, а значит, он смертен.",
-      "poster": "https://image.tmdb.org/t/p/w500/pszUBerTtwl6Ai55YSOfnpENt8j.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/pszUBerTtwl6Ai55YSOfnpENt8j.jpg",
       "tagline": "",
-      "backdrop": "https://image.tmdb.org/t/p/original/5nkKy7eEDsXqsxFLJy3GxZhE90J.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/5nkKy7eEDsXqsxFLJy3GxZhE90J.jpg",
       "cast": [
         {
           "name": "Манака Ивами",
-          "photo": "https://image.tmdb.org/t/p/w185/leKMaCBswXG8u4mfQNQ7J3y6Xow.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/leKMaCBswXG8u4mfQNQ7J3y6Xow.jpg"
         },
         {
           "name": "Мию Ирино",
-          "photo": "https://image.tmdb.org/t/p/w185/8qEEhHUObNvGQr4e6eqLu5z4qTz.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/8qEEhHUObNvGQr4e6eqLu5z4qTz.jpg"
         },
         {
           "name": "Юки Сакурай",
-          "photo": "https://image.tmdb.org/t/p/w185/k6cWl6lltnCOd0kqIOSX8rDJLcW.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/k6cWl6lltnCOd0kqIOSX8rDJLcW.jpg"
         },
         {
           "name": "Аи Каяно",
-          "photo": "https://image.tmdb.org/t/p/w185/l8ywp387rfdAS7mOExe3cEZnsk0.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/l8ywp387rfdAS7mOExe3cEZnsk0.jpg"
         }
       ],
       "director": {
         "name": "Мари Окада",
-        "photo": "https://image.tmdb.org/t/p/w185/mfq0VCH3tWJGOUGk1ivtyBH1wz3.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/mfq0VCH3tWJGOUGk1ivtyBH1wz3.jpg"
       },
       "trailer": "https://www.youtube.com/watch?v=t7OcXpcRP3g",
       "ageRating": "12+",
-      "keywords": "family relationships, coming of age, tragedy, dragon, military",
+      "keywords": "mother, immortality, adoption, family relationships, coming of age",
       "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1a779f10-8b2e-4a2a-a3a2-1b9632594139-profile_image-600x600.png",
       "collection": "",
       "id": 10,
@@ -444,7 +468,10 @@
       "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false,
-      "dateWatched": "24.07.2026 00:12"
+      "dateWatched": "24.07.2026 00:12",
+      "requestedSeason": 0,
+      "kinopoiskId": "1103852",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/1103852/"
     },
     {
       "title": "Храбрая сердцем",
@@ -455,32 +482,32 @@
       "studios": "🟢 Pixar",
       "budget": "185.000.000 $",
       "revenue": "538.983.207 $",
-      "tmdbRating": "7.033",
+      "tmdbRating": "7.034",
       "overview": "Испокон веков мифы и легенды окутывают загадочной пеленой живописные отроги Шотландских гор. Искусной лучнице Мериде приходится выбирать свой путь в жизни самостоятельно, и однажды она отказывается следовать древним традициям королевства, бросая вызов могущественным шотландским кланам и их предводителям: нескладному лорду МакГаффину, угрюмому лорду Макинтошу и сварливому лорду Дингволлу. Неосторожные поступки Мериды грозят повергнуть королевство в хаос, и тогда она отправляется за советом к эксцентричной отшельнице, которая вместо помощи накладывает на Мериду опасное заклятье. Юной принцессе предстоит полагаться только на собственную храбрость, чтобы преодолеть могущественное волшебство и победить самого страшного зверя из тех, что водятся в горных долинах.",
-      "poster": "https://image.tmdb.org/t/p/w500/lCYl7WVZfZ2oJoQCWjEyxPxpxli.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/lCYl7WVZfZ2oJoQCWjEyxPxpxli.jpg",
       "tagline": "Измени свою судьбу",
-      "backdrop": "https://image.tmdb.org/t/p/original/qx9ts2hBYJrkIQxhryitxnLlm2u.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/qx9ts2hBYJrkIQxhryitxnLlm2u.jpg",
       "cast": [
         {
           "name": "Келли Макдональд",
-          "photo": "https://image.tmdb.org/t/p/w185/k0yVocTnTMWlNdaeOO7YRViCdhO.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/k0yVocTnTMWlNdaeOO7YRViCdhO.jpg"
         },
         {
           "name": "Эмма Томпсон",
-          "photo": "https://image.tmdb.org/t/p/w185/xVrrH7dAoeotune3TWjv5Tr3F3U.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/zQ0hWHh3tzaOOziPbABQI8s9WCu.jpg"
         },
         {
           "name": "Билли Коннолли",
-          "photo": "https://image.tmdb.org/t/p/w185/imqsEA1EPet7OvHx80VfTYfFcWf.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/imqsEA1EPet7OvHx80VfTYfFcWf.jpg"
         },
         {
           "name": "Джули Уолтерс",
-          "photo": "https://image.tmdb.org/t/p/w185/bCTkV2OUgzbJdQEoCk3GesE4DXq.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/bCTkV2OUgzbJdQEoCk3GesE4DXq.jpg"
         }
       ],
       "director": {
-        "name": "Brenda Chapman",
-        "photo": "https://image.tmdb.org/t/p/w185/dmtrKylL2Ix6h5lKGjwaSgEZFy9.jpg"
+        "name": "Mark Andrews",
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/1z6t4TK2ZehNZ5gwaN7893aNhJf.jpg"
       },
       "trailer": "https://www.youtube.com/watch?v=uNghe9brTcA",
       "ageRating": "6+",
@@ -493,7 +520,10 @@
       "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false,
-      "dateWatched": "24.07.2026 00:12"
+      "dateWatched": "24.07.2026 00:12",
+      "requestedSeason": 0,
+      "kinopoiskId": "409118",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/409118/"
     },
     {
       "title": "Клаус",
@@ -504,32 +534,32 @@
       "studios": "🟢 Atresmedia, 🟢 The SPA Studios",
       "budget": "Нет данных",
       "revenue": "Нет данных",
-      "tmdbRating": "8.2",
+      "tmdbRating": "8.22",
       "overview": "Почтальон-эгоист и нелюдимый мастер-игрушечник заводят странную дружбу, принося чистую радость в тёмный и холодный город, которому не хватает надежды.",
-      "poster": "https://image.tmdb.org/t/p/w500/iQ4WqwaeYzL9Hiljji98AkwR8Ix.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/iQ4WqwaeYzL9Hiljji98AkwR8Ix.jpg",
       "tagline": "«Узнайте о дружбе, которая положила начало легенде»",
-      "backdrop": "https://image.tmdb.org/t/p/original/cYQvXNPZLow73lhspVQ7CYlT3Mi.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/cYQvXNPZLow73lhspVQ7CYlT3Mi.jpg",
       "cast": [
         {
           "name": "Джейсон Шварцман",
-          "photo": "https://image.tmdb.org/t/p/w185/gCjMdmW1DiPAClHVl4zHEIffIsE.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/gCjMdmW1DiPAClHVl4zHEIffIsE.jpg"
         },
         {
           "name": "Джей Кей Симмонс",
-          "photo": "https://image.tmdb.org/t/p/w185/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
         },
         {
           "name": "Рашида Джонс",
-          "photo": "https://image.tmdb.org/t/p/w185/cgWGm9eYCretBWeljPVtpRV7n6V.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/cgWGm9eYCretBWeljPVtpRV7n6V.jpg"
         },
         {
           "name": "Джоан Кьюсак",
-          "photo": "https://image.tmdb.org/t/p/w185/59UIeHZFYrKyP20lXqijtfTXglO.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/59UIeHZFYrKyP20lXqijtfTXglO.jpg"
         }
       ],
       "director": {
         "name": "Серджо Паблос",
-        "photo": "https://image.tmdb.org/t/p/w185/yUbwlVSiUZpjRYoD4XqFdiM1Knq.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/yUbwlVSiUZpjRYoD4XqFdiM1Knq.jpg"
       },
       "trailer": "",
       "ageRating": "6+",
@@ -542,7 +572,10 @@
       "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false,
-      "dateWatched": "24.07.2026 00:12"
+      "dateWatched": "24.07.2026 00:12",
+      "requestedSeason": 0,
+      "kinopoiskId": "957887",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/957887/"
     },
     {
       "title": "Атлантида Затерянный мир",
@@ -553,32 +586,32 @@
       "studios": "🟢 Walt Disney Pictures, 🟢 Walt Disney Feature Animation",
       "budget": "120.000.000 $",
       "revenue": "186.053.725 $",
-      "tmdbRating": "7.047",
+      "tmdbRating": "7.046",
       "overview": "Скромный картограф музея и эксперт лингвистики Майло Тэтч продолжает поиски Атлантиды, начатые еще его дедушкой. В 1914 году Тэтч, основываясь на дедушкином журнале, узнает точное расположение затерянной Атлантиды. К Майло обращается эксцентричный миллионер, друг его дедушки, который соглашается профинансировать экспедицию к Атлантиде. И Тэтч примыкает к группе людей, которые соглашаются отправиться в это рискованное плавание. Вместе с командой, Майло проделывает опасное путешествие через весь океан в поисках Атлантиды.",
-      "poster": "https://image.tmdb.org/t/p/w500/tZrPWSM80B2zpByjtUcrzDCaHlb.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/tZrPWSM80B2zpByjtUcrzDCaHlb.jpg",
       "tagline": "Атлантида ждет...",
-      "backdrop": "https://image.tmdb.org/t/p/original/4eTiLRTYwAVQyQAjuFuf3BXAony.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/4eTiLRTYwAVQyQAjuFuf3BXAony.jpg",
       "cast": [
         {
           "name": "Майкл Дж. Фокс",
-          "photo": "https://image.tmdb.org/t/p/w185/2JB4FMgQmnhbBlQ4SxWFN9EIVDi.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/2JB4FMgQmnhbBlQ4SxWFN9EIVDi.jpg"
         },
         {
           "name": "Кри Саммер",
-          "photo": "https://image.tmdb.org/t/p/w185/29VfEOJiBvNTZkIWf3YyjaNx2Gb.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/7DRq0zPUUWu55pUbnc2roVnzOJ9.jpg"
         },
         {
           "name": "Джеймс Гарнер",
-          "photo": "https://image.tmdb.org/t/p/w185/8186fvIAGrIGqnvb49CgULo34G4.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/8186fvIAGrIGqnvb49CgULo34G4.jpg"
         },
         {
           "name": "Клаудия Кристиан",
-          "photo": "https://image.tmdb.org/t/p/w185/bwmh731OxEyzgtR95nRraLDZLyB.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/bwmh731OxEyzgtR95nRraLDZLyB.jpg"
         }
       ],
       "director": {
         "name": "Гари Труздейл",
-        "photo": "https://image.tmdb.org/t/p/w185/yczbyaRGnhWYGU5OeFtTrzVaR87.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/yczbyaRGnhWYGU5OeFtTrzVaR87.jpg"
       },
       "trailer": "https://www.youtube.com/watch?v=rLWSHm1JSoU",
       "ageRating": "0+",
@@ -591,7 +624,10 @@
       "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false,
-      "dateWatched": "24.07.2026 01:01"
+      "dateWatched": "24.07.2026 01:01",
+      "requestedSeason": 0,
+      "kinopoiskId": "597",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/597/"
     },
     {
       "title": "Поймай меня, если сможешь",
@@ -604,30 +640,30 @@
       "revenue": "352.114.312 $",
       "tmdbRating": "7.978",
       "overview": "Фрэнк Эбегнейл успел поработать врачом, адвокатом и пилотом на пассажирской авиалинии — и все это до достижения полного совершеннолетия в 21 год. Мастер в обмане и жульничестве, он также обладал искусством подделки документов, что в конечном счете принесло ему миллионы долларов, которые он получил по фальшивым чекам. Агент ФБР Карл Хэнрэтти отдал бы все, чтобы схватить Фрэнка и привлечь к ответственности за свои деяния, но Фрэнк всегда опережает его на шаг, заставляя продолжать погоню.",
-      "poster": "https://image.tmdb.org/t/p/w500/9Izej6CiwFkptv6aTbRhersjAiT.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/9Izej6CiwFkptv6aTbRhersjAiT.jpg",
       "tagline": "«Правдивая история о реальном преступнике»",
-      "backdrop": "https://image.tmdb.org/t/p/original/ggC3Brchf4RqPitEh7cROFoeAWn.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/sfW8gtA6Bz2F4zK1FoCKbMqTF8Z.jpg",
       "cast": [
         {
           "name": "Леонардо ДиКаприо",
-          "photo": "https://image.tmdb.org/t/p/w185/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg"
         },
         {
           "name": "Том Хэнкс",
-          "photo": "https://image.tmdb.org/t/p/w185/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
         },
         {
           "name": "Кристофер Уокен",
-          "photo": "https://image.tmdb.org/t/p/w185/ApgDL7nudR9T2GpjCG4vESgymO2.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/ApgDL7nudR9T2GpjCG4vESgymO2.jpg"
         },
         {
           "name": "Мартин Шин",
-          "photo": "https://image.tmdb.org/t/p/w185/m2Y3Q0uyuW6htrn2W9UWCWMkpZu.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/m2Y3Q0uyuW6htrn2W9UWCWMkpZu.jpg"
         }
       ],
       "director": {
         "name": "Стивен Спилберг",
-        "photo": "https://image.tmdb.org/t/p/w185/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg"
       },
       "trailer": "",
       "ageRating": "16+",
@@ -640,7 +676,10 @@
       "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false,
-      "dateWatched": "24.07.2026 02:01"
+      "dateWatched": "24.07.2026 02:01",
+      "requestedSeason": 0,
+      "kinopoiskId": "324",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/324/"
     },
     {
       "title": "Дорога на Эльдорадо",
@@ -651,32 +690,32 @@
       "studios": "🟢 DreamWorks Pictures, 🟢 DreamWorks Animation",
       "budget": "95.000.000 $",
       "revenue": "76.400.000 $",
-      "tmdbRating": "7.3",
+      "tmdbRating": "7.302",
       "overview": "Тульо и Мигель, герои этой полнометражной мультипликационной картины, предпочитают не зарабатывать деньги тяжелым трудом. Эти два отпетых мошенника обожают, когда золотишко само идет к ним в руки. Случилось так, что этим проходимцам крупно повезло. Им посчастливилось найти таинственную карту, на которой обозначен величественный Город Золота, мифический Эльдорадо. Вместе со знаменитым конкистадором Эрнаном Кортесом приятели отправляются в рискованное путешествием за сокровищами к берегам далекой Америки.",
-      "poster": "https://image.tmdb.org/t/p/w500/kbXR4E6xhi6MFcyEvz1VKQaRhc9.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/kbXR4E6xhi6MFcyEvz1VKQaRhc9.jpg",
       "tagline": "",
-      "backdrop": "https://image.tmdb.org/t/p/original/ciM5RFsBoWEj0tbwJy42Hr76iRd.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/ciM5RFsBoWEj0tbwJy42Hr76iRd.jpg",
       "cast": [
         {
           "name": "Кеннет Брана",
-          "photo": "https://image.tmdb.org/t/p/w185/AbCqqFxNi5w3nDUFdQt0DGMFh5H.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/AbCqqFxNi5w3nDUFdQt0DGMFh5H.jpg"
         },
         {
           "name": "Кевин Клайн",
-          "photo": "https://image.tmdb.org/t/p/w185/ArH5dACd9AmWNNMnI6bGEkiFYIM.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/ArH5dACd9AmWNNMnI6bGEkiFYIM.jpg"
         },
         {
           "name": "Рози Перес",
-          "photo": "https://image.tmdb.org/t/p/w185/g6iJNyIhVDY5NxZU1jbKMjPnNYf.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/g6iJNyIhVDY5NxZU1jbKMjPnNYf.jpg"
         },
         {
           "name": "Арманд Ассанте",
-          "photo": "https://image.tmdb.org/t/p/w185/9HbbWAJacTHguO2InDVHKGnaasm.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/9HbbWAJacTHguO2InDVHKGnaasm.jpg"
         }
       ],
       "director": {
         "name": "Bibo Bergeron",
-        "photo": "https://image.tmdb.org/t/p/w185/vMn3y1RUea6vFdYk472a9Zq3lFj.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/vMn3y1RUea6vFdYk472a9Zq3lFj.jpg"
       },
       "trailer": "https://www.youtube.com/watch?v=2tDlloJk2b8",
       "ageRating": "Нет данных",
@@ -689,7 +728,123 @@
       "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false,
-      "dateWatched": "24.07.2026 02:04"
+      "dateWatched": "24.07.2026 02:04",
+      "requestedSeason": 0,
+      "kinopoiskId": "806",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/806/"
+    },
+    {
+      "title": "Стометровка",
+      "requestedSeason": 0,
+      "year": "2025",
+      "type": "Аниме",
+      "kinopoiskId": "7723338",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/7723338/",
+      "runtime": "1 ч 46 мин",
+      "genres": "мультфильм, драма",
+      "studios": "🟢 Pony Canyon, 🟢 Asmik Ace, 🟢 TBS, 🟢 Rock'n Roll Mountain, 🟢 GKIDS",
+      "budget": "Нет данных",
+      "revenue": "3.611.916 $",
+      "tmdbRating": "7.8",
+      "overview": "Школьник Тогаси — талантливый спринтер, которому с детства не было равных в беге на 100 метров. Однажды в его школу переводится Комия — бегун с железной волей, но которому не хватает техники. Тогаси начинает обучать Комию, и их дружба постепенно превращается в соперничество. Спустя годы они вновь встречаются на треке, чтобы выяснить, кто же действительно быстрее.",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/2hnzTkB8d1FcLhzbHw2uo1H73z1.jpg",
+      "tagline": "Скорость — это воля, умноженная на мечту.",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/3vvRZ4jrASzTObkhfne6Mky8LBP.jpg",
+      "cast": [
+        {
+          "name": "Тоори Мацудзака",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/8JcMm3al3gySuay2EiW3CI19Apj.jpg"
+        },
+        {
+          "name": "Сёта Сомэтани",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/sEEfyEfEbd9TQB9gFlvDTQJov76.jpg"
+        },
+        {
+          "name": "Юма Утида",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/2otstbLfQ7MXuFt1X8MFOb4OIgd.jpg"
+        },
+        {
+          "name": "Коки Утияма",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/sllSm3iZZWVLTBrDZQRtWrZUfEj.jpg"
+        }
+      ],
+      "director": {
+        "name": "Кэндзи Иваисава",
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/z1iLj5TESn8Bj4EnUCEm3ONTaHV.jpg"
+      },
+      "trailer": "",
+      "ageRating": "12+",
+      "keywords": "competition, rivalry, coming of age, based on manga, track and field",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1a779f10-8b2e-4a2a-a3a2-1b9632594139-profile_image-600x600.png",
+      "collection": "",
+      "id": 15,
+      "dateRequested": "18.08.2026 19:32",
+      "status": "Смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false,
+      "isBanned": false,
+      "isTheme": false,
+      "isWatching": false,
+      "isMarvel": false,
+      "dateWatched": "18.08.2026 19:33"
+    },
+    {
+      "title": "Нет игры — нет жизни: Начало",
+      "requestedSeason": 0,
+      "year": "2017",
+      "type": "Аниме",
+      "kinopoiskId": "1042961",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/1042961/",
+      "runtime": "1 ч 50 мин",
+      "genres": "приключения, мультфильм, драма, фэнтези, мелодрама",
+      "studios": "🟢 Madhouse, 🟢 AT-X, 🟢 KADOKAWA, 🟢 movic, 🟢 Frontier Works",
+      "budget": "Нет данных",
+      "revenue": "6.356.284 $",
+      "tmdbRating": "7.836",
+      "overview": "Война практически уничтожила землю. Среди хаоса и разрушения молодой человек по имени Рику ведёт человечество к завтрашнему дню по велению своего сердца. В один прекрасный день в руинах города эльфов он встречает девушку-изгнанницу Экс-Машин, которая просит объяснить ей, что значит иметь человеческое сердце.",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/hhoW16Go7eYn4vL8vUKlYKDDcyo.jpg",
+      "tagline": "",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/zmJtqKaByFqYrxipeXyoAUSTD1w.jpg",
+      "cast": [
+        {
+          "name": "Ёко Хикаса",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/mP3bj0s1gqJ6tCKFLhu4b1CkJj7.jpg"
+        },
+        {
+          "name": "Аи Каяно",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/l8ywp387rfdAS7mOExe3cEZnsk0.jpg"
+        },
+        {
+          "name": "Ёсицугу Мацуока",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/ugDwdWEXnmv43jcbnfAi4XwiQ8C.jpg"
+        },
+        {
+          "name": "Кадзуюки Окицу",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/vgyaK5dAxhvzAi6LJM3ZyaJd4mJ.jpg"
+        }
+      ],
+      "director": {
+        "name": "Ацуко Исидзука",
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/yGQNKilpHpGrL2SDDf7kIncnqzP.jpg"
+      },
+      "trailer": "",
+      "ageRating": "R",
+      "keywords": "magic, anti hero, post-apocalyptic future, prequel, end of the world",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1a779f10-8b2e-4a2a-a3a2-1b9632594139-profile_image-600x600.png",
+      "collection": "",
+      "id": 16,
+      "dateRequested": "18.08.2026 19:32",
+      "status": "Смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false,
+      "isBanned": false,
+      "isTheme": false,
+      "isWatching": false,
+      "isMarvel": false,
+      "dateWatched": "18.08.2026 19:33"
     }
-  ]
+  ],
+  "MadMan1408": []
 }
