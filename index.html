@@ -26,7 +26,7 @@
         }
 
         html {
-            /* Градиент перенесен в html, чтобы Canvas был виден под контентом */
+            
             background-color: var(--bg-deep);
             background-image: radial-gradient(circle at 50% 0%, var(--bg-sunset) 0%, var(--bg-velvet) 50%, var(--bg-deep) 100%);
             background-attachment: fixed;
@@ -34,7 +34,7 @@
         }
 
         body {
-            /* Сделано прозрачным, чтобы пропускать звезды */
+            
             background: transparent;
             color: var(--text-parchment);
             font-family: var(--font-text);
@@ -460,10 +460,10 @@
                         <option value="waiting">В ожидании</option>
                         <option value="watched">Смотрели</option>
                         <option value="auction">Аукцион</option>
-                        <option value="theme">Тем. неделя</option>
+                    <!-- <option value="theme">Тем. неделя</option> -->
                         <option value="marvel">Марвел</option>
-                        <option value="banned">Баны</option>
-                        <option value="cried">Вызвали слёзы</option>
+                    <!-- <option value="banned">Баны</option> -->
+                    <!-- <option value="cried">Вызвали слёзы</option> -->
                     </select>
                     
                     <button class="view-toggle-btn" id="viewToggleBtn" onclick="toggleViewMode()">
@@ -1271,7 +1271,7 @@
     loadMovies();
 </script>
 
-<!-- Скрипт магического фона из Canvas -->
+
 <script>
     const canvas = document.createElement('canvas');
     canvas.id = 'starsCanvas';
@@ -1312,7 +1312,7 @@
         stars.forEach(star => {
             ctx.beginPath();
             ctx.arc(star.x, star.y, star.radius, 0, Math.PI * 2);
-            // Используем золотистый цвет (наш --gold-light) для атмосферы
+            
             ctx.fillStyle = `rgba(255, 246, 209, ${star.alpha})`;
             ctx.fill();
             
