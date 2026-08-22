@@ -276,16 +276,47 @@
             background-color: var(--blood-red); border-radius: 50%; z-index: 15;
             box-shadow: 0 0 10px rgba(230, 34, 34, 0.8); border: 2px solid var(--bg-deep);
         }
+
+        /* --- Обновленные стили кнопок на карточках --- */
         .card-copy-btn {
-            position: absolute; right: 8px; bottom: 8px; z-index: 16;
+            position: absolute; right: 8px; z-index: 16;
             background: rgba(0, 0, 0, 0.7); border: 1px solid rgba(245, 194, 133, 0.4); color: var(--gold-main);
             cursor: pointer; padding: 6px; border-radius: 4px; display: flex; align-items: center; justify-content: center;
             transition: all 0.3s; opacity: 0; transform: scale(0.8);
         }
         .card-view-item:hover .card-copy-btn { opacity: 1; transform: scale(1); }
         .card-copy-btn:hover { color: #fff; filter: drop-shadow(0 0 8px var(--gold-main)); border-color: var(--gold-light); }
-        .card-copy-btn.shifted { bottom: 32px; }
-        
+
+        .card-tg-btn {
+            position: absolute; right: 8px; z-index: 16;
+            background: rgba(0, 0, 0, 0.7); border: 1px solid rgba(245, 194, 133, 0.4); color: var(--gold-main);
+            border-radius: 4px; display: flex; align-items: center; justify-content: center;
+            transition: all 0.3s;
+            text-decoration: none; width: 30px; height: 30px; box-sizing: border-box;
+        }
+        .card-tg-btn:hover { background: rgba(0,0,0,0.9); color: #fff; filter: drop-shadow(0 0 8px var(--gold-main)); border-color: var(--gold-light); transform: scale(1.05); }
+
+        /* --- Кнопка ТГ для таблицы --- */
+        .tg-list-btn {
+            display: inline-flex; align-items: center; justify-content: center; gap: 6px;
+            background: rgba(0, 0, 0, 0.6); color: var(--gold-light) !important;
+            border: 1px solid rgba(245, 194, 133, 0.4); padding: 4px 10px; border-radius: 4px;
+            text-decoration: none; font-family: var(--font-title); font-size: 11px; font-weight: 700;
+            transition: all 0.3s ease; box-shadow: 0 0 8px rgba(245, 194, 133, 0.15); text-transform: uppercase;
+            letter-spacing: 1px; width: fit-content; box-sizing: border-box; margin-top: 4px;
+        }
+        .tg-list-btn:hover { background: rgba(0, 0, 0, 0.8); color: #fff !important; box-shadow: 0 0 15px rgba(245, 194, 133, 0.4); border-color: var(--gold-light); transform: translateY(-1px); }
+
+        /* --- Кнопки для модального окна --- */
+        .tg-modal-badge {
+            display: inline-flex; align-items: center; gap: 4px; text-decoration: none; cursor: pointer;
+            transition: all 0.3s ease; color: var(--gold-light) !important; background: rgba(0, 0, 0, 0.6);
+            border: 1px solid rgba(245, 194, 133, 0.4); padding: 4px 12px; font-size: 11px; font-weight: 700;
+            border-radius: 4px; font-family: var(--font-title); letter-spacing: 1px; text-transform: uppercase;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.5);
+        }
+        .tg-modal-badge:hover { color: #fff !important; box-shadow: 0 0 15px rgba(245, 194, 133, 0.5); border-color: var(--gold-light); transform: translateY(-2px); }
+
         .watch-online-btn {
             background: var(--blood-red); color: #ffffff; padding: 4px 12px; font-size: 11px; font-weight: 700;
             text-transform: uppercase; letter-spacing: 1px; font-family: var(--font-title); border-radius: 4px;
@@ -293,6 +324,7 @@
             align-items: center; justify-content: center; transition: all 0.3s; border: 1px solid rgba(245, 194, 133, 0.4); cursor: pointer;
         }
         .watch-online-btn:hover { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(230, 34, 34, 0.8); color: #ffffff; border-color: var(--gold-light); }
+
 
         .modal-overlay {
             display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%;
@@ -329,7 +361,7 @@
         .modal-body { padding: 0 40px 40px 40px; position: relative; margin-top: -120px; z-index: 2; display: flex; gap: 35px; }
         .modal-poster { width: 200px; border-radius: 4px; box-shadow: 0 15px 30px rgba(0,0,0,0.9); border: 2px solid #000; outline: 1px solid var(--gold-main); align-self: flex-start; background: var(--bg-deep); }
         
-        .modal-info-main { flex: 1; background: radial-gradient(circle at 20% 30%, rgba(245, 194, 133, 0.08) 0%, transparent 70%); padding: 25px; border-radius: 8px; overflow: hidden; }
+        .modal-info-main { flex: 1; background: radial-gradient(circle at 20% 30%, rgba(245, 194, 133, 0.08) 0%, transparent 70%); padding: 25px; border-radius: 8px; overflow: hidden; margin-top: 8px; }
 
         .modal-title-wrapper { display: flex; align-items: flex-start; gap: 12px; margin-bottom: 12px; flex-wrap: nowrap; max-width: 100%; overflow: hidden; }
         .modal-title { font-family: var(--font-title); font-size: 42px; font-weight: 900; margin: 0; color: #ffffff; letter-spacing: 2px; text-shadow: 0 2px 4px rgba(0,0,0,0.9), 0 0 10px rgba(245, 194, 133, 0.4); flex-shrink: 1; min-width: 0; line-height: 1.1; }
@@ -394,8 +426,8 @@
             .movies-grid { grid-template-columns: repeat(4, 1fr); }
         }
         @media (max-width: 768px) {
-			#viewToggleBtn { display: none !important; }
-		
+            #viewToggleBtn { display: none !important; }
+        
             th:nth-child(4), td:nth-child(4) { display: none; }
             .movies-grid { grid-template-columns: repeat(2, 1fr); padding: 10px; gap: 10px; }
             .modal-body { flex-direction: column; margin-top: -60px; padding: 20px; }
@@ -411,32 +443,32 @@
             .flex-col-half.border-right-dashed { border-right: none; border-bottom: 1px solid rgba(245, 194, 133, 0.25); }
 
             .header {
-				display: flex;
-				flex-direction: column;
-				align-items: center;
-				gap: 15px; 
-				padding: 20px 10px; 
-			}
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                gap: 15px; 
+                padding: 20px 10px; 
+            }
 
-			.back-btn {
-				position: relative;
-				top: 0;
-				left: 0;
-			}
+            .back-btn {
+                position: relative;
+                top: 0;
+                left: 0;
+            }
 
-			.creator-badge {
-				position: relative;
-				top: 0;
-				right: 0;
-			}
+            .creator-badge {
+                position: relative;
+                top: 0;
+                right: 0;
+            }
 
-			.header-top h1 { 
-				font-size: 28px; 
-				margin: 5px 0 10px 0;
-			}
-			.header-top h1::before, .header-top h1::after { 
-				display: none; 
-			}
+            .header-top h1 { 
+                font-size: 28px; 
+                margin: 5px 0 10px 0;
+            }
+            .header-top h1::before, .header-top h1::after { 
+                display: none; 
+            }
         }
     
         .legendary-badge {
@@ -476,11 +508,11 @@
                 <div class="header-top"><h1>Афиша Чатика</h1></div>
                 
                 <div class="controls-panel">
-				
-					<a href="https://prrsephonne.github.io/help/" class="view-toggle-btn" style="text-decoration: none;">
-						Инструкция
-					</a>
-					
+                
+                    <a href="https://prrsephonne.github.io/help/" class="view-toggle-btn" style="text-decoration: none;">
+                        Инструкция
+                    </a>
+                    
                     <input type="text" id="searchInput" class="search-box" placeholder="Поиск..." oninput="applyFilters()">
                     <select id="userFilter" class="sort-select" onchange="applyFilters()">
                         <option value="all">Все заказчики</option>
@@ -771,24 +803,24 @@
     }
 
 
-	function renderView() {
-		const renderArea = document.getElementById('render-area');
-		renderArea.innerHTML = '';
+    function renderView() {
+        const renderArea = document.getElementById('render-area');
+        renderArea.innerHTML = '';
     
-		if (currentViewData.length === 0) {
-			renderArea.innerHTML = '<div style="text-align: center; padding: 60px; font-size: 20px; color: var(--gold-dark); font-family: var(--font-title); text-shadow: 0 0 5px rgba(0,0,0,0.8);">✧ В архивах пусто ✧</div>';
-			return;
-		}
+        if (currentViewData.length === 0) {
+            renderArea.innerHTML = '<div style="text-align: center; padding: 60px; font-size: 20px; color: var(--gold-dark); font-family: var(--font-title); text-shadow: 0 0 5px rgba(0,0,0,0.8);">✧ В архивах пусто ✧</div>';
+            return;
+        }
 
-		
-		if (window.innerWidth <= 768) {
-			renderGridMode(renderArea);
-		} else {
-			
-			if (viewMode === 'list') renderTableMode(renderArea);
-			else renderGridMode(renderArea);
-		}
-	}
+        
+        if (window.innerWidth <= 768) {
+            renderGridMode(renderArea);
+        } else {
+            
+            if (viewMode === 'list') renderTableMode(renderArea);
+            else renderGridMode(renderArea);
+        }
+    }
 
 
 
@@ -836,7 +868,9 @@
             const cleanNick = movie.requestedBy.replace('@', '').trim();
             const tr = document.createElement('tr'); tr.className = 'movie-row'; tr.onclick = () => openModal(index); 
             
-            const posterUrl = getSafePoster(movie.poster);
+            // ВНЕДРЕНО: Альтернативный постер
+            const rawPoster = movie.altPoster && movie.altPoster.trim() !== "" ? movie.altPoster : movie.poster;
+            const posterUrl = getSafePoster(rawPoster);
             const isWatched = movie.status === "Смотрели";
             
             let statusText = '';
@@ -851,13 +885,20 @@
             let watchedDetails = '';
             if (isWatched && movie.dateWatched) {
                 watchedDetails += `<div class="date-badge" style="margin-top: 0; width: fit-content;">${movie.dateWatched.split(' ')[0]}</div>`;
-                if (movie.ourRating && movie.ourRating !== "Без оценки") {
-                    const parsedRating = parseFloat(movie.ourRating);
-                    if (parsedRating === 1000) watchedDetails += `<div class="date-badge legendary-badge" style="margin-top: 0; width: fit-content; flex-direction: column; gap: 2px; padding: 4px 14px; line-height: 1.1;"><span style="font-size: 9px; text-transform: uppercase; opacity: 0.9;">Наша оценка:</span><span style="font-size: 14px; font-family: var(--font-title);">1000</span></div>`;
-                    else { const rColor = getRatingColor(movie.ourRating); watchedDetails += `<div class="date-badge" style="margin-top: 0; width: fit-content; color: ${rColor}; border-color: ${rColor}; box-shadow: 0 0 10px rgba(0,0,0,0.5); padding: 3px 9px;">Наша оценка: ${movie.ourRating}</div>`; }
-                }
-                if (movie.cried) watchedDetails += `<div class="date-badge" style="margin-top: 0; width: fit-content; font-family: var(--font-title); font-size: 11px; letter-spacing: 1px; color: #a0c4ff; border-color: #a0c4ff; padding: 2px 10px 2px 7px;"><svg width="18" height="18" viewBox="0 0 24 24" fill="#a0c4ff" stroke="#a0c4ff" stroke-width="1"><path d="M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z"></path></svg> Слёзы</div>`;
             }
+
+            // ВНЕДРЕНО: Кнопка ТГ ПОСТ для списка
+            const telegramLink = movie.postUrl;
+            if (telegramLink) {
+                watchedDetails += `<a href="${escapeHTML(telegramLink)}" target="_blank" class="tg-list-btn" onclick="event.stopPropagation();"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 2L11 13"></path><polygon points="22 2 15 22 11 13 2 9 22 2"></polygon></svg> ТГ ПОСТ </a>`;
+            }
+
+            if (isWatched && movie.ourRating && movie.ourRating !== "Без оценки") {
+                const parsedRating = parseFloat(movie.ourRating);
+                if (parsedRating === 1000) watchedDetails += `<div class="date-badge legendary-badge" style="margin-top: 0; width: fit-content; flex-direction: column; gap: 2px; padding: 4px 14px; line-height: 1.1;"><span style="font-size: 9px; text-transform: uppercase; opacity: 0.9;">Наша оценка:</span><span style="font-size: 14px; font-family: var(--font-title);">1000</span></div>`;
+                else { const rColor = getRatingColor(movie.ourRating); watchedDetails += `<div class="date-badge" style="margin-top: 0; width: fit-content; color: ${rColor}; border-color: ${rColor}; box-shadow: 0 0 10px rgba(0,0,0,0.5); padding: 3px 9px;">Наша оценка: ${movie.ourRating}</div>`; }
+            }
+            if (isWatched && movie.cried) watchedDetails += `<div class="date-badge" style="margin-top: 0; width: fit-content; font-family: var(--font-title); font-size: 11px; letter-spacing: 1px; color: #a0c4ff; border-color: #a0c4ff; padding: 2px 10px 2px 7px;"><svg width="18" height="18" viewBox="0 0 24 24" fill="#a0c4ff" stroke="#a0c4ff" stroke-width="1"><path d="M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z"></path></svg> Слёзы</div>`;
             
             if (movie.isTheme) watchedDetails += `<div class="date-badge" style="margin-top: 0; width: fit-content; background: rgba(75, 0, 130, 0.8); color: var(--gold-light); border: 1px solid var(--gold-main); box-shadow: 0 0 10px rgba(75, 0, 130, 0.4); text-transform: uppercase; font-weight: 900; letter-spacing: 1px; padding: 3px 6px; font-size: 11px;">Тем. Неделя</div>`;
             if (movie.isMarvel) watchedDetails += `<div class="date-badge" style="margin-top: 0; width: fit-content; background: #8a0b0b; color: var(--gold-light); border: 1px solid var(--gold-main); box-shadow: 0 0 10px rgba(230, 36, 41, 0.4); text-transform: uppercase; letter-spacing: 1px; padding: 1px 11px 1px 10px; font-family: var(--font-title); text-shadow: 0 0 5px rgba(0, 0, 0, 0.8); font-size: 13px;">MARVEL</div>`;
@@ -894,7 +935,7 @@
             runtimeDisplay += `</div>`;
 
             const userColor = stringToColor(cleanNick);
-            let avatarMarkup = movie.userAvatar && movie.userAvatar.startsWith('http') ? `<img src="${movie.userAvatar}" class="card-user-avatar" alt="">` : `<div class="card-user-avatar" style="background-color: ${userColor};">${getInitials(cleanNick)}</div>`;
+            let avatarMarkup = movie.userAvatar && movie.userAvatar.startsWith('http') ? `<img src="${movie.userAvatar}" class="req-avatar" alt="">` : `<div class="req-avatar" style="background-color: ${userColor};">${getInitials(cleanNick)}</div>`;
             
             const auctionHTML = movie.isAuction ? `<div class="date-badge" style="margin-top: 8px; color: var(--gold-main); border-color: var(--gold-main); background: rgba(0,0,0,0.6); font-size: 11px; text-transform: uppercase; letter-spacing: 2px; font-weight: 900;">✦ Аукцион ✦</div>` : '';
             const seasonHTML = movie.requestedSeason > 0 ? `<div class="date-badge" style="margin-top: 8px; color: var(--gold-light); border-color: var(--gold-main); font-size: 12px;">${movie.requestedSeason} сезон</div>` : '';
@@ -950,7 +991,11 @@
             }
 
             const cleanNick = movie.requestedBy.replace('@', '').trim();
-            const posterUrl = getSafePoster(movie.poster);
+            
+            // ВНЕДРЕНО: Альтернативный постер
+            const rawPoster = movie.altPoster && movie.altPoster.trim() !== "" ? movie.altPoster : movie.poster;
+            const posterUrl = getSafePoster(rawPoster);
+            
             const isWatched = movie.status === "Смотрели";
             
             const baseTitle = movie.title || 'Безымянный';
@@ -990,7 +1035,19 @@
 
             const hasBannedStudios = movie.studios && movie.studios.includes('🔴');
             const bannedDotMarkup = hasBannedStudios ? `<div class="banned-dot" title="Запрещенная студия!"></div>` : '';
-            const copyBtnClass = hasBannedStudios ? 'card-copy-btn shifted' : 'card-copy-btn';
+
+            // ВНЕДРЕНО: Кнопка ТГ ПОСТ для карточек + расчет отступов
+            let baseBottom = hasBannedStudios ? 32 : 8;
+            const telegramLink = movie.postUrl;
+            
+            const tgButtonMarkup = telegramLink ? `<a href="${escapeHTML(telegramLink)}" target="_blank" class="card-tg-btn" title="Telegram Пост" onclick="event.stopPropagation();" style="bottom: ${baseBottom}px;">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="22" y1="2" x2="11" y2="13"></line><polygon points="22 2 15 22 11 13 2 9 22 2"></polygon></svg>
+            </a>` : '';
+
+            let copyBtnBottom = telegramLink ? baseBottom + 40 : baseBottom;
+            const copyBtnMarkup = `<button class="card-copy-btn" onclick="copyMovieNameFromTable(event, '${safeTitleForCopy}', '${movie.year || ''}', this)" title="Перо Летописца" style="bottom: ${copyBtnBottom}px;">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19l7-7 3 3-7 7-3-3z"></path><path d="M18 13l-1.5-7.5L2 2l3.5 14.5L13 18l5-5z"></path><path d="M2 2l7.586 7.586"></path><circle cx="11" cy="11" r="2"></circle></svg>
+            </button>`;
 
             let displayType = escapeHTML(movie.type || 'Фильм');
             if (displayType.toLowerCase().includes('мульт')) displayType = 'Мульт';
@@ -1006,9 +1063,8 @@
                 <div class="card-top">
                     <img src="${posterUrl}" class="card-poster" onerror="handlePosterError(this)" alt="">
                     ${bannedDotMarkup}
-                    <button class="${copyBtnClass}" onclick="copyMovieNameFromTable(event, '${safeTitleForCopy}', '${movie.year || ''}', this)" title="Перо Летописца">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19l7-7 3 3-7 7-3-3z"></path><path d="M18 13l-1.5-7.5L2 2l3.5 14.5L13 18l5-5z"></path><path d="M2 2l7.586 7.586"></path><circle cx="11" cy="11" r="2"></circle></svg>
-                    </button>
+                    ${tgButtonMarkup}
+                    ${copyBtnMarkup}
                     <div class="card-overlay">
                         <div class="card-badges-top">
                             <div class="card-type-badge">${displayType}</div>
@@ -1122,9 +1178,9 @@
     }
 
     window.addEventListener('resize', () => {
-		autoResizeTitles();
-		renderView(); 
-	});
+        autoResizeTitles();
+        renderView(); 
+    });
 
     function openModal(index) {
         const movie = currentViewData[index]; currentModalMovie = movie; 
@@ -1148,8 +1204,10 @@
             heroEl.style.backgroundImage = `url("${fallbackBackdrop}")`;
         }
         
+        // ВНЕДРЕНО: Альтернативный постер в модальном окне
+        const rawPoster = movie.altPoster && movie.altPoster.trim() !== "" ? movie.altPoster : movie.poster;
         const posterEl = document.getElementById('modalPoster');
-        posterEl.src = getSafePoster(movie.poster);
+        posterEl.src = getSafePoster(rawPoster);
         posterEl.onerror = function() { handlePosterError(this); };
         
         const baseTitle = movie.title || 'Безымянный';
@@ -1172,8 +1230,22 @@
         if (movie.ageRating && movie.ageRating !== "Нет данных") badgesHtml += `<span class="outline-badge">${movie.ageRating}</span>`;
         badgesHtml += `<span class="outline-badge">ID №${movie.id || 0}</span>`;
         
-        if (movie.kinopoiskId && isOnlineBtnVisible) {
-            badgesHtml += `<a href="https://kinomix.web.app/movie/${movie.kinopoiskId}" target="_blank" class="watch-online-btn" style="margin-left: 4px;" onclick="event.stopPropagation();">Смотреть Онлайн</a>`;
+        // ВНЕДРЕНО: Кнопка «Смотреть онлайн» и кнопка «ТГ ПОСТ»
+        let nextLineBadges = '';
+        const telegramLink = movie.postUrl;
+        const hasOnlineBtn = movie.kinopoiskId && isOnlineBtnVisible;
+        
+        if (hasOnlineBtn) {
+            nextLineBadges += `<a href="https://kinomix.web.app/movie/${movie.kinopoiskId}" target="_blank" class="watch-online-btn" onclick="event.stopPropagation();">Смотреть Онлайн</a>`;
+        }
+        
+        if (telegramLink) {
+            const marginLeft = hasOnlineBtn ? 'margin-left: 6px;' : '';
+            nextLineBadges += `<a href="${escapeHTML(telegramLink)}" target="_blank" class="tg-modal-badge" style="${marginLeft}"><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-right:4px;"><line x1="22" y1="2" x2="11" y2="13"></line><polygon points="22 2 15 22 11 13 2 9 22 2"></polygon></svg> ТГ ПОСТ </a>`;
+        }
+
+        if (nextLineBadges !== '') {
+            badgesHtml += `<div style="flex-basis: 100%; height: 0; margin: 2px 0;"></div>` + nextLineBadges;
         }
         
         document.getElementById('modalBadges').innerHTML = badgesHtml;
