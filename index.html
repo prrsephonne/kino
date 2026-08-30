@@ -868,7 +868,7 @@
             const cleanNick = movie.requestedBy.replace('@', '').trim();
             const tr = document.createElement('tr'); tr.className = 'movie-row'; tr.onclick = () => openModal(index); 
             
-            // ВНЕДРЕНО: Альтернативный постер
+            
             const rawPoster = movie.altPoster && movie.altPoster.trim() !== "" ? movie.altPoster : movie.poster;
             const posterUrl = getSafePoster(rawPoster);
             const isWatched = movie.status === "Смотрели";
@@ -887,7 +887,7 @@
                 watchedDetails += `<div class="date-badge" style="margin-top: 0; width: fit-content;">${movie.dateWatched.split(' ')[0]}</div>`;
             }
 
-            // ВНЕДРЕНО: Кнопка ТГ ПОСТ для списка
+            
             const telegramLink = movie.postUrl;
             if (telegramLink) {
                 watchedDetails += `<a href="${escapeHTML(telegramLink)}" target="_blank" class="tg-list-btn" onclick="event.stopPropagation();"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 2L11 13"></path><polygon points="22 2 15 22 11 13 2 9 22 2"></polygon></svg> ТГ ПОСТ </a>`;
@@ -992,7 +992,7 @@
 
             const cleanNick = movie.requestedBy.replace('@', '').trim();
             
-            // ВНЕДРЕНО: Альтернативный постер
+            
             const rawPoster = movie.altPoster && movie.altPoster.trim() !== "" ? movie.altPoster : movie.poster;
             const posterUrl = getSafePoster(rawPoster);
             
@@ -1036,7 +1036,7 @@
             const hasBannedStudios = movie.studios && movie.studios.includes('🔴');
             const bannedDotMarkup = hasBannedStudios ? `<div class="banned-dot" title="Запрещенная студия!"></div>` : '';
 
-            // ВНЕДРЕНО: Кнопка ТГ ПОСТ для карточек + расчет отступов
+            
             let baseBottom = hasBannedStudios ? 32 : 8;
             const telegramLink = movie.postUrl;
             
@@ -1204,7 +1204,7 @@
             heroEl.style.backgroundImage = `url("${fallbackBackdrop}")`;
         }
         
-        // ВНЕДРЕНО: Альтернативный постер в модальном окне
+        
         const rawPoster = movie.altPoster && movie.altPoster.trim() !== "" ? movie.altPoster : movie.poster;
         const posterEl = document.getElementById('modalPoster');
         posterEl.src = getSafePoster(rawPoster);
@@ -1230,7 +1230,7 @@
         if (movie.ageRating && movie.ageRating !== "Нет данных") badgesHtml += `<span class="outline-badge">${movie.ageRating}</span>`;
         badgesHtml += `<span class="outline-badge">ID №${movie.id || 0}</span>`;
         
-        // ВНЕДРЕНО: Кнопка «Смотреть онлайн» и кнопка «ТГ ПОСТ»
+        
         let nextLineBadges = '';
         const telegramLink = movie.postUrl;
         const hasOnlineBtn = movie.kinopoiskId && isOnlineBtnVisible;
